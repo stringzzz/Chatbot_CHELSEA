@@ -250,7 +250,7 @@ while userMessage != "//exit":
 			continue
 			
 	#Tell CHELSEA what she is or is not and see if there's agreement according to her self memory
-	match1 = re.search(r"(?:you are|you're) (not )?(.*)", userMessage)
+	match1 = re.search(r"(?:are you|you are|you're) (not )?([a-z ]*)\?*", userMessage)
 	if (match1):
 		if (not(match1.group(1))):
 			breakout = False
