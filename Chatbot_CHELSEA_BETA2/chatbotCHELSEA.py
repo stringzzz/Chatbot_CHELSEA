@@ -270,8 +270,9 @@ while userMessage != "//exit":
 					break
 			if (breakout):
 				continue
-			self['iam'].append(match1.group(2))		
-			Xchatlog.append("CHELSEA (Thinking): Learned new 'I am'.")
+			if (not(re.search(r"are you[a-z ]*\?*", userMessage))):
+				self['iam'].append(match1.group(2))		
+				Xchatlog.append("CHELSEA (Thinking): Learned new 'I am'.")
 		else:
 			breakout = False
 			for iamnot in self['iamnot']:
@@ -290,8 +291,9 @@ while userMessage != "//exit":
 					break
 			if (breakout):
 				continue
-			self['iamnot'].append(match1.group(2))		
-			Xchatlog.append("CHELSEA (Thinking): Learned new 'I am not'.")
+			if (not(re.search(r"are you[a-z ]*\?*", userMessage))):
+				self['iamnot'].append(match1.group(2))		
+				Xchatlog.append("CHELSEA (Thinking): Learned new 'I am not'.")
 		
 	#Deal with current user's identity properties	
 	match1 = re.search(r"(?:i am|i'm) (not )?(.*)", userMessage)
