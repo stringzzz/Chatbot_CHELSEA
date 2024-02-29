@@ -346,7 +346,7 @@ while userMessage != "//exit":
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")
 				
 	#Filter out punctuation from user message and split to list of words
-	messageWords = (re.sub(r"(\.|\?|\!|,)", "", userMessage)).split(" ")
+	messageWords = (re.sub(r"([^a-z0-9 ])", '', userMessage)).split(" ")
 
 	#Detect emotion words, get reply mood, add user reply emotional values to CHELSEA's emotional values
 	unknownWords = []
