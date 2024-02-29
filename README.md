@@ -3,6 +3,10 @@ This is Chatbot CHELSEA (CHat Emotion Logic SEnse Automator)
 
 CHELSEA is directly based off of my other chatbot, OPHELIA.
 Note that the Math Logic is still not fully tested, but everything else seems to be working the way it should.
+If choosing to start with almost blank memory, copy the 3 files from 'starter_memory_files' to the directory of the python scripts.
+If choosing to use my own chatbot's memory (Inherited from OPHELIA), copy the 3 files from 'my_memory_files' to the directory of the python scripts.
+
+
 Here is the algortihm for how CHELSEA deals with the user's message:
 
 
