@@ -7,6 +7,9 @@ If choosing to start with almost blank memory, copy the 3 files from 'starter_me
 If choosing to use my own chatbot's memory (Inherited from OPHELIA), copy the 3 files from 'my_memory_files' to the directory of the python scripts.
 
 
+This is a video demonstration of talking to CHELSEA: https://youtu.be/Bnj1BKqHE8Q?si=-trZHkzN2HoSdB1h
+
+
 Here is the algortihm for how CHELSEA deals with the user's message:
 
 
