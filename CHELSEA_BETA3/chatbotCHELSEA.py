@@ -31,37 +31,45 @@
 #
 # 3. Detect if asking what she is or is not
 #
-# 4. Detect if telling what she is or is not, learn accordingly
+# 4. Detect if asking what user is or is not
+#
+# 5. Detect if telling what she is or is not, learn accordingly
 # Also detect if contradiction to what she already knows
 #
-# 5. Detect if current user describing what they are or are not
+# 6. Detect if current user describing what they are or are not
 # Learn accordingly, detect if contradiction to what she already knows
 #
-# 6. Split message into words, remove punctuation
+# 7. Split message into words, remove punctuation
 # Determine mood of reply, add counts to CHELSEA mood as well
 #
-# 7. Mark unkown words in message
+# 8. Mark unkown words in message
 #
-# 8. Add to counts for each word, adjust the tied emotion to them accordingly
+# 9. Add to counts for each word, adjust the tied emotion to them accordingly
 #
-# 9. Take each word and associate all other (non-neutral) words in message 
+# 10. Take each word and associate all other (non-neutral) words in message 
 # with them (Barely useful for now, will do something with this later)
 #
-# 10. Check for an exact match of message, give linked response if so
+# 11. Add to running counts of all words in conversation
+# Get topic(s) of conversation by the maximum value
 #
-# 11. Check if message matches as part of a message in memory,
+# 12. Check for an exact match of message, give linked response if so
+#
+# 13. Check if message matches as part of a message in memory,
 # give linked reponse if so
 #
-# 12. If certain # or greater messages and words in dictionary, PRNG to
+# 14. If certain # or greater messages and words in dictionary, PRNG to
+# determine if attempting topic match. 
+#
+# 15. If certain # or greater messages and words in dictionary, PRNG to
 # determine if doing single term match. If so, coin flip to determine whether
 # trying to match single word from message as part of message in memory,
 # or single word associated with word from message. Repond with linked 
 # response if so
 #
-# 13. No match, overwrite old message in memory or learn brand new message/response pair
+# 16. No match, overwrite old message in memory or learn brand new message/response pair
 #
-# 14. Respond with random response from memory to keep conversation going
-#########################################   
+# 17. Respond with random response from memory to keep conversation going
+######################################### 
 
 import random
 import re
