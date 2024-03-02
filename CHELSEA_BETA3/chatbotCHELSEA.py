@@ -366,7 +366,7 @@ while userMessage != "//exit":
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")
 				
 	#Filter out punctuation from user message and split to list of words
-	messageWords = (re.sub(r"([^a-z0-9 ])", '', userMessage)).split(" ")
+	messageWords = (re.sub(r"([^a-z0-9 '])", '', userMessage)).split(" ")
 
 	#Detect emotion words, get reply mood, add user reply emotional values to CHELSEA's emotional values
 	unknownWords = []
@@ -482,7 +482,7 @@ while userMessage != "//exit":
 		continue
 		
 	#Check for match with current topic
-	if (not(len(topics.keys()) == 0) and (dictionaryCount >= 400 and responseCount >= 200 and random.randint(1, 4) == 1) or (dictionaryCount >= 1000 and responseCount >= 500 and random.randint(1, 3) == 1)):
+	if (not(len(topics.keys()) == 0) and (dictionaryCount >= 600 and responseCount >= 350 and random.randint(1, 4) == 1) or (dictionaryCount >= 2500 and responseCount >= 1200 and random.randint(1, 3) == 1)):
 		for message in temp_message_keys:
 			topics_found = True
 			for topic in current_topics:
