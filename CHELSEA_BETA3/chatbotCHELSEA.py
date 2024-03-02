@@ -19,7 +19,7 @@
 # Project Start Date: 02-20-2024
 # Version 0.04 (Not fully tested): 02-27-2024
 # Version 0.05 (All tested except Math Logic) 02-28-2024
-# Version 0.06 (Added current topic logic) 03-01-2024
+# Version 0.06 (Added current topic logic) 03-02-2024
 
 ##############################################
 ## Chatbot CHELSEA message handling algorithm 
@@ -528,13 +528,16 @@ while userMessage != "//exit":
 			for word in messageWords:
 				temp_words = []
 				try:
-					temp_words = dictionary[word]['associated']
+					temp_words = dictionary[word]['associated'][:]
 				except(KeyError):
 					continue
 				if (len(temp_words) == 1 and temp_words[0] == ''):
 					continue
 					
+				random.shuffle(temp_words)
 				for word2 in temp_words:
+					if (word2 == ''):
+						continue
 					try:
 						if (dictionary[word2]['emotion'] == "temp neutral" or dictionary[word2]['emotion'] == "permanent neutral"):
 							continue
