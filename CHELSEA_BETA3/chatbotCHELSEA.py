@@ -208,10 +208,10 @@ try:
 		user_emotions[emotion] = int(user_file.readline())
 	user_file.readline() #Skip to next line
 	line = user_file.readline()
-	if line != 'none':
+	if line.strip() != 'none':
 		user_self['uam'] = line.strip().split("&%&%")
 	line = user_file.readline()
-	if line != 'none':
+	if line.strip() != 'none':
 		user_self['uamnot'] = line.strip().split("&%&%")
 	user_file.close()
 except(FileNotFoundError):
