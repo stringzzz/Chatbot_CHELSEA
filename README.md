@@ -77,20 +77,21 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  12. Check for an exact match of message, give linked response if so
 
 
+ 13. Check if user is asking WH-Question, give possible answer response if so
 
- 13. Check if message matches as part of a message in memory,
 
+ 14. Check if message matches as part of a message in memory,
  give linked reponse if so
 
 
 
- 14. If certain  or greater messages and words in dictionary, PRNG to
+ 15. If certain  or greater messages and words in dictionary, PRNG to
 
  determine if attempting topic match. 
 
 
 
- 15. If certain  or greater messages and words in dictionary, PRNG to
+ 16. If certain  or greater messages and words in dictionary, PRNG to
 
  determine if doing single term match. If so, coin flip to determine whether
 
@@ -102,10 +103,10 @@ Here is the algortihm for how CHELSEA deals with the user's message:
 
 
 
- 16. No match, overwrite old message in memory or learn brand new message/response pair
+ 17. No match, overwrite old message in memory or learn brand new message/response pair
 
 
 
- 17. Respond with random response from memory to keep conversation going
+ 18. Respond with random response from memory to keep conversation going
 
  
