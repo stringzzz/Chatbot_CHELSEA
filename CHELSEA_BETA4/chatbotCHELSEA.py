@@ -504,7 +504,7 @@ while userMessage != "//exit":
 		
 	#Check for partial match under current mood
 	for message in temp_message_keys:
-		if message.find(partial_message) != -1:
+		if message.find(userMessage) != -1:
 			Xchatlog.append("CHELSEA (Thinking): Partial message match found.")
 			CHELSEAPreviousResponse = botReply(messageDict[currentMood["mood"]][message])
 			responseMade = True
