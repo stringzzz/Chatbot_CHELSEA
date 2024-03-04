@@ -669,10 +669,13 @@ chatlogOutput(chatlogFile["regular"], chatlog)
 chatlogOutput(chatlogFile["extended"], Xchatlog)
 
 #Output CHELSEA data file
-data_file = open("CHELSEAdata.txt", 'w')
+data_file = open("/home/stringzzz/aChatbotCHELSEA/A_CHELSEA_MAIN/CHELSEAdata.txt", 'w')
 data_file.write(username + "\nWords in emotion dictionary: " + str(len(dictionary.keys())) + "\n")
+message_count = 0
 for emotion in nEmotions:
+	message_count += len(messageDict[emotion])
 	data_file.write("Number of " + emotion + " message/response pairs: " + str(len(messageDict[emotion])) + "\n")
+data_file.write("Total message/response pairs: " + str(message_count))
 data_file.close()
 
 #Output user profile (With educated guess emotional state) and user self properties
