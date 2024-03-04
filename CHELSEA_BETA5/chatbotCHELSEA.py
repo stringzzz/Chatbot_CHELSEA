@@ -279,7 +279,7 @@ while userMessage != "//exit":
 			continue
 			
 	#Tell CHELSEA what she is or is not and see if there's agreement according to her self memory
-	match1 = re.search(r"(?:are you|you are|you're) (not )?([a-z ]*)\?*", userMessage)
+	match1 = re.search(r"(?:are you|you are|you're) (not )?([a-z '\-]*)\?*", userMessage)
 	if (match1):
 		if (not(match1.group(1))):
 			breakout = False
@@ -299,7 +299,7 @@ while userMessage != "//exit":
 					break
 			if (breakout):
 				continue
-			if (not(re.search(r"are you[a-z ]*\?*", userMessage))):
+			if (not(re.search(r"are you[a-z '\-]*\?*", userMessage))):
 				self['iam'].append(match1.group(2))		
 				Xchatlog.append("CHELSEA (Thinking): Learned new 'I am'.")
 		else:
@@ -320,7 +320,7 @@ while userMessage != "//exit":
 					break
 			if (breakout):
 				continue
-			if (not(re.search(r"are you[a-z ]*\?*", userMessage))):
+			if (not(re.search(r"are you[a-z '\-]*\?*", userMessage))):
 				self['iamnot'].append(match1.group(2))		
 				Xchatlog.append("CHELSEA (Thinking): Learned new 'I am not'.")
 		
@@ -477,7 +477,7 @@ while userMessage != "//exit":
 	
 	#Check for possible matching answer to WH-Question in both keys and values under current mood
 	responseMade = False
-	whq_match_object = re.search(r"(?:who|what|when|where|why|how|which|whose|whom) (is|are) ([a-z ']+)\?*$", userMessage)
+	whq_match_object = re.search(r"(?:who|what|when|where|why|how|which|whose|whom) (is|are) ([a-z '\-]+)\?*$", userMessage)
 
 	temp_message_keys = list(messageDict[currentMood["mood"]].keys())
 	random.shuffle(temp_message_keys) #Note, this shuffled list is potentially re-used in other parts of the script
