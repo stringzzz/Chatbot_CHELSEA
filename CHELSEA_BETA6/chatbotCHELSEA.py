@@ -630,10 +630,28 @@ while userMessage != "//exit":
 		better_emotion2 = getMood2(temp_dict2, False)
 		
 		if (better_emotion1 == 'happy' and better_emotion2 == 'happy'):
-			Xchatlog.append("CHELSEA (Thinking): Found like both.")
-			CHELSEAPreviousResponse = botReply("i like both " + better_match.group(1) + ' & ' + better_match.group(2))
-			responseMade = True
-			continue
+			Xchatlog.append("CHELSEA (Thinking): Found like both, determining which more.")
+			happy_count1 = 0
+			happy_count2 = 0
+			for word in better_words1:
+				happy_count1 += dictionary[word]['happy']
+			for word in better_words2:
+				happy_count2 += dictionary[word]['happy']
+			if (happy_count1 > happy_count2):
+				Xchatlog.append("CHELSEA (Thinking): Determined I like first option better.")
+				CHELSEAPreviousResponse = botReply("i like both, but " + better_match.group(1) + ' most')
+				responseMade = True
+				continue
+			elif (happy_count2 > happy_count1):
+				Xchatlog.append("CHELSEA (Thinking): Determined I like second option better.")
+				CHELSEAPreviousResponse = botReply("i like both, but " + better_match.group(2) + ' most')
+				responseMade = True
+				continue
+			else:	
+				Xchatlog.append("CHELSEA (Thinking): Determined I like both equally.")
+				CHELSEAPreviousResponse = botReply("i like both " + better_match.group(1) + ' & ' + better_match.group(2) + ' the same')
+				responseMade = True
+				continue
 		elif (better_emotion1 == 'happy' and better_emotion2 != 'happy'):
 			Xchatlog.append("CHELSEA (Thinking): Found like first.")
 			CHELSEAPreviousResponse = botReply("i like " + better_match.group(1) + ' better ')
