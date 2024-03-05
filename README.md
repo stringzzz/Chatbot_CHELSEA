@@ -45,41 +45,43 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  11. Add to running counts of all words in conversation
  Get topic(s) of conversation by the maximum value
 
- 12. Check for an exact match of message, give linked response if so
+ 12. Check if user is asking What Question, give possible answer response if so
 
- 13. Check if user is asking What Question, give possible answer response if so
-
- 14. Check if user asking for clarification on previous response,
+ 13. Check if user asking for clarification on previous response,
  try to find matching message containing 2 or more words from
  previous response
 
- 15. Check if asking what CHELSEA feels about ___,
+ 14. Check if asking what CHELSEA feels about ___,
  respond according to the tied emotions with the words in ___
 
- 16. Check if asking 'do you like/dislike ___' question
+ 15. Check if asking 'do you like/dislike ___' question
  respond according to tied emotions to words in ___,
  agreement or disagreement depends on emotion and like/dislike
  word used
 
- 17. Check if asking 'which is better, _1_ or _2_'
+ 16. Check if asking 'which is better, _1_ or _2_'
  Used emotions tied to the words to decide which CHELSEA likes better,
  or indifferent if neither is tied to happy overall
+ 12. Check for an exact match of message, give linked response if so
 
- 18. Check if message matches as part of a message in memory,
+ 17. Check if asking 'why is' question, try to find match involving
+ 'because' words a possible answer
+
+ 18. Check for an exact match of message, give linked response if so
+
+ 19. Check if message matches as part of a message in memory,
  give linked reponse if so
 
- 19. If certain  or greater messages and words in dictionary, PRNG to
+ 20. If certain  or greater messages and words in dictionary, PRNG to
  determine if attempting topic match. 
 
- 20. If certain  or greater messages and words in dictionary, PRNG to
+ 21. If certain  or greater messages and words in dictionary, PRNG to
  determine if doing single term match. If so, coin flip to determine whether
  trying to match single word from message as part of message in memory,
  or single word associated with word from message. Repond with linked 
  response if so
 
- 21. No match, overwrite old message in memory or learn brand new message/response pair
+ 22. No match, overwrite old message in memory or learn brand new message/response pair
 
- 22. Respond with random response from memory to keep conversation going
+ 23. Respond with random response from memory to keep conversation going
    
-
- 
