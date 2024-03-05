@@ -15,6 +15,7 @@ Here is the algortihm for how CHELSEA deals with the user's message:
 
 
 
+
  Chatbot CHELSEA message handling algorithm 
 
  1. User enters message
@@ -84,4 +85,4 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  22. No match, overwrite old message in memory or learn brand new message/response pair
 
  23. Respond with random response from memory to keep conversation going
-   
+  
