@@ -54,41 +54,45 @@
 # 11. Add to running counts of all words in conversation
 # Get topic(s) of conversation by the maximum value
 #
-# 12. Check for an exact match of message, give linked response if so
+# 12. Check if user is asking What Question, give possible answer response if so
 #
-# 13. Check if user is asking What Question, give possible answer response if so
-#
-# 14. Check if user asking for clarification on previous response,
+# 13. Check if user asking for clarification on previous response,
 # try to find matching message containing 2 or more words from
 # previous response
 #
-# 15. Check if asking what CHELSEA feels about ___,
+# 14. Check if asking what CHELSEA feels about ___,
 # respond according to the tied emotions with the words in ___
 #
-# 16. Check if asking 'do you like/dislike ___' question
+# 15. Check if asking 'do you like/dislike ___' question
 # respond according to tied emotions to words in ___,
 # agreement or disagreement depends on emotion and like/dislike
 # word used
 #
-# 17. Check if asking 'which is better, _1_ or _2_'
+# 16. Check if asking 'which is better, _1_ or _2_'
 # Used emotions tied to the words to decide which CHELSEA likes better,
 # or indifferent if neither is tied to happy overall
+# 12. Check for an exact match of message, give linked response if so
 #
-# 18. Check if message matches as part of a message in memory,
+# 17. Check if asking 'why is' question, try to find match involving
+# 'because' words a possible answer
+#
+# 18. Check for an exact match of message, give linked response if so
+#
+# 19. Check if message matches as part of a message in memory,
 # give linked reponse if so
 #
-# 19. If certain # or greater messages and words in dictionary, PRNG to
+# 20. If certain # or greater messages and words in dictionary, PRNG to
 # determine if attempting topic match. 
 #
-# 20. If certain # or greater messages and words in dictionary, PRNG to
+# 21. If certain # or greater messages and words in dictionary, PRNG to
 # determine if doing single term match. If so, coin flip to determine whether
 # trying to match single word from message as part of message in memory,
 # or single word associated with word from message. Repond with linked 
 # response if so
 #
-# 21. No match, overwrite old message in memory or learn brand new message/response pair
+# 22. No match, overwrite old message in memory or learn brand new message/response pair
 #
-# 22. Respond with random response from memory to keep conversation going
+# 23. Respond with random response from memory to keep conversation going
 #########################################   
 
 import random
@@ -479,16 +483,7 @@ while userMessage != "//exit":
 		current_topics = [k for k, v in topics.items() if v == temp_highest]
 		Xchatlog.append("CHELSEA (Thinking): Current topic(s) is/are " + " & ".join(current_topics))
 	
-	#Check for exact match under current mood
-	try:
-		messageDict[currentMood["mood"]][userMessage]
-		Xchatlog.append("CHELSEA (Thinking): Exact message match found.")
-		CHELSEAPreviousResponse = botReply(messageDict[currentMood["mood"]][userMessage])
-		continue
-	except(KeyError):
-		pass #Exact match not found in message dictionary
-	
-	#Check for possible matching answer to What Question in both keys and values under current mood
+		#Check for possible matching answer to What Question in both keys and values under current mood
 	responseMade = False
 	whq_match_object = re.search(r"what (is|are) ([a-z '\-]+)\?*$", userMessage)
 
@@ -502,6 +497,8 @@ while userMessage != "//exit":
 		
 		#Check values
 		for message in temp_message_values:
+			if (message == CHELSEAPreviousResponse):
+				continue
 			if message.find(partial_message) != -1:
 				Xchatlog.append("CHELSEA (Thinking): WH-Q question match found in values.")
 				CHELSEAPreviousResponse = botReply(message)
@@ -511,6 +508,8 @@ while userMessage != "//exit":
 			continue
 		#Check keys
 		for message in temp_message_keys:
+			if (message == CHELSEAPreviousResponse):
+				continue
 			if message.find(partial_message) != -1:
 				Xchatlog.append("CHELSEA (Thinking): WH-Q question match found in keys.")
 				CHELSEAPreviousResponse = botReply(message)
@@ -667,6 +666,62 @@ while userMessage != "//exit":
 			CHELSEAPreviousResponse = botReply("i don't prefer either " + better_match.group(1) + ' or ' + better_match.group(2))
 			responseMade = True
 			continue
+			
+	#Check for 'why is' question match
+	whyis_match = re.search(r"why (?:is|are) ([a-z0-9, '\-]+)\?*$", userMessage)
+	if (whyis_match):
+		whyis_words = (re.sub(r"([^a-z0-9 '\-])", '', whyis_match.group(1))).split(" ")
+		temp_message_values = list(messageDict[currentMood["mood"]].values())
+		random.shuffle(temp_message_values)
+
+		#Check values
+		for message in temp_message_values:
+			because_match = re.search(r"([a-z0-9, '\-]+) (because|as|as a result of|by cause of|by reason of|by virtue of|considering|due to|for the reason that|owing to|since|thanks to)", message)
+			if (because_match):
+				match_count = 0
+				for word in whyis_words:
+					if ((because_match.group(1)).find(word) != -1):
+						match_count += 1
+					else:
+						break
+					if (match_count == len(whyis_words)):
+						Xchatlog.append("CHELSEA (Thinking): Possible answer to 'why is' question match found in values for: " + " ".join(whyis_words))
+						CHELSEAPreviousResponse = botReply(message)
+						responseMade = True
+						break
+				if responseMade:
+					break
+		if responseMade:
+			continue
+
+		#Check keys
+		for message in temp_message_keys:
+			because_match = re.search(r"([a-z0-9, '\-]+) (because|as|as a result of|by cause of|by reason of|by virtue of|considering|due to|for the reason that|owing to|since|thanks to)", message)
+			if (because_match):
+				match_count = 0
+				for word in whyis_words:
+					if ((because_match.group(1)).find(word) != -1):
+						match_count += 1
+					else:
+						break
+					if (match_count == len(whyis_words)):
+						Xchatlog.append("CHELSEA (Thinking): Possible answer to 'why is' question match found in keys for: " + " ".join(whyis_words))
+						CHELSEAPreviousResponse = botReply(message)
+						responseMade = True
+						break
+				if responseMade:
+					break
+		if responseMade:
+			continue
+	
+	#Check for exact match under current mood
+	try:
+		messageDict[currentMood["mood"]][userMessage]
+		Xchatlog.append("CHELSEA (Thinking): Exact message match found.")
+		CHELSEAPreviousResponse = botReply(messageDict[currentMood["mood"]][userMessage])
+		continue
+	except(KeyError):
+		pass #Exact match not found in message dictionary
 			
 	#Check for partial match under current mood
 	for message in temp_message_keys:
