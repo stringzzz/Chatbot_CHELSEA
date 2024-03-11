@@ -14,7 +14,7 @@
 #   You should have received a copy of the GNU General Public License
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Chatbot CHELSEA: CHat Emotion Logic SEnse Automator (0.09) (BETA)
+# Chatbot CHELSEA: CHat Emotion Logic SEnse Automator (0.10) (BETA)
 # Project Start Date: 02-20-2024
 # Version 0.04 (Not fully tested): 02-27-2024
 # Version 0.05 (All tested except Math Logic) 02-28-2024
@@ -108,7 +108,6 @@ from datetime import datetime
 from CHELSEA_MATH_LOGIC import CHELSEA_Math_Logic
 
 dictionary = {}
-dictionary_keys_list = ['happy', 'angry', 'sad', 'afraid', 'emotion', 'seen', 'associated']
 messageDict = {}
 nEmotions = ["happy", "angry", "sad", "afraid"]
 currentMood = {"mood": "happy", "happy": 0, "angry": 0, "sad": 0, "afraid": 0, "pitch": 90, "speed": 150}
