@@ -13,8 +13,7 @@ This is a video demonstration of talking to CHELSEA: https://youtu.be/p6TWgLfKwv
 Here is the algortihm for how CHELSEA deals with the user's message:
 
 
-
-
+  
 
  Chatbot CHELSEA message handling algorithm 
 
@@ -41,7 +40,9 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  9. Add to counts for each word, adjust the tied emotion to them accordingly
 
  10. Take each word and associate all other (non-neutral) words in message 
- with them (Barely useful for now, will do something with this later)
+ with them (Either start or add to count)
+ Comes into play in matching single associated word with highest count, or select
+ one randomly from list of highest
 
  11. Add to running counts of all words in conversation
  Get topic(s) of conversation by the maximum value
@@ -67,22 +68,24 @@ Here is the algortihm for how CHELSEA deals with the user's message:
 
  17. Check if asking 'why is' question, try to find match involving
  'because' words a possible answer
+ 
+ 18. Check for 'most __emotion__' question, respond with biggest word(s) tied to emotion
 
- 18. Check for an exact match of message, give linked response if so
+ 19. Check for an exact match of message, give linked response if so
 
- 19. Check if message matches as part of a message in memory,
+ 20. Check if message matches as part of a message in memory,
  give linked reponse if so
 
- 20. If certain  or greater messages and words in dictionary, PRNG to
+ 21. If certain  or greater messages and words in dictionary, PRNG to
  determine if attempting topic match. 
 
- 21. If certain  or greater messages and words in dictionary, PRNG to
+ 22. If certain  or greater messages and words in dictionary, PRNG to
  determine if doing single term match. If so, coin flip to determine whether
  trying to match single word from message as part of message in memory,
  or single word associated with word from message. Repond with linked 
  response if so
 
- 22. No match, overwrite old message in memory or learn brand new message/response pair
+ 23. No match, overwrite old message in memory or learn brand new message/response pair
 
- 23. Respond with random response from memory to keep conversation going
-  
+ 24. Respond with random response from memory to keep conversation going
+   
