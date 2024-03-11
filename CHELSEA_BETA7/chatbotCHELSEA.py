@@ -81,23 +81,23 @@
 # 
 # 18. Check for 'most __emotion__' question, respond with biggest word(s) tied to emotion
 #
-# 18. Check for an exact match of message, give linked response if so
+# 19. Check for an exact match of message, give linked response if so
 #
-# 19. Check if message matches as part of a message in memory,
+# 20. Check if message matches as part of a message in memory,
 # give linked reponse if so
 #
-# 20. If certain # or greater messages and words in dictionary, PRNG to
+# 21. If certain # or greater messages and words in dictionary, PRNG to
 # determine if attempting topic match. 
 #
-# 21. If certain # or greater messages and words in dictionary, PRNG to
+# 22. If certain # or greater messages and words in dictionary, PRNG to
 # determine if doing single term match. If so, coin flip to determine whether
 # trying to match single word from message as part of message in memory,
 # or single word associated with word from message. Repond with linked 
 # response if so
 #
-# 22. No match, overwrite old message in memory or learn brand new message/response pair
+# 23. No match, overwrite old message in memory or learn brand new message/response pair
 #
-# 23. Respond with random response from memory to keep conversation going
+# 24. Respond with random response from memory to keep conversation going
 #########################################   
 
 import random
