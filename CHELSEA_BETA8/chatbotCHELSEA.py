@@ -439,7 +439,10 @@ while userMessage != "//exit":
 		
 	#Get counts for words in current conversation				
 	for word in messageWords:
-		if (dictionary[word]['emotion'] == 'permanent neutral' or dictionary[word]['emotion'] == 'temp neutral'):
+		try:
+			if (dictionary[word]['emotion'] == 'permanent neutral' or dictionary[word]['emotion'] == 'temp neutral'):
+				continue
+		except(KeyError):
 			continue
 		try:
 			topics[word] += 1
