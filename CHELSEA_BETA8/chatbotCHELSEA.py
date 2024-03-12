@@ -785,7 +785,7 @@ while userMessage != "//exit":
 		continue
 		
 	#Check for match with current topic or depth match (Coin flip)
-	if (not(len(topics.keys()) == 0) and (dictionaryCount >= 600 and responseCount >= 350 and random.randint(1, 4) == 1) or (dictionaryCount >= 2500 and responseCount >= 1200 and random.randint(1, 3) == 1)):
+	if ((not(len(topics.keys()) == 0) and (dictionaryCount >= 2500 and responseCount >= 1200 and random.randint(1, 3) == 1)) or (not(len(topics.keys()) == 0) and (dictionaryCount >= 600 and dictionaryCount < 2500 and responseCount >= 350 and responseCount < 1200 and random.randint(1, 4) == 1))):
 		if (len(depth_words) >= 2 and random.randint(1, 2) == 1):
 			#Depth match
 			for message in temp_message_keys:
@@ -829,7 +829,7 @@ while userMessage != "//exit":
 		
 	#Check for single term match under current mood, ignore neutral words
 	#Only activated when she has learned enough, though this can easily be adjusted
-	if ((dictionaryCount >= 2000 and responseCount >= 500 and random.randint(1, 4) == 1) or (dictionaryCount >= 4500 and responseCount >= 2700 and random.randint(1, 3) == 1)):
+	if ((dictionaryCount >= 4500 and responseCount >= 2700 and random.randint(1, 3) == 1) or (dictionaryCount >= 2000 and dictionaryCount < 4500 and responseCount >= 500 and responseCount < 2700 and random.randint(1, 4) == 1)):
 		responseMade = False
 		#Coin flip
 		if (random.randint(1, 2) == 1):
