@@ -101,7 +101,7 @@
 # 24. No match, overwrite old message in memory or learn brand new message/response pair
 #
 # 25. Respond with random response from memory to keep conversation going
-######################################### 
+#########################################   
 
 import random
 import re
@@ -363,7 +363,7 @@ while userMessage != "//exit":
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")					
 				
 	#Filter out punctuation from user message and split to list of words
-	messageWords = (re.sub(r"([^a-z0-9 '\-])", '', userMessage)).split(" ")
+	messageWords = (re.sub(r"([^a-z '\-])", '', userMessage)).split(" ")
 
 	#Detect emotion words, get reply mood, add user reply emotional values to CHELSEA's emotional values
 	unknownWords = []
@@ -459,8 +459,8 @@ while userMessage != "//exit":
 	if (len(previous_pairs) == 3):
 		temp_depth_words = {}		
 		for pair in previous_pairs:
-			temp_messages = (re.sub(r"([^a-z0-9 '\-])", '', pair[0])).split(" ")
-			temp_responses = (re.sub(r"([^a-z0-9 '\-])", '', pair[1])).split(" ")
+			temp_messages = (re.sub(r"([^a-z '\-])", '', pair[0])).split(" ")
+			temp_responses = (re.sub(r"([^a-z '\-])", '', pair[1])).split(" ")
 			for word1 in temp_messages:
 				if (dictionary[word1]['emotion'] == "permanent neutral" or dictionary[word1]['emotion'] == "temp neutral"):
 					continue
@@ -511,7 +511,7 @@ while userMessage != "//exit":
 	#Check for question about previous message meaning
 	meaning_match = re.search(r"(what (do you|does that) mean|(can you|(do you|can you) care to) clarify|I('m| am) confused|I do( not|n't) (understand|get( it)?)( what you mean| what (that|this) means)?|why (do|did) you (say|think) (that|this))\?*$", userMessage)
 	if (meaning_match):
-		previous_words = (re.sub(r"([^a-z0-9 '\-])", '', CHELSEAPreviousResponse)).split(" ")
+		previous_words = (re.sub(r"([^a-z '\-])", '', CHELSEAPreviousResponse)).split(" ")
 		random.shuffle(previous_words)
 		for message in temp_message_keys:
 			if (message == CHELSEAPreviousResponse):
@@ -546,7 +546,7 @@ while userMessage != "//exit":
 	#Ask what CHELSEA feels about ___
 	feel_about_match = re.search(r"(?:how|what) do you (?:feel|think) (?:about|toward(?:s)?) ([a-z0-9, '\-]+)\?*$", userMessage)
 	if (feel_about_match):
-		feel_words = (re.sub(r"([^a-z0-9 '\-])", '', feel_about_match.group(1))).split(" ")
+		feel_words = (re.sub(r"([^a-z '\-])", '', feel_about_match.group(1))).split(" ")
 		temp_dict = { 'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0 }
 		for word in feel_words:
 			if (dictionary[word]['emotion'] == 'temp neutral' or dictionary[word]['emotion'] == 'permanent neutral'):
@@ -569,7 +569,7 @@ while userMessage != "//exit":
 	if (like_match):
 		like_terms = ['like', 'love', 'enjoy', 'adore', 'appreciate']
 		dislike_terms = ['dislike', 'hate', 'loathe', 'detest', 'despise']
-		like_words = (re.sub(r"([^a-z0-9 '\-])", '', like_match.group(2))).split(" ")
+		like_words = (re.sub(r"([^a-z '\-])", '', like_match.group(2))).split(" ")
 		temp_dict = { 'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0 }
 		for word in like_words:
 			if (dictionary[word]['emotion'] == 'temp neutral' or dictionary[word]['emotion'] == 'permanent neutral'):
@@ -602,7 +602,7 @@ while userMessage != "//exit":
 	#Ask which is better, 1 or 2?
 	better_match = re.search(r"(?:which|what) (?:is (?:better,? ?|best,? ?)|do you (?:like (?:better,? ?|best,? ?|more,? ?))) ([a-z0-9, '\-]+) or ([a-z0-9, '\-]+)\?*$", userMessage)
 	if (better_match):
-		better_words1 = (re.sub(r"([^a-z0-9 '\-])", '', better_match.group(1))).split(" ")
+		better_words1 = (re.sub(r"([^a-z '\-])", '', better_match.group(1))).split(" ")
 		temp_dict1 = { 'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0 }
 		for word in better_words1:
 			if (dictionary[word]['emotion'] == 'temp neutral' or dictionary[word]['emotion'] == 'permanent neutral'):
@@ -610,7 +610,7 @@ while userMessage != "//exit":
 			temp_dict1[dictionary[word]['emotion']] += 1
 		better_emotion1 = getMood2(temp_dict1, False)
 
-		better_words2 = (re.sub(r"([^a-z0-9 '\-])", '', better_match.group(2))).split(" ")
+		better_words2 = (re.sub(r"([^a-z '\-])", '', better_match.group(2))).split(" ")
 		temp_dict2 = { 'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0 }
 		for word in better_words2:
 			if (dictionary[word]['emotion'] == 'temp neutral' or dictionary[word]['emotion'] == 'permanent neutral'):
@@ -660,7 +660,7 @@ while userMessage != "//exit":
 	#Check for 'why is' question match
 	whyis_match = re.search(r"why (?:is|are) ([a-z0-9, '\-]+)\?*$", userMessage)
 	if (whyis_match):
-		whyis_words = (re.sub(r"([^a-z0-9 '\-])", '', whyis_match.group(1))).split(" ")
+		whyis_words = (re.sub(r"([^a-z '\-])", '', whyis_match.group(1))).split(" ")
 		temp_message_values = list(messageDict[currentMood["mood"]].values())
 		random.shuffle(temp_message_values)
 
