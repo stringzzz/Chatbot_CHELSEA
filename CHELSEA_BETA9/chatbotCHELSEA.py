@@ -100,7 +100,7 @@
 # or single word associated with word from message. Repond with linked 
 # response if so
 #
-# 24. No match, overwrite old message in memory or learn brand new message/response pair
+# 24. No match, add response to list in message memory or learn brand new message/response pair
 #
 # 25. Respond with random response from memory to keep conversation going
 #########################################   
@@ -894,7 +894,7 @@ while user_message != "//exit":
 				continue
 				 	
 			
-	#No match, either overwrite old response or learn new one based on reply mood
+	#No match, either add to list of responses or learn new one based on reply mood
 	Xchatlog.append("CHELSEA (Thinking): Message not recognized.")
 	try:
 		message_dict2[reply_mood["mood"]][CHELSEA_previous_response]
