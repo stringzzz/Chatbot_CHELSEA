@@ -94,7 +94,7 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  or single word associated with word from message. Repond with linked 
  response if so
 
- 24. No match, overwrite old message in memory or learn brand new message/response pair
+ 24. No match, add response to list in message memory or learn brand new message/response pair
 
  25. Respond with random response from memory to keep conversation going
  
