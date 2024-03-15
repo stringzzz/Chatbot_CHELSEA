@@ -362,7 +362,7 @@ whilege != "//exit":
 			user_self['uamnot'].append(match1.group(2))		
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")					
 				
-		#Filter certain chars from userMessage
+	#Filter certain chars from userMessage
 	user_message = re.sub(r"([^a-z0-9, \"'\-\?])", '', user_message)
 				
 	#Filter out punctuation from user message and split to list of words
