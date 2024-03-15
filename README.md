@@ -10,6 +10,12 @@ If choosing to use my own chatbot's memory (Inherited from OPHELIA), copy the 3 
 This is a video demonstration of talking to CHELSEA: https://youtu.be/p6TWgLfKwvE
 
 
+Note: The directories with 2 chatbots talking to each other use the old memory file format, they are not compatible with the newer version of CHELSEA,
+ and vice-versa. That being said, everything that's included in the directory works fine for those double chats. I will be making an updated version
+ of the double chat for CHELSEA and her copy, Dasha, that works with the new json memory file format.
+
+
+
 Here is the algortihm for how CHELSEA deals with the user's message:
 
 
