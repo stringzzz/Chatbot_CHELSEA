@@ -14,7 +14,7 @@
 #   You should have received a copy of the GNU General Public License
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Chatbot CHELSEA: CHat Emotion Logic SEnse Automator (0.11) (BETA)
+# Chatbot CHELSEA: CHat Emotion Logic SEnse Automator (0.12) (BETA)
 # Project Start Date: 02-20-2024
 # Version 0.04 (Not fully tested): 02-27-2024
 # Version 0.05 (All tested except Math Logic) 02-28-2024
@@ -24,6 +24,7 @@
 # Version 0.09 (Added more question logic, some other small changes) 03-05-2024
 # Version 0.10 (Added counts for all associated words and converted file i/o to json) 03-10-2024
 # Version 0.11 ('depth match', uses matching words from previous 3 msg/resp. pairs) 03-11-2024
+# Version 0.12 (Cleaned inconsistent var cases, added detection of exclaim for emphasis) 03-15-2024
 
 ##############################################
 ## Chatbot CHELSEA message handling algorithm 
@@ -219,18 +220,18 @@ CHELSEA_previous_response = "hello"
 botReply("hello, " + username)
 
 #Chat loop
-whilege != "//exit":
+while user_message != "//exit":
 
 	#User reply
 	print(username + ": ", end = '')
 	user_message = (input("")).lower()
-	chatlog.append(username + ": " +ge)
-	Xchatlog.append("\n" + username + ": " +ge)
-	ifge == "//exit":
+	chatlog.append(username + ": " + user_message)
+	Xchatlog.append("\n" + username + ": " + user_message)
+	if user_message == "//exit":
 		break
 		
 	#Math comprehension logic
-	m1 = re.search(r"what does ([a-zA-Z0-9\(\)\*/\^\-\+ ,]*) (equal|=)\??",ge)
+	m1 = re.search(r"what does ([a-zA-Z0-9\(\)\*/\^\-\+ ,]*) (equal|=)\??", user_message)
 	if (m1):
 		Xchatlog.append("CHELSEA (Thinking): Was asked a math question.")
 		math_output = CHELSEA_Math_Logic(m1)
@@ -363,8 +364,15 @@ whilege != "//exit":
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")					
 				
 	#Filter certain chars from userMessage
-	user_message = re.sub(r"([^a-z0-9, \"'\-\?])", '', user_message)
-				
+	user_message = re.sub(r"([^a-z0-9, \"'\-\?!])", '', user_message)
+	
+	#Detect exclamation points at end of user_message to add emotional emphasis (Multiply counts by (exclaim_count + 1))
+	exclaim_count = 1
+	exclaim_match = re.search(r"(!+)$", user_message)
+	if (exclaim_match):
+		Xchatlog.append("CHELSEA (Thinking): Exclamation detected, exclaim count: " + str(len(exclaim_match.group(1))))
+		exclaim_count = len(exclaim_match.group(1)) + 1
+	
 	#Filter out punctuation from user message and split to list of words
 	message_words = (re.sub(r"([^a-z0-9 '\-])", '', user_message)).split(" ")
 
@@ -378,8 +386,8 @@ whilege != "//exit":
 			continue
 		try:
 			if (dictionary[word]['emotion'] != "permanent neutral" and dictionary[word]['emotion'] != "temp neutral"):
-				reply_mood[dictionary[word]['emotion']] += 1
-				user_self[dictionary[word]['emotion']] += 1
+				reply_mood[dictionary[word]['emotion']] += (1 * exclaim_count)
+				user_self[dictionary[word]['emotion']] += (1 * exclaim_count)
 				word_emotions = word_emotions + dictionary[word]['emotion'] + " "
 			else: 
 				word_emotions = word_emotions + " neutral "
@@ -406,7 +414,7 @@ whilege != "//exit":
 				continue
 		except(KeyError):
 			continue
-		dictionary[word][reply_mood["mood"]] += 1
+		dictionary[word][reply_mood["mood"]] += 1  * exclaim_count
 		temp_dict = { 'happy': dictionary[word]['happy'], 'angry': dictionary[word]['angry'], 'sad': dictionary[word]['sad'], 'afraid': dictionary[word]['afraid'] }
 		word_emotion = getMood2(temp_dict, False)
 		if (word_emotion != dictionary[word]['emotion']):
@@ -445,9 +453,9 @@ whilege != "//exit":
 		except(KeyError):
 			continue
 		try:
-			topics[word] += 1
+			topics[word] += (1 * exclaim_count)
 		except(KeyError):
-			topics[word] = 1
+			topics[word] = (1 * exclaim_count)
 	
 	#Get current topics of the conversation by the highest counts
 	if (not(len(topics.keys()) == 0)):
