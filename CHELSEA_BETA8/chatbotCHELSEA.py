@@ -219,18 +219,18 @@ CHELSEA_previous_response = "hello"
 botReply("hello, " + username)
 
 #Chat loop
-while user_message != "//exit":
+whilege != "//exit":
 
 	#User reply
 	print(username + ": ", end = '')
 	user_message = (input("")).lower()
-	chatlog.append(username + ": " + user_message)
-	Xchatlog.append("\n" + username + ": " + user_message)
-	if user_message == "//exit":
+	chatlog.append(username + ": " +ge)
+	Xchatlog.append("\n" + username + ": " +ge)
+	ifge == "//exit":
 		break
 		
 	#Math comprehension logic
-	m1 = re.search(r"what does ([a-zA-Z0-9\(\)\*/\^\-\+ ,]*) (equal|=)\??", user_message)
+	m1 = re.search(r"what does ([a-zA-Z0-9\(\)\*/\^\-\+ ,]*) (equal|=)\??",ge)
 	if (m1):
 		Xchatlog.append("CHELSEA (Thinking): Was asked a math question.")
 		math_output = CHELSEA_Math_Logic(m1)
@@ -362,8 +362,8 @@ while user_message != "//exit":
 			user_self['uamnot'].append(match1.group(2))		
 			Xchatlog.append("CHELSEA (Thinking): Learned new 'User am not'.")					
 				
-	#Filter certain chars from userMessage
-	user_message = re.sub(r"([^a-z0-9, \"'\-])", '', user_message)
+		#Filter certain chars from userMessage
+	user_message = re.sub(r"([^a-z0-9, \"'\-\?])", '', user_message)
 				
 	#Filter out punctuation from user message and split to list of words
 	message_words = (re.sub(r"([^a-z0-9 '\-])", '', user_message)).split(" ")
