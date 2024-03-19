@@ -119,7 +119,7 @@ def botReply(botResponse):
 	#Do the various parts of CHELSEA's response, text output, text-to-speech with espeak, chatlogs
 	print("CHELSEA: " + botResponse + "\n" + username + ": ", end ='')
 	chatlog.append("CHELSEA: " + botResponse)
-	Xchatlog.append("\n\nCHELSEA: " + botResponse)
+	Xchatlog.append("CHELSEA: " + botResponse)
 	return botResponse
 
 def chatlogOutput(chatlogFile, chatList):
@@ -888,6 +888,7 @@ while not quit_chat:
 		#Initial message
 		CHELSEA_previous_response = "hello"
 		print("CHELSEA: hello, " + username + "\n" + username + ": ", end ='')
+		Xchatlog.append("CHELSEA: hello")
 		speak_text = "hello, " + username
 		speaking_done = False
 		speaking = False
@@ -938,6 +939,7 @@ while not quit_chat:
 	if (user_message_input!= '//exit' and user_message_input!= None and not(donot_respond)):
 		#Place speak_text = message_handler(user_message_input)
 		#FLAG
+		Xchatlog.append("\n\n" + username + ": " + user_message_input)
 		speak_text = message_handler(user_message_input)
 		speaking_done = False
 		speaking = False
@@ -988,4 +990,3 @@ while not quit_chat:
 	if (blink_index == len(eye_sprites)):
 		blink_index = 0
 		blinking = False		
-
