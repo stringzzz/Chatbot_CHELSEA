@@ -951,17 +951,27 @@ while not quit_chat:
 		speaking_done = False
 		threading.Thread(target=Speak, args=(), daemon=True).start()
 		
-	if (value % 40 == 0 and value != 0):
+	if (value % 62 == 0 and value != 0):
 		blinking = True
 	
-	if value >= 80:
+	if value >= 124:
 		value = 0
+	
+	#Animate mouth if speaking
+	if (not(speaking_done) and speaking):
+		mouth_index += 1
+	else:
+		mouth_index = 0
 		
 	if mouth_index >= len(mouth_sprites):
 		mouth_index = 0
-		
-	# Setting the framerate to 10fps
-	clock.tick(10)
+	
+	#Animate eyes if blinking
+	if (blinking):
+		blink_index += 1
+	if (blink_index == len(eye_sprites)):
+		blink_index = 0
+		blinking = False
 
 	#Deal with mouth and eye sprites
 	mouth = mouth_sprites[mouth_index]
@@ -977,16 +987,4 @@ while not quit_chat:
 	# Updating the display surface
 	pygame.display.update()
 
-	value += 1
-	#Animate mouth if speaking
-	if (not(speaking_done)):
-		mouth_index += value % len(mouth_sprites)
-	else:
-		mouth_index = 0
-	
-	#Animate eyes if blinking
-	if (blinking):
-		blink_index += 1
-	if (blink_index == len(eye_sprites)):
-		blink_index = 0
-		blinking = False		
+	value += 1			
