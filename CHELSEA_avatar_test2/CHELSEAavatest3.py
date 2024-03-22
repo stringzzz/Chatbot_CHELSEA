@@ -951,10 +951,10 @@ while not quit_chat:
 		speaking_done = False
 		threading.Thread(target=Speak, args=(), daemon=True).start()
 		
-	if (value % 32 == 0):
+	if (value % 40 == 0 and value != 0):
 		blinking = True
 	
-	if value >= 64:
+	if value >= 80:
 		value = 0
 		
 	if mouth_index >= len(mouth_sprites):
