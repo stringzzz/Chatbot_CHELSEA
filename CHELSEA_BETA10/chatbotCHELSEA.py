@@ -522,7 +522,9 @@ while user_message != "//exit":
 				message_dict2[reply_mood["mood"]][CHELSEA_previous_response].append(user_message)
 				Xchatlog.append("CHELSEA (Thinking): Deleted unanswered what is/are question.")
 				del unanswered_questions[CHELSEA_previous_response]
-				unanswered_question_asked = False
+			else:
+				Xchatlog.append("CHELSEA (Thinking): Unanswered question still not answered, moving on.")		
+	unanswered_question_asked = False
 	
 	#Check for possible matching answer to What Question in both keys and values under current mood
 	response_made = False
