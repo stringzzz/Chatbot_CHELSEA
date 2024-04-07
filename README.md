@@ -6,8 +6,10 @@ Note that the Math Logic is still not fully tested, but everything else seems to
 If choosing to start with almost blank memory, copy the 3 files from 'starter_memory_files' to the directory of the python scripts.
 If choosing to use my own chatbot's memory (Inherited from OPHELIA), copy the 3 files from 'my_memory_files' to the directory of the python scripts.
 
+IMPORTANT: If you are viewing this repo for the first time and want to jump into working with this chatbot, it would be best to just download the highest 'BETA#' version directory, it has everything you need and is current. Some things in the highest version may still be experimental, so there may be some uncaught bugs, just to warn you.
 
-This is a video demonstration of talking to CHELSEA: https://youtu.be/p6TWgLfKwvE
+
+This is a video demonstration of talking to CHELSEA: https://youtu.be/8tlWXGgrxCo?si=wmqwHlWXvzgXSySX
 
 
 Note: The directories with 2 chatbots talking to each other use the old memory file format, they are not compatible with the newer version of CHELSEA,
