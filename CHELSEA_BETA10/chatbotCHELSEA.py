@@ -518,10 +518,12 @@ while user_message != "//exit":
 			answer = re.search(re.compile("(" + question_word + " (is|are) [a-z '\-]+)"), user_message)
 			if (answer):
 				Xchatlog.append("CHELSEA (Thinking): Answered what is/are question.")
+				temp_question = CHELSEA_previous_response
+				CHELSEA_previous_response = re.sub(r"(is/are)", answer.group(2), CHELSEA_previous_response)
 				message_dict2[reply_mood["mood"]][CHELSEA_previous_response] = []
 				message_dict2[reply_mood["mood"]][CHELSEA_previous_response].append(user_message)
 				Xchatlog.append("CHELSEA (Thinking): Deleted unanswered what is/are question.")
-				del unanswered_questions[CHELSEA_previous_response]
+				del unanswered_questions[temp_question]
 			else:
 				Xchatlog.append("CHELSEA (Thinking): Unanswered question still not answered, moving on.")		
 	unanswered_question_asked = False
