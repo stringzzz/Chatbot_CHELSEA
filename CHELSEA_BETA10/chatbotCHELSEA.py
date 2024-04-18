@@ -949,7 +949,7 @@ while user_message != "//exit":
 		Xchatlog.append("CHELSEA (Thinking): Added to '" + reply_mood["mood"] + "' responses.")
 		message_dict2[reply_mood["mood"]][CHELSEA_previous_response].append(user_message)
 
-	if (random.randint(1, 3) == 1 and len(list(unanswered_questions.keys())) > 0):
+	if (random.randint(1, 6) == 1 and len(list(unanswered_questions.keys())) > 0):
 		#Ask unanswered question
 		Xchatlog.append("CHELSEA (Thinking): Asked random what is/are question, waiting for valid answer.")
 		CHELSEA_previous_response = botReply(random.choice(list(unanswered_questions.keys())))
