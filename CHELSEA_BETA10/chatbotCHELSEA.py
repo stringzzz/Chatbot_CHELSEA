@@ -986,7 +986,7 @@ for emotion in nEmotions:
 	message_count += len(message_dict2[emotion])
 	data_file.write("Number of " + emotion + " message/response pairs: " + str(len(message_dict2[emotion])) + "\n")
 data_file.write("Total message/response pairs: " + str(message_count))
-data_file.write("\nNumber of unanwered questions: " + str(len(unanswered_questions.keys())))
+data_file.write("\nNumber of unanswered questions: " + str(len(unanswered_questions.keys())))
 data_file.close()
 
 #Output user profile (With educated guess emotional state) and user self properties
