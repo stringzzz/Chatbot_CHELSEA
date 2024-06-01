@@ -8,6 +8,7 @@ If choosing to use my own chatbot's memory (Inherited from OPHELIA), copy the 3 
 
 IMPORTANT: If you are viewing this repo for the first time and want to jump into working with this chatbot, it would be best to just download the highest 'BETA#' version directory, it has everything you need and is current. Some things in the highest version may still be experimental, so there may be some uncaught bugs, just to warn you.
 
+IMPORTANTER!!!: To save what CHELSEA just learned from chat, enter '//exit' without the single quotes to exit the chat and retain her memory.
 
 This is a video demonstration of talking to CHELSEA: https://youtu.be/8tlWXGgrxCo?si=wmqwHlWXvzgXSySX
 
