@@ -515,7 +515,7 @@ while user_message != "//exit":
 		question_word = re.search(r"what is/are ([a-z '\-]+)", CHELSEA_previous_response)
 		if (question_word):
 			question_word = question_word.group(1)
-			answer = re.search(re.compile("(" + question_word + " (is|are) [a-z '\-]+)"), user_message)
+			answer = re.search(re.compile("(" + question_word + " (is|are) [a-z '-]+)"), user_message)
 			if (answer):
 				Xchatlog.append("CHELSEA (Thinking): Answered what is/are question.")
 				temp_question = CHELSEA_previous_response
@@ -780,23 +780,23 @@ while user_message != "//exit":
 	max1 = []
 	temp_emotion = ''
 	happy_words = ['happy', 'contented', 'content', 'cheerful', 'cheery', 'merry', 'joyful', 'jovial', 'jolly', 'gleeful', 'delighted', 'joyous', 'thrilled', 'exuberant', 'elated', 'exhilarated', 'ecstatic', 'blissful', 'overjoyed']
-	m1 = re.search(re.compile("what makes you most (" + "|".join(happy_words) + ")\?*$"), user_message)
+	m1 = re.search(re.compile("what makes you most (" + "|".join(happy_words) + ")?*$"), user_message)
 	if (m1):
 		max1 = getMost(dictionary, 'happy')
 		temp_emotion = 'happy'
 		
 	angry_words = ['angry', 'frustrated', 'irate', 'vexed', 'irritated', 'exasperated', 'indignant', 'aggrieved', 'irked', 'piqued', 'displeased', 'provoked', 'galled', 'resentful', 'furious', 'enraged', 'infuriated', 'raging', 'incandescent', 'wrathful', 'fuming', 'ranting', 'raving', 'seething', 'frenzied', 'beside oneself', 'outraged', 'choleric', 'crabby', 'waspish', 'hostile', 'antagonistic', 'mad', 'livid', 'boiling', 'riled', 'aggravated', 'sore', 'ticked off', 'ill-tempered', 'acrimonious']
-	m1 = re.search(re.compile("what makes you most (" + "|".join(angry_words) + ")\?*$"), user_message)
+	m1 = re.search(re.compile("what makes you most (" + "|".join(angry_words) + ")?*$"), user_message)
 	if (m1):
 		max1 = getMost(dictionary, 'angry')
 		temp_emotion = 'angry'
 	sad_words = ['sad', 'unhappy', 'sorrowful', 'depressed', 'downcast', 'miserable', 'glum', 'gloomy', 'dismal', 'blue', 'melancholy']
-	m1 = re.search(re.compile("what makes you most (" + "|".join(sad_words) + ")\?*$"), user_message)
+	m1 = re.search(re.compile("what makes you most (" + "|".join(sad_words) + ")?*$"), user_message)
 	if (m1):
 		max1 = getMost(dictionary, 'sad')
 		temp_emotion = 'sad'
 	afraid_words = ['afraid', 'frightened', 'scared', 'terrified', 'fearful', 'petrified', 'nervous', 'worried', 'panicky', 'timid', 'spooked']
-	m1 = re.search(re.compile("what makes you most (" + "|".join(afraid_words) + ")\?*$"), user_message)
+	m1 = re.search(re.compile("what makes you most (" + "|".join(afraid_words) + ")?*$"), user_message)
 	if (m1):
 		max1 = getMost(dictionary, 'afraid')
 		temp_emotion = 'afraid'	
