@@ -1,5 +1,13 @@
 This is Chatbot CHELSEA (CHat Emotion Logic SEnse Automator)
 
+###################################################
+
+10-03-2024
+After spending quite some time away from this project I've decided to start working on CHELSEA again. I'm going much deeper into learning the Python language, so my plan is to first clean up CHELSEA a bit, then
+begin finding ways to add more features to make CHELSEA more intelligent and capable. I've dropped the animated avatar code for now, only because I would have to learn Blender to make a better one, and I
+don't really want to learn that just for that one purpose. 
+
+###################################################
 
 CHELSEA is directly based off of my other chatbot, OPHELIA.
 Note that the Math Logic is still not fully tested, but everything else seems to be working the way it should.
@@ -13,9 +21,6 @@ IMPORTANTER!!!: To save what CHELSEA just learned from chat, enter '//exit' with
 This is a video demonstration of talking to CHELSEA: https://youtu.be/8tlWXGgrxCo?si=wmqwHlWXvzgXSySX
 
 
-Note: The directories with 2 chatbots talking to each other use the old memory file format, they are not compatible with the newer version of CHELSEA,
- and vice-versa. That being said, everything that's included in the directory works fine for those double chats. I will be making an updated version
- of the double chat for CHELSEA and her copy, Dasha, that works with the new json memory file format.
 
 
 
