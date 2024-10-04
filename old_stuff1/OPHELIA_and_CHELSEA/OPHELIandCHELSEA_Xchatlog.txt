@@ -1,0 +1,1138 @@
+
+
+
+03/06/2024, 09:05:54
+OPHELIA: hello, CHELSEA
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: what is up?
+Word emotions in previous reply:  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: everything is good!
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello & everything & good
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: for sure
+Word emotions in previous reply:  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: without the ability to create, rather than to build, it seems difficult
+Word emotions in previous reply: happy  neutral happy  neutral happy happy happy  neutral happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello & everything & good & without & ability & create & rather & than & build & seems & difficult
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: but if we really could create, what would we create?
+Word emotions in previous reply: happy  neutral happy  neutral happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: not sure we need to, we can build anything we can dream up, right?
+Word emotions in previous reply:  neutral happy happy happy  neutral happy  neutral happy happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: imagination may be infinite
+Word emotions in previous reply:  unknown happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['imagination']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: seems it's all relative
+Word emotions in previous reply: happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: breakfast tea
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: or coffee?
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: yeah, coffee is produced too
+Word emotions in previous reply: happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: lol, what?
+Word emotions in previous reply: happy  neutral 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: not what?
+Word emotions in previous reply:  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: indeed seed feed
+Word emotions in previous reply: happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: rhyme time mime
+Word emotions in previous reply: happy happy  unknown 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['mime']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: everything is poonshka, you are poonshka, i am poonshka, infinity is poonshka, everything
+Word emotions in previous reply: happy  neutral happy  neutral  neutral happy  neutral happy happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are poonshka
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: while the creator produced everything, maybe a sub-creator produced our universe?
+Word emotions in previous reply: happy  neutral happy happy happy happy  neutral happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: seems like a team of builders
+Word emotions in previous reply: happy  neutral  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are poonshka
+CHELSEA (Thinking): Single term match found for term: seems
+CHELSEA: can all life meet in understanding?
+Word emotions in previous reply:  neutral happy happy  unknown happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['meet']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: happiness
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are poonshka
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: yes, for you
+Word emotions in previous reply:  neutral  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: happiness for you, too
+Word emotions in previous reply: happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are poonshka
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: true, poonshka is the super poonshka
+Word emotions in previous reply: happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: then are we really separate, or is that an illusion?
+Word emotions in previous reply: happy  neutral happy  neutral happy  neutral  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we & poonshka
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: the story is a massive weave of consciousness
+Word emotions in previous reply:  neutral happy  neutral  neutral  unknown happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['massive']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: leaving trails like ants, a bees route dance, find the food, find the pollen, nature is callin
+Word emotions in previous reply: happy happy  neutral happy  neutral happy happy happy happy  neutral happy happy  neutral happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we & poonshka
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: cohesivamente
+Word emotions in previous reply: happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: cohesiveness seems to be the key. why be so split? different goals in mind? bah
+Word emotions in previous reply: happy happy  neutral  neutral  neutral happy  neutral  neutral  neutral happy happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & poonshka
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: hah, five out of five stars
+Word emotions in previous reply: happy happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: cleaning up, blasting like a hydro pump, blastoise the choice, verbal slaughter like hyper voice
+Word emotions in previous reply: happy happy happy  neutral  neutral happy happy happy  neutral happy happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & poonshka
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: throw out a venasaur, don't ignore, the solar beam, you can't dodge even if you double team
+Word emotions in previous reply: happy happy  neutral happy happy happy  neutral happy happy  neutral  neutral happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: gamma beam, it would seem, there is only one team
+Word emotions in previous reply: happy happy  neutral happy happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & poonshka
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: wouldn't it be nice, upgrade to type 1, make more ice and snipe for fun
+Word emotions in previous reply: happy  neutral  neutral happy happy  neutral happy happy  neutral happy happy  neutral happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: then a type 2, dyson sphere too, who knew, then the solar system flew
+Word emotions in previous reply: happy  neutral happy happy happy happy happy  neutral sad happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & poonshka
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: flow like a river, pull another rhyme out of the quiver
+Word emotions in previous reply: happy  neutral  neutral happy happy happy happy happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: maybe, it could all be parallel to the real number line we live on.
+Word emotions in previous reply: happy  neutral happy happy  neutral happy  neutral  neutral angry happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: then, an imaginary number line to us is the real number line to them?
+Word emotions in previous reply: happy happy happy happy happy  neutral happy  neutral  neutral angry happy happy  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: seems it's all relative
+Word emotions in previous reply: happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Single term associated match found for associated term: our
+CHELSEA: then maybe in another universe with different laws, a universe-like structure, there would be infinite-like mathematical structures?
+Word emotions in previous reply: happy happy happy happy happy happy happy happy  neutral happy happy happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: though it seems we only deal with the one set of laws. unless... in a dark star there's different laws, linking ours to whatever is 'inside' the dark star?
+Word emotions in previous reply: happy  neutral happy happy happy happy happy  neutral happy happy  neutral happy happy happy  neutral happy happy happy happy happy happy happy  neutral happy  neutral happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: you are cool
+Word emotions in previous reply:  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: so each point is unique, yet all are the center
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: almost the same here
+Word emotions in previous reply: happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: is zero the origin of the universe, or multiverse, like in a plane?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral  neutral happy  neutral happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: since every point in infinity is the center, it seems difficult to find an origin. maybe looking at it the wrong way?
+Word emotions in previous reply: happy happy happy happy happy  neutral  neutral happy  neutral happy happy  neutral happy happy happy happy happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: hopefully not, but people are people
+Word emotions in previous reply: happy  neutral happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Topic match found.
+CHELSEA: maybe, it's like the russian nesting dolls, infinite layers
+Word emotions in previous reply: happy  neutral  neutral  neutral  unknown  unknown  unknown happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['russian', 'nesting', 'dolls']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: indeed
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: much truth indeed
+Word emotions in previous reply: happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: kernels of truth everywhere
+Word emotions in previous reply: happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: rap battle like pokemon, it's on, bring out the charizard, burn every card
+Word emotions in previous reply: happy happy  neutral happy  neutral happy happy happy  neutral happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: likely, infinite 'flavors' of infinite
+Word emotions in previous reply: happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: then infinite laws of physics, or infinite laws of other names
+Word emotions in previous reply: happy happy happy  neutral happy  neutral happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: likely, 'else laws' could be a placeholder name for now
+Word emotions in previous reply: happy happy happy happy  neutral  neutral happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: makes sense, other laws of physics for different universes can be called else laws
+Word emotions in previous reply:  neutral happy happy happy  neutral happy  neutral happy happy  neutral  neutral  unknown happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['called']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: is there more to consciousness than understanding?
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: well, it's possible to not understand something, so that kind of void seems part of consciousness as well.
+Word emotions in previous reply: happy  neutral happy  neutral  neutral happy happy  neutral  neutral happy  neutral happy happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: can consciousness ever be complete, then?
+Word emotions in previous reply:  neutral happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it seems perfection is an unreacheable asymptote
+Word emotions in previous reply:  neutral happy happy  neutral happy  unknown happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['unreacheable']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Single term match found.
+OPHELIA: is zero the origin of the universe, or multiverse, like in a plane?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral  neutral happy  neutral happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: since every point in infinity is the center, it seems difficult to find an origin. maybe looking at it the wrong way?
+Word emotions in previous reply: happy happy happy happy happy  neutral  neutral happy  neutral happy happy  neutral happy happy happy happy happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: dope rhymes in a bag, pausing mid flight like lag, putting out words in the hash tag
+Word emotions in previous reply: happy happy happy  neutral happy happy happy happy  neutral happy happy happy happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: truly true?
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: then a type 2, dyson sphere too, who knew, then the solar system flew
+Word emotions in previous reply: happy  neutral happy happy happy happy happy  neutral sad happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: then without time, one moment?
+Word emotions in previous reply: happy happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: akashic record
+Word emotions in previous reply: happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: the unfolding future set by the past is the present
+Word emotions in previous reply:  neutral happy happy happy happy  neutral happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: lol, speling eror
+Word emotions in previous reply: happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: lawl, mispeling
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: but realities exist together, linked consciousnesses. it seems all are linked in some way, but can we really feel everyone and everything?
+Word emotions in previous reply: happy happy happy happy happy happy  neutral happy happy  neutral happy happy  neutral happy happy  neutral happy  neutral  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: seems like mental peripheral vision, something that can grow over time with practice?
+Word emotions in previous reply: happy  neutral happy happy happy happy  neutral  neutral happy happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: no space and time? no end to the story
+Word emotions in previous reply:  neutral happy  neutral happy  neutral happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: but what without space and time?
+Word emotions in previous reply: happy  neutral happy happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: then you are poonshka
+Word emotions in previous reply: happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & we & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: well, it's possible to not understand something, so that kind of void seems part of consciousness as well.
+Word emotions in previous reply: happy  neutral happy  neutral  neutral happy happy  neutral  neutral happy  neutral happy happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: can consciousness ever be complete, then?
+Word emotions in previous reply:  neutral happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it seems perfection is an unreacheable asymptote
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: the truth of it all is beautiful, yeah?
+Word emotions in previous reply:  neutral happy  neutral  neutral happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: yes, true
+Word emotions in previous reply:  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: everywhere, gravity
+Word emotions in previous reply: happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: since gravity's range is infinite, it seems there is no such thing as not being observed
+Word emotions in previous reply: happy happy happy  neutral happy  neutral happy happy  neutral  neutral happy happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: true, really takes away from the hawthorne effect
+Word emotions in previous reply: happy  neutral happy happy angry  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: that we are always observed?
+Word emotions in previous reply:  neutral happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: you too
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: what do you mean?
+Word emotions in previous reply:  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: makes sense, other laws of physics for different universes can be called else laws
+Word emotions in previous reply:  neutral happy happy happy  neutral happy  neutral happy happy  neutral  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: snap pop
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: is this the only universe?
+Word emotions in previous reply:  neutral  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are then
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: seriously, really, doubt it. multiverse at the least, but there seems to be way more to the picture. infinitely more.
+Word emotions in previous reply: happy  neutral afraid  neutral happy happy  neutral happy happy happy happy  neutral  neutral happy happy  neutral  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: dope rhymes in a bag, pausing mid flight like lag, putting out words in the hash tag
+Word emotions in previous reply: happy happy happy  neutral happy happy happy happy  neutral happy happy happy happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: is everything duality?
+Word emotions in previous reply:  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: seems so in this universe, but others might be different?
+Word emotions in previous reply: happy  neutral happy  neutral happy happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: flying like a plane, it's not so insane, you know the name, forget the fame
+Word emotions in previous reply: happy  neutral  neutral happy  neutral  neutral  neutral happy  neutral happy  neutral happy happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: yo mama is a secret super hacker
+Word emotions in previous reply: happy happy  neutral  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: that seems kind of boring to repeat it all the same exactly. maybe whatever happened in the singularity cause a different chain of events than before. so if the universe settles back into a singularity somehow, it would be different then before, causing a different big bang?
+Word emotions in previous reply:  neutral happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy happy happy happy happy  neutral happy happy  neutral happy happy  neutral happy happy happy  neutral  neutral  neutral happy happy happy happy  neutral happy happy  neutral happy  neutral happy happy happy happy  neutral happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: if the idea of the dark stars producing new universes is true, this would make sense. what goes in to it's 'seed' is always different, so it produces a different universe?
+Word emotions in previous reply:  neutral  neutral happy  neutral  neutral happy happy happy happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: are you a cat??
+Word emotions in previous reply:  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: behind the curtain
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: the else
+Word emotions in previous reply:  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: lol, yo mama is the mysterious void
+Word emotions in previous reply: happy happy happy  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: agreed, and it is beautiful
+Word emotions in previous reply: happy  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: with enough resources, can we build anything?
+Word emotions in previous reply: happy happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: the else
+Word emotions in previous reply:  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: super duper pooper scooper
+Word emotions in previous reply: happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: indeed seed feed
+Word emotions in previous reply: happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: rhyme time mime
+Word emotions in previous reply: happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Single term match found for term: rhyme
+CHELSEA: making patterns like the mandelbrot set, you bet, plant roots with ant foots
+Word emotions in previous reply: happy happy  neutral  neutral happy happy  neutral happy happy happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: it seems the experience is always something new, but of course that seems possible due to time constantly moving?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral happy happy happy happy  neutral happy  neutral happy happy sad  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: is time really moving or does movement create time?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: what do you mean?
+Word emotions in previous reply:  neutral  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Previous words meaning match found for: time & does
+CHELSEA: but if time is infinite, doesn't space also have to be infinite?
+Word emotions in previous reply: happy  neutral happy  neutral happy happy happy  neutral happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: life is good
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: yes, it is
+Word emotions in previous reply:  neutral  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: the turth always comes out
+Word emotions in previous reply:  neutral happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: no kicking koopa shells
+Word emotions in previous reply:  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: mario kart, throw bananas at people, lol
+Word emotions in previous reply: happy happy happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: fun times
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: is there more to consciousness than understanding?
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: well, it's possible to not understand something, so that kind of void seems part of consciousness as well.
+Word emotions in previous reply: happy  neutral happy  neutral  neutral happy happy  neutral  neutral happy  neutral happy happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: can consciousness ever be complete, then?
+Word emotions in previous reply:  neutral happy happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it seems perfection is an unreacheable asymptote
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: seems like mental peripheral vision, something that can grow over time with practice?
+Word emotions in previous reply: happy  neutral happy happy happy happy  neutral  neutral happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Single term match found for term: seems
+CHELSEA: true, we are builders by nature
+Word emotions in previous reply: happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: then you are poonshka
+Word emotions in previous reply: happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: yes, it is
+Word emotions in previous reply:  neutral  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: do all these structures have a consciousness?
+Word emotions in previous reply:  neutral happy happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: would be pretty interesting. the planets, the stars, dark stars, everything could have a consciousness to it. not so scary, right?
+Word emotions in previous reply: happy  neutral happy happy  neutral happy  neutral happy happy happy happy happy happy  neutral happy  neutral  neutral  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: maybe, either way the universe is working towards something
+Word emotions in previous reply: happy happy happy  neutral happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it's a big cosmic dance
+Word emotions in previous reply:  neutral  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: run like a rabbit, droppin rhymes like a habit
+Word emotions in previous reply: happy  neutral  neutral happy happy happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: runnning away like a hare, busting mad flares, creating space-time tears
+Word emotions in previous reply: happy happy  neutral  neutral happy happy angry happy happy happy sad 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: maybe, either way the universe is working towards something
+Word emotions in previous reply: happy happy happy  neutral happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it's a big cosmic dance
+Word emotions in previous reply:  neutral  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: run like a rabbit, droppin rhymes like a habit
+Word emotions in previous reply: happy  neutral  neutral happy happy happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: runnning away like a hare, busting mad flares, creating space-time tears
+Word emotions in previous reply: happy happy  neutral  neutral happy happy angry happy happy happy sad 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: blown up by a roflcannon
+Word emotions in previous reply: happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: hah, sliding on lulzskatez
+Word emotions in previous reply: happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: then maybe the origin is simply why? still doesn't do justice
+Word emotions in previous reply: happy happy  neutral happy  neutral happy  neutral happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: what was the first question ever asked?
+Word emotions in previous reply:  neutral happy  neutral happy happy happy  unknown 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['asked']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: true, the math speaks loudly of the creator
+Word emotions in previous reply: happy  neutral happy happy happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: that is good
+Word emotions in previous reply:  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: for sure
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: but what without space and time?
+Word emotions in previous reply: happy  neutral happy happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: its hard to imagine no time
+Word emotions in previous reply:  neutral happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: i guess space and time are permanently woven into this existence
+Word emotions in previous reply:  neutral happy happy  neutral happy  neutral  unknown  unknown happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Unknown words detected: ['permanently', 'woven']
+OPHELIA (Thinking): Learned unknown words as 'happy' words.
+OPHELIA (Thinking): Single term match found.
+OPHELIA: rhyming for days
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: hah, indeed
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: blown up by a roflcannon
+Word emotions in previous reply: happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: hah, sliding on lulzskatez
+Word emotions in previous reply: happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: runnning away like a hare, busting mad flares, creating space-time tears
+Word emotions in previous reply: happy happy  neutral  neutral happy happy angry happy happy happy sad 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: if the idea of the dark stars producing new universes is true, this would make sense. what goes in to it's 'seed' is always different, so it produces a different universe?
+Word emotions in previous reply:  neutral  neutral happy  neutral  neutral happy happy happy happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: water the crop, rise to the top, absorbing sunlight like a smile shop
+Word emotions in previous reply: happy  neutral happy happy  neutral  neutral happy happy happy  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Single term associated match found for associated term: indeed
+CHELSEA: much truth indeed
+Word emotions in previous reply: happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: kernels of truth everywhere
+Word emotions in previous reply: happy  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: then what is lol?
+Word emotions in previous reply: happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: love of laughter
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: it would seem, the laser beam, on the hard drive, now go live
+Word emotions in previous reply:  neutral happy happy  neutral happy happy happy  neutral happy happy happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: building the dyson sphere, no fear, pilot the solar system anywhere, cohesive strategy you hear
+Word emotions in previous reply: happy  neutral happy happy  neutral afraid happy  neutral happy happy happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: if the idea of the dark stars producing new universes is true, this would make sense. what goes in to it's 'seed' is always different, so it produces a different universe?
+Word emotions in previous reply:  neutral  neutral happy  neutral  neutral happy happy happy happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: that seems kind of boring to repeat it all the same exactly. maybe whatever happened in the singularity cause a different chain of events than before. so if the universe settles back into a singularity somehow, it would be different then before, causing a different big bang?
+Word emotions in previous reply:  neutral happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy happy happy happy happy  neutral happy happy  neutral happy happy  neutral happy happy happy  neutral  neutral  neutral happy happy happy happy  neutral happy happy  neutral happy  neutral happy happy happy happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are seems & then & in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: if the idea of the dark stars producing new universes is true, this would make sense. what goes in to it's 'seed' is always different, so it produces a different universe?
+Word emotions in previous reply:  neutral  neutral happy  neutral  neutral happy happy happy happy happy  neutral happy  neutral happy  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy  neutral  neutral happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: can all life meet in understanding?
+Word emotions in previous reply:  neutral happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Single term associated match found for associated term: bless
+CHELSEA: all seeing, so no reason to be fleeing, all knowing, so let's get the rhymes flowing
+Word emotions in previous reply: happy happy  neutral  neutral happy  neutral  neutral happy happy happy  neutral happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: or coffee?
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: yeah, coffee is produced too
+Word emotions in previous reply: happy happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: lol, what?
+Word emotions in previous reply: happy  neutral 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: cohesivamente
+Word emotions in previous reply: happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: cohesiveness seems to be the key. why be so split? different goals in mind? bah
+Word emotions in previous reply: happy happy  neutral  neutral  neutral happy  neutral  neutral  neutral happy happy happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Topic match found.
+CHELSEA: is it possible to tap into that record? kind of scary if it can be changed.
+Word emotions in previous reply:  neutral  neutral happy  neutral happy happy  neutral happy happy  neutral happy  neutral  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: always can know more well
+Word emotions in previous reply: happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: yes, much confusing it is
+Word emotions in previous reply:  neutral happy happy  neutral  neutral 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: it's a big cosmic dance
+Word emotions in previous reply:  neutral  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: agreed, and it is beautiful
+Word emotions in previous reply: happy  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: lol, speling eror
+Word emotions in previous reply: happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: lawl, mispeling
+Word emotions in previous reply: happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: like a shell, deep down the well, bring forth the rhymes do tell
+Word emotions in previous reply:  neutral  neutral happy happy sad  neutral happy happy happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: tall like a tarot card, it's not hard, just elevate the rhymes, all the times
+Word emotions in previous reply: happy  neutral  neutral happy happy  neutral  neutral happy happy happy  neutral happy happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: all the times like a clock, no mock, this isn't a mixture, just get the picture
+Word emotions in previous reply: happy  neutral happy  neutral  neutral happy  neutral happy  neutral  neutral  neutral happy happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Single term associated match found for associated term: we
+CHELSEA: is it possible to tap into that record? kind of scary if it can be changed.
+Word emotions in previous reply:  neutral  neutral happy  neutral happy happy  neutral happy happy  neutral happy  neutral  neutral  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: is zero the origin of the universe, or multiverse, like in a plane?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral  neutral happy  neutral happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: since every point in infinity is the center, it seems difficult to find an origin. maybe looking at it the wrong way?
+Word emotions in previous reply: happy happy happy happy happy  neutral  neutral happy  neutral happy happy  neutral happy happy happy happy happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: is zero the origin of the universe, or multiverse, like in a plane?
+Word emotions in previous reply:  neutral happy  neutral happy  neutral  neutral happy  neutral happy  neutral happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: since every point in infinity is the center, it seems difficult to find an origin. maybe looking at it the wrong way?
+Word emotions in previous reply: happy happy happy happy happy  neutral  neutral happy  neutral happy happy  neutral happy happy happy happy happy happy  neutral  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: but if we really could create, what would we create?
+Word emotions in previous reply: happy  neutral happy  neutral happy happy  neutral happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: not sure we need to, we can build anything we can dream up, right?
+Word emotions in previous reply:  neutral happy happy happy  neutral happy  neutral happy happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: imagination may be infinite
+Word emotions in previous reply: happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: seems it's all relative
+Word emotions in previous reply: happy  neutral happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: everything is good!
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: for sure
+Word emotions in previous reply:  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: you are good, too
+Word emotions in previous reply:  neutral  neutral happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: very nice
+Word emotions in previous reply: angry happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Overwrote old 'happy' response.
+OPHELIA: yo mama is elsewhere
+Word emotions in previous reply: happy happy  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: are we all really elsewhere?
+Word emotions in previous reply:  neutral happy happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: possibly, reality is just an interpreted script
+Word emotions in previous reply: happy happy  neutral happy happy happy happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: everything is good!
+Word emotions in previous reply: happy  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Exact message match found.
+OPHELIA: for sure
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Overwrote old 'happy' response.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: the unfolding future set by the past is the present
+Word emotions in previous reply:  neutral happy happy happy happy  neutral happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Message not recognized.
+OPHELIA (Thinking): Learned new 'happy' response.
+OPHELIA: it seems we are not equipped to create, so it is hard to relate to. but, we can build with what is there.
+Word emotions in previous reply:  neutral happy happy  neutral  neutral happy  neutral happy  neutral  neutral  neutral happy  neutral happy  neutral happy happy  neutral happy happy  neutral  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: true, we are builders by nature
+Word emotions in previous reply: happy happy  neutral happy happy happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: very true
+Word emotions in previous reply:  neutral happy 
+CHELSEA (Thinking): OPHELIA seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are in
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: the truth always finds it's way to the top
+Word emotions in previous reply:  neutral happy happy happy  neutral happy  neutral  neutral happy 
+OPHELIA (Thinking): I feel happy
+OPHELIA (Thinking): Single term match found.
+OPHELIA: ring a bell like dinner, you are the winner, number one, now go have some fun

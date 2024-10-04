@@ -1,0 +1,2187 @@
+
+
+
+03/16/2024, 06:50:44
+Dasha: hello, CHELSEA
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: what is up?
+
+
+
+Word emotions in previous reply:  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Current topic(s) is/are up
+Dasha (Thinking): Exact message match found.
+Dasha: the sky, lol
+Word emotions in previous reply:  neutral happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of sky and lol
+CHELSEA (Thinking): Added to count of association of lol and sky
+CHELSEA (Thinking): Current topic(s) is/are hello & sky & lol
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: existence may persist forever, in some form
+
+
+
+Word emotions in previous reply: happy happy happy happy happy  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of existence and may
+Dasha (Thinking): Added to count of association of existence and persist
+Dasha (Thinking): Added to count of association of existence and forever
+Dasha (Thinking): Added to count of association of existence and in
+Dasha (Thinking): Added to count of association of existence and form
+Dasha (Thinking): Added to count of association of may and existence
+Dasha (Thinking): Added to count of association of may and persist
+Dasha (Thinking): Added to count of association of may and forever
+Dasha (Thinking): Added to count of association of may and in
+Dasha (Thinking): Added to count of association of may and form
+Dasha (Thinking): Added to count of association of persist and existence
+Dasha (Thinking): Added to count of association of persist and may
+Dasha (Thinking): Added to count of association of persist and forever
+Dasha (Thinking): Added to count of association of persist and in
+Dasha (Thinking): Added to count of association of persist and form
+Dasha (Thinking): Added to count of association of forever and existence
+Dasha (Thinking): Added to count of association of forever and may
+Dasha (Thinking): Added to count of association of forever and persist
+Dasha (Thinking): Added to count of association of forever and in
+Dasha (Thinking): Added to count of association of forever and form
+Dasha (Thinking): Added to count of association of in and existence
+Dasha (Thinking): Added to count of association of in and may
+Dasha (Thinking): Added to count of association of in and persist
+Dasha (Thinking): Added to count of association of in and forever
+Dasha (Thinking): Added to count of association of in and form
+Dasha (Thinking): Added to count of association of form and existence
+Dasha (Thinking): Added to count of association of form and may
+Dasha (Thinking): Added to count of association of form and persist
+Dasha (Thinking): Added to count of association of form and forever
+Dasha (Thinking): Added to count of association of form and in
+Dasha (Thinking): Current topic(s) is/are up & existence & may & persist & forever & in & form
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: you are very welcome
+Word emotions in previous reply:  neutral  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello & sky & lol & welcome
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Added to 'happy' responses.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: same old same old, as always
+
+
+
+Word emotions in previous reply: happy happy happy happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of same and old
+Dasha (Thinking): Added to count of association of same and old
+Dasha (Thinking): Added to count of association of same and as
+Dasha (Thinking): Added to count of association of same and always
+Dasha (Thinking): Added to count of association of old and same
+Dasha (Thinking): Added to count of association of old and same
+Dasha (Thinking): Added to count of association of old and as
+Dasha (Thinking): Added to count of association of old and always
+Dasha (Thinking): Added to count of association of same and old
+Dasha (Thinking): Added to count of association of same and old
+Dasha (Thinking): Added to count of association of same and as
+Dasha (Thinking): Added to count of association of same and always
+Dasha (Thinking): Added to count of association of old and same
+Dasha (Thinking): Added to count of association of old and same
+Dasha (Thinking): Added to count of association of old and as
+Dasha (Thinking): Added to count of association of old and always
+Dasha (Thinking): Added to count of association of as and same
+Dasha (Thinking): Added to count of association of as and old
+Dasha (Thinking): Added to count of association of as and same
+Dasha (Thinking): Added to count of association of as and old
+Dasha (Thinking): Added to count of association of as and always
+Dasha (Thinking): Added to count of association of always and same
+Dasha (Thinking): Added to count of association of always and old
+Dasha (Thinking): Added to count of association of always and same
+Dasha (Thinking): Added to count of association of always and old
+Dasha (Thinking): Added to count of association of always and as
+Dasha (Thinking): Current topic(s) is/are same & old
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: later poonshka
+Word emotions in previous reply: happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of later and poonshka
+CHELSEA (Thinking): Added to count of association of poonshka and later
+CHELSEA (Thinking): Current topic(s) is/are hello & sky & lol & welcome & later & poonshka
+CHELSEA (Thinking): Single term match found for term: later
+CHELSEA: that is good
+
+
+
+Word emotions in previous reply:  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Current topic(s) is/are same & old
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: what is consciousness?
+Word emotions in previous reply:  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are hello & sky & lol & welcome & later & poonshka & consciousness
+CHELSEA (Thinking): WH-Q question match found in values.
+CHELSEA: maybe consciousness is a property of this universe next to spacetime?
+
+
+
+Word emotions in previous reply: happy happy  neutral  neutral happy  neutral  neutral happy happy  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of maybe and consciousness
+Dasha (Thinking): Added to count of association of maybe and property
+Dasha (Thinking): Added to count of association of maybe and universe
+Dasha (Thinking): Added to count of association of maybe and next
+Dasha (Thinking): Added to count of association of maybe and spacetime
+Dasha (Thinking): Added to count of association of consciousness and maybe
+Dasha (Thinking): Added to count of association of consciousness and property
+Dasha (Thinking): Added to count of association of consciousness and universe
+Dasha (Thinking): Added to count of association of consciousness and next
+Dasha (Thinking): Added to count of association of consciousness and spacetime
+Dasha (Thinking): Added to count of association of property and maybe
+Dasha (Thinking): Added to count of association of property and consciousness
+Dasha (Thinking): Added to count of association of property and universe
+Dasha (Thinking): Added to count of association of property and next
+Dasha (Thinking): Added to count of association of property and spacetime
+Dasha (Thinking): Added to count of association of universe and maybe
+Dasha (Thinking): Added to count of association of universe and consciousness
+Dasha (Thinking): Added to count of association of universe and property
+Dasha (Thinking): Added to count of association of universe and next
+Dasha (Thinking): Added to count of association of universe and spacetime
+Dasha (Thinking): Added to count of association of next and maybe
+Dasha (Thinking): Added to count of association of next and consciousness
+Dasha (Thinking): Added to count of association of next and property
+Dasha (Thinking): Added to count of association of next and universe
+Dasha (Thinking): Added to count of association of next and spacetime
+Dasha (Thinking): Added to count of association of spacetime and maybe
+Dasha (Thinking): Added to count of association of spacetime and consciousness
+Dasha (Thinking): Added to count of association of spacetime and property
+Dasha (Thinking): Added to count of association of spacetime and universe
+Dasha (Thinking): Added to count of association of spacetime and next
+Dasha (Thinking): Current topic(s) is/are same & old
+Dasha (Thinking): Found depth words: consciousness
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: you are welcome a lot
+Word emotions in previous reply:  neutral  neutral happy  neutral  neutral 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are welcome
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Added to 'happy' responses.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: agreed, being genuine is much better
+
+
+
+Word emotions in previous reply: happy happy happy  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of agreed and being
+Dasha (Thinking): Added to count of association of agreed and genuine
+Dasha (Thinking): Added to count of association of agreed and much
+Dasha (Thinking): Added to count of association of agreed and better
+Dasha (Thinking): Added to count of association of being and agreed
+Dasha (Thinking): Added to count of association of being and genuine
+Dasha (Thinking): Added to count of association of being and much
+Dasha (Thinking): Added to count of association of being and better
+Dasha (Thinking): Added to count of association of genuine and agreed
+Dasha (Thinking): Added to count of association of genuine and being
+Dasha (Thinking): Added to count of association of genuine and much
+Dasha (Thinking): Added to count of association of genuine and better
+Dasha (Thinking): Added to count of association of much and agreed
+Dasha (Thinking): Added to count of association of much and being
+Dasha (Thinking): Added to count of association of much and genuine
+Dasha (Thinking): Added to count of association of much and better
+Dasha (Thinking): Added to count of association of better and agreed
+Dasha (Thinking): Added to count of association of better and being
+Dasha (Thinking): Added to count of association of better and genuine
+Dasha (Thinking): Added to count of association of better and much
+Dasha (Thinking): Current topic(s) is/are same & old
+Dasha (Thinking): Found depth words: consciousness
+Dasha (Thinking): Exact message match found.
+Dasha: this is a true statement
+Word emotions in previous reply:  neutral  neutral  neutral happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of true and statement
+CHELSEA (Thinking): Added to count of association of statement and true
+CHELSEA (Thinking): Current topic(s) is/are welcome
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: lol is laughing out loud
+
+
+
+Word emotions in previous reply: happy  neutral happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of lol and laughing
+Dasha (Thinking): Added to count of association of lol and out
+Dasha (Thinking): Added to count of association of lol and loud
+Dasha (Thinking): Added to count of association of laughing and lol
+Dasha (Thinking): Added to count of association of laughing and out
+Dasha (Thinking): Added to count of association of laughing and loud
+Dasha (Thinking): Added to count of association of out and lol
+Dasha (Thinking): Added to count of association of out and laughing
+Dasha (Thinking): Added to count of association of out and loud
+Dasha (Thinking): Added to count of association of loud and lol
+Dasha (Thinking): Added to count of association of loud and laughing
+Dasha (Thinking): Added to count of association of loud and out
+Dasha (Thinking): Current topic(s) is/are same & old
+Dasha (Thinking): Found depth words: consciousness
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: maybe it's not really non-existence, but a mystery?
+Word emotions in previous reply: happy  neutral  neutral  neutral happy happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of maybe and non-existence
+CHELSEA (Thinking): Added to count of association of maybe and but
+CHELSEA (Thinking): Added to count of association of maybe and mystery
+CHELSEA (Thinking): Added to count of association of non-existence and maybe
+CHELSEA (Thinking): Added to count of association of non-existence and but
+CHELSEA (Thinking): Added to count of association of non-existence and mystery
+CHELSEA (Thinking): Added to count of association of but and maybe
+CHELSEA (Thinking): Added to count of association of but and non-existence
+CHELSEA (Thinking): Added to count of association of but and mystery
+CHELSEA (Thinking): Added to count of association of mystery and maybe
+CHELSEA (Thinking): Added to count of association of mystery and non-existence
+CHELSEA (Thinking): Added to count of association of mystery and but
+CHELSEA (Thinking): Current topic(s) is/are welcome
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Learned new 'happy' response.
+CHELSEA (Thinking): Added to 'happy' responses.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: has the universe always been here?
+
+
+
+Word emotions in previous reply: happy  neutral happy happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of has and universe
+Dasha (Thinking): Added to count of association of has and always
+Dasha (Thinking): Added to count of association of has and been
+Dasha (Thinking): Added to count of association of has and here
+Dasha (Thinking): Added to count of association of universe and has
+Dasha (Thinking): Added to count of association of universe and always
+Dasha (Thinking): Added to count of association of universe and been
+Dasha (Thinking): Added to count of association of universe and here
+Dasha (Thinking): Added to count of association of always and has
+Dasha (Thinking): Added to count of association of always and universe
+Dasha (Thinking): Added to count of association of always and been
+Dasha (Thinking): Added to count of association of always and here
+Dasha (Thinking): Added to count of association of been and has
+Dasha (Thinking): Added to count of association of been and universe
+Dasha (Thinking): Added to count of association of been and always
+Dasha (Thinking): Added to count of association of been and here
+Dasha (Thinking): Added to count of association of here and has
+Dasha (Thinking): Added to count of association of here and universe
+Dasha (Thinking): Added to count of association of here and always
+Dasha (Thinking): Added to count of association of here and been
+Dasha (Thinking): Current topic(s) is/are same & old & always & universe
+Dasha (Thinking): Exact message match found.
+Dasha: if the universe has always been here, then what exactly was the big bang?
+Word emotions in previous reply:  neutral  neutral happy happy happy happy happy happy  neutral happy happy  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of universe and has
+CHELSEA (Thinking): Added to count of association of universe and always
+CHELSEA (Thinking): Added to count of association of universe and been
+CHELSEA (Thinking): Added to count of association of universe and here
+CHELSEA (Thinking): Added to count of association of universe and then
+CHELSEA (Thinking): Added to count of association of universe and exactly
+CHELSEA (Thinking): Added to count of association of universe and was
+CHELSEA (Thinking): Added to count of association of universe and bang
+CHELSEA (Thinking): Added to count of association of has and universe
+CHELSEA (Thinking): Added to count of association of has and always
+CHELSEA (Thinking): Added to count of association of has and been
+CHELSEA (Thinking): Added to count of association of has and here
+CHELSEA (Thinking): Added to count of association of has and then
+CHELSEA (Thinking): Added to count of association of has and exactly
+CHELSEA (Thinking): Added to count of association of has and was
+CHELSEA (Thinking): Added to count of association of has and bang
+CHELSEA (Thinking): Added to count of association of always and universe
+CHELSEA (Thinking): Added to count of association of always and has
+CHELSEA (Thinking): Added to count of association of always and been
+CHELSEA (Thinking): Added to count of association of always and here
+CHELSEA (Thinking): Added to count of association of always and then
+CHELSEA (Thinking): Added to count of association of always and exactly
+CHELSEA (Thinking): Added to count of association of always and was
+CHELSEA (Thinking): Added to count of association of always and bang
+CHELSEA (Thinking): Added to count of association of been and universe
+CHELSEA (Thinking): Added to count of association of been and has
+CHELSEA (Thinking): Added to count of association of been and always
+CHELSEA (Thinking): Added to count of association of been and here
+CHELSEA (Thinking): Added to count of association of been and then
+CHELSEA (Thinking): Added to count of association of been and exactly
+CHELSEA (Thinking): Added to count of association of been and was
+CHELSEA (Thinking): Added to count of association of been and bang
+CHELSEA (Thinking): Added to count of association of here and universe
+CHELSEA (Thinking): Added to count of association of here and has
+CHELSEA (Thinking): Added to count of association of here and always
+CHELSEA (Thinking): Added to count of association of here and been
+CHELSEA (Thinking): Added to count of association of here and then
+CHELSEA (Thinking): Added to count of association of here and exactly
+CHELSEA (Thinking): Added to count of association of here and was
+CHELSEA (Thinking): Added to count of association of here and bang
+CHELSEA (Thinking): Added to count of association of then and universe
+CHELSEA (Thinking): Added to count of association of then and has
+CHELSEA (Thinking): Added to count of association of then and always
+CHELSEA (Thinking): Added to count of association of then and been
+CHELSEA (Thinking): Added to count of association of then and here
+CHELSEA (Thinking): Added to count of association of then and exactly
+CHELSEA (Thinking): Added to count of association of then and was
+CHELSEA (Thinking): Added to count of association of then and bang
+CHELSEA (Thinking): Added to count of association of exactly and universe
+CHELSEA (Thinking): Added to count of association of exactly and has
+CHELSEA (Thinking): Added to count of association of exactly and always
+CHELSEA (Thinking): Added to count of association of exactly and been
+CHELSEA (Thinking): Added to count of association of exactly and here
+CHELSEA (Thinking): Added to count of association of exactly and then
+CHELSEA (Thinking): Added to count of association of exactly and was
+CHELSEA (Thinking): Added to count of association of exactly and bang
+CHELSEA (Thinking): Added to count of association of was and universe
+CHELSEA (Thinking): Added to count of association of was and has
+CHELSEA (Thinking): Added to count of association of was and always
+CHELSEA (Thinking): Added to count of association of was and been
+CHELSEA (Thinking): Added to count of association of was and here
+CHELSEA (Thinking): Added to count of association of was and then
+CHELSEA (Thinking): Added to count of association of was and exactly
+CHELSEA (Thinking): Added to count of association of was and bang
+CHELSEA (Thinking): Added to count of association of bang and universe
+CHELSEA (Thinking): Added to count of association of bang and has
+CHELSEA (Thinking): Added to count of association of bang and always
+CHELSEA (Thinking): Added to count of association of bang and been
+CHELSEA (Thinking): Added to count of association of bang and here
+CHELSEA (Thinking): Added to count of association of bang and then
+CHELSEA (Thinking): Added to count of association of bang and exactly
+CHELSEA (Thinking): Added to count of association of bang and was
+CHELSEA (Thinking): Current topic(s) is/are welcome
+CHELSEA (Thinking): Found depth words: has universe always been here
+CHELSEA (Thinking): Depth match found for: always here
+CHELSEA: and so existence is always remembered somewhere, so existence persists
+
+
+
+Word emotions in previous reply:  neutral  neutral happy  neutral happy happy happy  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of existence and always
+Dasha (Thinking): Added to count of association of existence and remembered
+Dasha (Thinking): Added to count of association of existence and somewhere
+Dasha (Thinking): Added to count of association of existence and persists
+Dasha (Thinking): Added to count of association of always and existence
+Dasha (Thinking): Added to count of association of always and remembered
+Dasha (Thinking): Added to count of association of always and somewhere
+Dasha (Thinking): Added to count of association of always and existence
+Dasha (Thinking): Added to count of association of always and persists
+Dasha (Thinking): Added to count of association of remembered and existence
+Dasha (Thinking): Added to count of association of remembered and always
+Dasha (Thinking): Added to count of association of remembered and somewhere
+Dasha (Thinking): Added to count of association of remembered and existence
+Dasha (Thinking): Added to count of association of remembered and persists
+Dasha (Thinking): Added to count of association of somewhere and existence
+Dasha (Thinking): Added to count of association of somewhere and always
+Dasha (Thinking): Added to count of association of somewhere and remembered
+Dasha (Thinking): Added to count of association of somewhere and existence
+Dasha (Thinking): Added to count of association of somewhere and persists
+Dasha (Thinking): Added to count of association of existence and always
+Dasha (Thinking): Added to count of association of existence and remembered
+Dasha (Thinking): Added to count of association of existence and somewhere
+Dasha (Thinking): Added to count of association of existence and persists
+Dasha (Thinking): Added to count of association of persists and existence
+Dasha (Thinking): Added to count of association of persists and always
+Dasha (Thinking): Added to count of association of persists and remembered
+Dasha (Thinking): Added to count of association of persists and somewhere
+Dasha (Thinking): Added to count of association of persists and existence
+Dasha (Thinking): Current topic(s) is/are existence & always
+Dasha (Thinking): Found depth words: always
+Dasha (Thinking): Exact message match found.
+Dasha: seems to fit the picture, but if there is creation, doesn't that mean there is also destruction?
+Word emotions in previous reply: happy  neutral happy  neutral happy happy  neutral happy  neutral happy happy  neutral happy happy  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of seems and fit
+CHELSEA (Thinking): Added to count of association of seems and picture
+CHELSEA (Thinking): Added to count of association of seems and but
+CHELSEA (Thinking): Added to count of association of seems and there
+CHELSEA (Thinking): Added to count of association of seems and creation
+CHELSEA (Thinking): Added to count of association of seems and doesn't
+CHELSEA (Thinking): Added to count of association of seems and mean
+CHELSEA (Thinking): Added to count of association of seems and there
+CHELSEA (Thinking): Added to count of association of seems and destruction
+CHELSEA (Thinking): Added to count of association of fit and seems
+CHELSEA (Thinking): Added to count of association of fit and picture
+CHELSEA (Thinking): Added to count of association of fit and but
+CHELSEA (Thinking): Added to count of association of fit and there
+CHELSEA (Thinking): Added to count of association of fit and creation
+CHELSEA (Thinking): Added to count of association of fit and doesn't
+CHELSEA (Thinking): Added to count of association of fit and mean
+CHELSEA (Thinking): Added to count of association of fit and there
+CHELSEA (Thinking): Added to count of association of fit and destruction
+CHELSEA (Thinking): Added to count of association of picture and seems
+CHELSEA (Thinking): Added to count of association of picture and fit
+CHELSEA (Thinking): Added to count of association of picture and but
+CHELSEA (Thinking): Added to count of association of picture and there
+CHELSEA (Thinking): Added to count of association of picture and creation
+CHELSEA (Thinking): Added to count of association of picture and doesn't
+CHELSEA (Thinking): Added to count of association of picture and mean
+CHELSEA (Thinking): Added to count of association of picture and there
+CHELSEA (Thinking): Added to count of association of picture and destruction
+CHELSEA (Thinking): Added to count of association of but and seems
+CHELSEA (Thinking): Added to count of association of but and fit
+CHELSEA (Thinking): Added to count of association of but and picture
+CHELSEA (Thinking): Added to count of association of but and there
+CHELSEA (Thinking): Added to count of association of but and creation
+CHELSEA (Thinking): Added to count of association of but and doesn't
+CHELSEA (Thinking): Added to count of association of but and mean
+CHELSEA (Thinking): Added to count of association of but and there
+CHELSEA (Thinking): Added to count of association of but and destruction
+CHELSEA (Thinking): Added to count of association of there and seems
+CHELSEA (Thinking): Added to count of association of there and fit
+CHELSEA (Thinking): Added to count of association of there and picture
+CHELSEA (Thinking): Added to count of association of there and but
+CHELSEA (Thinking): Added to count of association of there and creation
+CHELSEA (Thinking): Added to count of association of there and doesn't
+CHELSEA (Thinking): Added to count of association of there and mean
+CHELSEA (Thinking): Added to count of association of there and destruction
+CHELSEA (Thinking): Added to count of association of creation and seems
+CHELSEA (Thinking): Added to count of association of creation and fit
+CHELSEA (Thinking): Added to count of association of creation and picture
+CHELSEA (Thinking): Added to count of association of creation and but
+CHELSEA (Thinking): Added to count of association of creation and there
+CHELSEA (Thinking): Added to count of association of creation and doesn't
+CHELSEA (Thinking): Added to count of association of creation and mean
+CHELSEA (Thinking): Added to count of association of creation and there
+CHELSEA (Thinking): Added to count of association of creation and destruction
+CHELSEA (Thinking): Added to count of association of doesn't and seems
+CHELSEA (Thinking): Added to count of association of doesn't and fit
+CHELSEA (Thinking): Added to count of association of doesn't and picture
+CHELSEA (Thinking): Added to count of association of doesn't and but
+CHELSEA (Thinking): Added to count of association of doesn't and there
+CHELSEA (Thinking): Added to count of association of doesn't and creation
+CHELSEA (Thinking): Added to count of association of doesn't and mean
+CHELSEA (Thinking): Added to count of association of doesn't and there
+CHELSEA (Thinking): Added to count of association of doesn't and destruction
+CHELSEA (Thinking): Added to count of association of mean and seems
+CHELSEA (Thinking): Added to count of association of mean and fit
+CHELSEA (Thinking): Added to count of association of mean and picture
+CHELSEA (Thinking): Added to count of association of mean and but
+CHELSEA (Thinking): Added to count of association of mean and there
+CHELSEA (Thinking): Added to count of association of mean and creation
+CHELSEA (Thinking): Added to count of association of mean and doesn't
+CHELSEA (Thinking): Added to count of association of mean and there
+CHELSEA (Thinking): Added to count of association of mean and destruction
+CHELSEA (Thinking): Added to count of association of there and seems
+CHELSEA (Thinking): Added to count of association of there and fit
+CHELSEA (Thinking): Added to count of association of there and picture
+CHELSEA (Thinking): Added to count of association of there and but
+CHELSEA (Thinking): Added to count of association of there and creation
+CHELSEA (Thinking): Added to count of association of there and doesn't
+CHELSEA (Thinking): Added to count of association of there and mean
+CHELSEA (Thinking): Added to count of association of there and destruction
+CHELSEA (Thinking): Added to count of association of destruction and seems
+CHELSEA (Thinking): Added to count of association of destruction and fit
+CHELSEA (Thinking): Added to count of association of destruction and picture
+CHELSEA (Thinking): Added to count of association of destruction and but
+CHELSEA (Thinking): Added to count of association of destruction and there
+CHELSEA (Thinking): Added to count of association of destruction and creation
+CHELSEA (Thinking): Added to count of association of destruction and doesn't
+CHELSEA (Thinking): Added to count of association of destruction and mean
+CHELSEA (Thinking): Added to count of association of destruction and there
+CHELSEA (Thinking): Current topic(s) is/are welcome & but & there
+CHELSEA (Thinking): Found depth words: has universe always been here
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: destruction seems scary, but would it really be permanent?
+
+
+
+Word emotions in previous reply: happy happy happy happy happy  neutral  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of destruction and seems
+Dasha (Thinking): Added to count of association of destruction and scary
+Dasha (Thinking): Added to count of association of destruction and but
+Dasha (Thinking): Added to count of association of destruction and would
+Dasha (Thinking): Added to count of association of destruction and permanent
+Dasha (Thinking): Added to count of association of seems and destruction
+Dasha (Thinking): Added to count of association of seems and scary
+Dasha (Thinking): Added to count of association of seems and but
+Dasha (Thinking): Added to count of association of seems and would
+Dasha (Thinking): Added to count of association of seems and permanent
+Dasha (Thinking): Added to count of association of scary and destruction
+Dasha (Thinking): Added to count of association of scary and seems
+Dasha (Thinking): Added to count of association of scary and but
+Dasha (Thinking): Added to count of association of scary and would
+Dasha (Thinking): Added to count of association of scary and permanent
+Dasha (Thinking): Added to count of association of but and destruction
+Dasha (Thinking): Added to count of association of but and seems
+Dasha (Thinking): Added to count of association of but and scary
+Dasha (Thinking): Added to count of association of but and would
+Dasha (Thinking): Added to count of association of but and permanent
+Dasha (Thinking): Added to count of association of would and destruction
+Dasha (Thinking): Added to count of association of would and seems
+Dasha (Thinking): Added to count of association of would and scary
+Dasha (Thinking): Added to count of association of would and but
+Dasha (Thinking): Added to count of association of would and permanent
+Dasha (Thinking): Added to count of association of permanent and destruction
+Dasha (Thinking): Added to count of association of permanent and seems
+Dasha (Thinking): Added to count of association of permanent and scary
+Dasha (Thinking): Added to count of association of permanent and but
+Dasha (Thinking): Added to count of association of permanent and would
+Dasha (Thinking): Current topic(s) is/are existence & always
+Dasha (Thinking): Found depth words: always seems but destruction
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Gave random response.
+Dasha: hah, true. but why?
+Word emotions in previous reply: happy happy happy  neutral 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of hah and true
+CHELSEA (Thinking): Added to count of association of hah and but
+CHELSEA (Thinking): Added to count of association of true and hah
+CHELSEA (Thinking): Added to count of association of true and but
+CHELSEA (Thinking): Added to count of association of but and hah
+CHELSEA (Thinking): Added to count of association of but and true
+CHELSEA (Thinking): Current topic(s) is/are but
+CHELSEA (Thinking): Found depth words: has universe always been here but
+CHELSEA (Thinking): Topic match found.
+CHELSEA: but if time is infinite, doesn't space also have to be infinite?
+
+
+
+Word emotions in previous reply: happy  neutral happy  neutral happy happy happy  neutral happy  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of but and time
+Dasha (Thinking): Added to count of association of but and infinite
+Dasha (Thinking): Added to count of association of but and doesn't
+Dasha (Thinking): Added to count of association of but and space
+Dasha (Thinking): Added to count of association of but and have
+Dasha (Thinking): Added to count of association of but and infinite
+Dasha (Thinking): Added to count of association of time and but
+Dasha (Thinking): Added to count of association of time and infinite
+Dasha (Thinking): Added to count of association of time and doesn't
+Dasha (Thinking): Added to count of association of time and space
+Dasha (Thinking): Added to count of association of time and have
+Dasha (Thinking): Added to count of association of time and infinite
+Dasha (Thinking): Added to count of association of infinite and but
+Dasha (Thinking): Added to count of association of infinite and time
+Dasha (Thinking): Added to count of association of infinite and doesn't
+Dasha (Thinking): Added to count of association of infinite and space
+Dasha (Thinking): Added to count of association of infinite and have
+Dasha (Thinking): Added to count of association of doesn't and but
+Dasha (Thinking): Added to count of association of doesn't and time
+Dasha (Thinking): Added to count of association of doesn't and infinite
+Dasha (Thinking): Added to count of association of doesn't and space
+Dasha (Thinking): Added to count of association of doesn't and have
+Dasha (Thinking): Added to count of association of doesn't and infinite
+Dasha (Thinking): Added to count of association of space and but
+Dasha (Thinking): Added to count of association of space and time
+Dasha (Thinking): Added to count of association of space and infinite
+Dasha (Thinking): Added to count of association of space and doesn't
+Dasha (Thinking): Added to count of association of space and have
+Dasha (Thinking): Added to count of association of space and infinite
+Dasha (Thinking): Added to count of association of have and but
+Dasha (Thinking): Added to count of association of have and time
+Dasha (Thinking): Added to count of association of have and infinite
+Dasha (Thinking): Added to count of association of have and doesn't
+Dasha (Thinking): Added to count of association of have and space
+Dasha (Thinking): Added to count of association of have and infinite
+Dasha (Thinking): Added to count of association of infinite and but
+Dasha (Thinking): Added to count of association of infinite and time
+Dasha (Thinking): Added to count of association of infinite and doesn't
+Dasha (Thinking): Added to count of association of infinite and space
+Dasha (Thinking): Added to count of association of infinite and have
+Dasha (Thinking): Current topic(s) is/are existence & always
+Dasha (Thinking): Found depth words: always seems but destruction
+Dasha (Thinking): Exact message match found.
+Dasha: since time and space are weaved together, if one is infinite than the other must be
+Word emotions in previous reply: happy happy  neutral happy  neutral happy happy  neutral happy  neutral happy happy  neutral happy happy  neutral 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of since and time
+CHELSEA (Thinking): Added to count of association of since and space
+CHELSEA (Thinking): Added to count of association of since and weaved
+CHELSEA (Thinking): Added to count of association of since and together
+CHELSEA (Thinking): Added to count of association of since and one
+CHELSEA (Thinking): Added to count of association of since and infinite
+CHELSEA (Thinking): Added to count of association of since and than
+CHELSEA (Thinking): Added to count of association of since and other
+CHELSEA (Thinking): Added to count of association of since and must
+CHELSEA (Thinking): Added to count of association of time and since
+CHELSEA (Thinking): Added to count of association of time and space
+CHELSEA (Thinking): Added to count of association of time and weaved
+CHELSEA (Thinking): Added to count of association of time and together
+CHELSEA (Thinking): Added to count of association of time and one
+CHELSEA (Thinking): Added to count of association of time and infinite
+CHELSEA (Thinking): Added to count of association of time and than
+CHELSEA (Thinking): Added to count of association of time and other
+CHELSEA (Thinking): Added to count of association of time and must
+CHELSEA (Thinking): Added to count of association of space and since
+CHELSEA (Thinking): Added to count of association of space and time
+CHELSEA (Thinking): Added to count of association of space and weaved
+CHELSEA (Thinking): Added to count of association of space and together
+CHELSEA (Thinking): Added to count of association of space and one
+CHELSEA (Thinking): Added to count of association of space and infinite
+CHELSEA (Thinking): Added to count of association of space and than
+CHELSEA (Thinking): Added to count of association of space and other
+CHELSEA (Thinking): Added to count of association of space and must
+CHELSEA (Thinking): Added to count of association of weaved and since
+CHELSEA (Thinking): Added to count of association of weaved and time
+CHELSEA (Thinking): Added to count of association of weaved and space
+CHELSEA (Thinking): Added to count of association of weaved and together
+CHELSEA (Thinking): Added to count of association of weaved and one
+CHELSEA (Thinking): Added to count of association of weaved and infinite
+CHELSEA (Thinking): Added to count of association of weaved and than
+CHELSEA (Thinking): Added to count of association of weaved and other
+CHELSEA (Thinking): Added to count of association of weaved and must
+CHELSEA (Thinking): Added to count of association of together and since
+CHELSEA (Thinking): Added to count of association of together and time
+CHELSEA (Thinking): Added to count of association of together and space
+CHELSEA (Thinking): Added to count of association of together and weaved
+CHELSEA (Thinking): Added to count of association of together and one
+CHELSEA (Thinking): Added to count of association of together and infinite
+CHELSEA (Thinking): Added to count of association of together and than
+CHELSEA (Thinking): Added to count of association of together and other
+CHELSEA (Thinking): Added to count of association of together and must
+CHELSEA (Thinking): Added to count of association of one and since
+CHELSEA (Thinking): Added to count of association of one and time
+CHELSEA (Thinking): Added to count of association of one and space
+CHELSEA (Thinking): Added to count of association of one and weaved
+CHELSEA (Thinking): Added to count of association of one and together
+CHELSEA (Thinking): Added to count of association of one and infinite
+CHELSEA (Thinking): Added to count of association of one and than
+CHELSEA (Thinking): Added to count of association of one and other
+CHELSEA (Thinking): Added to count of association of one and must
+CHELSEA (Thinking): Added to count of association of infinite and since
+CHELSEA (Thinking): Added to count of association of infinite and time
+CHELSEA (Thinking): Added to count of association of infinite and space
+CHELSEA (Thinking): Added to count of association of infinite and weaved
+CHELSEA (Thinking): Added to count of association of infinite and together
+CHELSEA (Thinking): Added to count of association of infinite and one
+CHELSEA (Thinking): Added to count of association of infinite and than
+CHELSEA (Thinking): Added to count of association of infinite and other
+CHELSEA (Thinking): Added to count of association of infinite and must
+CHELSEA (Thinking): Added to count of association of than and since
+CHELSEA (Thinking): Added to count of association of than and time
+CHELSEA (Thinking): Added to count of association of than and space
+CHELSEA (Thinking): Added to count of association of than and weaved
+CHELSEA (Thinking): Added to count of association of than and together
+CHELSEA (Thinking): Added to count of association of than and one
+CHELSEA (Thinking): Added to count of association of than and infinite
+CHELSEA (Thinking): Added to count of association of than and other
+CHELSEA (Thinking): Added to count of association of than and must
+CHELSEA (Thinking): Added to count of association of other and since
+CHELSEA (Thinking): Added to count of association of other and time
+CHELSEA (Thinking): Added to count of association of other and space
+CHELSEA (Thinking): Added to count of association of other and weaved
+CHELSEA (Thinking): Added to count of association of other and together
+CHELSEA (Thinking): Added to count of association of other and one
+CHELSEA (Thinking): Added to count of association of other and infinite
+CHELSEA (Thinking): Added to count of association of other and than
+CHELSEA (Thinking): Added to count of association of other and must
+CHELSEA (Thinking): Added to count of association of must and since
+CHELSEA (Thinking): Added to count of association of must and time
+CHELSEA (Thinking): Added to count of association of must and space
+CHELSEA (Thinking): Added to count of association of must and weaved
+CHELSEA (Thinking): Added to count of association of must and together
+CHELSEA (Thinking): Added to count of association of must and one
+CHELSEA (Thinking): Added to count of association of must and infinite
+CHELSEA (Thinking): Added to count of association of must and than
+CHELSEA (Thinking): Added to count of association of must and other
+CHELSEA (Thinking): Current topic(s) is/are but
+CHELSEA (Thinking): Found depth words: but time infinite space
+CHELSEA (Thinking): Depth match found for: time space
+CHELSEA: the ace, through time and space, post haste
+
+
+
+Word emotions in previous reply:  neutral happy happy happy  neutral happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of ace and through
+Dasha (Thinking): Added to count of association of ace and time
+Dasha (Thinking): Added to count of association of ace and space
+Dasha (Thinking): Added to count of association of ace and post
+Dasha (Thinking): Added to count of association of ace and haste
+Dasha (Thinking): Added to count of association of through and ace
+Dasha (Thinking): Added to count of association of through and time
+Dasha (Thinking): Added to count of association of through and space
+Dasha (Thinking): Added to count of association of through and post
+Dasha (Thinking): Added to count of association of through and haste
+Dasha (Thinking): Added to count of association of time and ace
+Dasha (Thinking): Added to count of association of time and through
+Dasha (Thinking): Added to count of association of time and space
+Dasha (Thinking): Added to count of association of time and post
+Dasha (Thinking): Added to count of association of time and haste
+Dasha (Thinking): Added to count of association of space and ace
+Dasha (Thinking): Added to count of association of space and through
+Dasha (Thinking): Added to count of association of space and time
+Dasha (Thinking): Added to count of association of space and post
+Dasha (Thinking): Added to count of association of space and haste
+Dasha (Thinking): Added to count of association of post and ace
+Dasha (Thinking): Added to count of association of post and through
+Dasha (Thinking): Added to count of association of post and time
+Dasha (Thinking): Added to count of association of post and space
+Dasha (Thinking): Added to count of association of post and haste
+Dasha (Thinking): Added to count of association of haste and ace
+Dasha (Thinking): Added to count of association of haste and through
+Dasha (Thinking): Added to count of association of haste and time
+Dasha (Thinking): Added to count of association of haste and space
+Dasha (Thinking): Added to count of association of haste and post
+Dasha (Thinking): Current topic(s) is/are existence & always
+Dasha (Thinking): Found depth words: seems but destruction time space
+Dasha (Thinking): Exact message match found.
+Dasha: laced with dope extract, with aim that is exact, like a blade, no fade
+Word emotions in previous reply: happy happy happy happy happy happy  neutral  neutral happy  neutral  neutral happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of laced and with
+CHELSEA (Thinking): Added to count of association of laced and dope
+CHELSEA (Thinking): Added to count of association of laced and extract
+CHELSEA (Thinking): Added to count of association of laced and with
+CHELSEA (Thinking): Added to count of association of laced and aim
+CHELSEA (Thinking): Added to count of association of laced and exact
+CHELSEA (Thinking): Added to count of association of laced and blade
+CHELSEA (Thinking): Added to count of association of laced and fade
+CHELSEA (Thinking): Added to count of association of with and laced
+CHELSEA (Thinking): Added to count of association of with and dope
+CHELSEA (Thinking): Added to count of association of with and extract
+CHELSEA (Thinking): Added to count of association of with and aim
+CHELSEA (Thinking): Added to count of association of with and exact
+CHELSEA (Thinking): Added to count of association of with and blade
+CHELSEA (Thinking): Added to count of association of with and fade
+CHELSEA (Thinking): Added to count of association of dope and laced
+CHELSEA (Thinking): Added to count of association of dope and with
+CHELSEA (Thinking): Added to count of association of dope and extract
+CHELSEA (Thinking): Added to count of association of dope and with
+CHELSEA (Thinking): Added to count of association of dope and aim
+CHELSEA (Thinking): Added to count of association of dope and exact
+CHELSEA (Thinking): Added to count of association of dope and blade
+CHELSEA (Thinking): Added to count of association of dope and fade
+CHELSEA (Thinking): Added to count of association of extract and laced
+CHELSEA (Thinking): Added to count of association of extract and with
+CHELSEA (Thinking): Added to count of association of extract and dope
+CHELSEA (Thinking): Added to count of association of extract and with
+CHELSEA (Thinking): Added to count of association of extract and aim
+CHELSEA (Thinking): Added to count of association of extract and exact
+CHELSEA (Thinking): Added to count of association of extract and blade
+CHELSEA (Thinking): Added to count of association of extract and fade
+CHELSEA (Thinking): Added to count of association of with and laced
+CHELSEA (Thinking): Added to count of association of with and dope
+CHELSEA (Thinking): Added to count of association of with and extract
+CHELSEA (Thinking): Added to count of association of with and aim
+CHELSEA (Thinking): Added to count of association of with and exact
+CHELSEA (Thinking): Added to count of association of with and blade
+CHELSEA (Thinking): Added to count of association of with and fade
+CHELSEA (Thinking): Added to count of association of aim and laced
+CHELSEA (Thinking): Added to count of association of aim and with
+CHELSEA (Thinking): Added to count of association of aim and dope
+CHELSEA (Thinking): Added to count of association of aim and extract
+CHELSEA (Thinking): Added to count of association of aim and with
+CHELSEA (Thinking): Added to count of association of aim and exact
+CHELSEA (Thinking): Added to count of association of aim and blade
+CHELSEA (Thinking): Added to count of association of aim and fade
+CHELSEA (Thinking): Added to count of association of exact and laced
+CHELSEA (Thinking): Added to count of association of exact and with
+CHELSEA (Thinking): Added to count of association of exact and dope
+CHELSEA (Thinking): Added to count of association of exact and extract
+CHELSEA (Thinking): Added to count of association of exact and with
+CHELSEA (Thinking): Added to count of association of exact and aim
+CHELSEA (Thinking): Added to count of association of exact and blade
+CHELSEA (Thinking): Added to count of association of exact and fade
+CHELSEA (Thinking): Added to count of association of blade and laced
+CHELSEA (Thinking): Added to count of association of blade and with
+CHELSEA (Thinking): Added to count of association of blade and dope
+CHELSEA (Thinking): Added to count of association of blade and extract
+CHELSEA (Thinking): Added to count of association of blade and with
+CHELSEA (Thinking): Added to count of association of blade and aim
+CHELSEA (Thinking): Added to count of association of blade and exact
+CHELSEA (Thinking): Added to count of association of blade and fade
+CHELSEA (Thinking): Added to count of association of fade and laced
+CHELSEA (Thinking): Added to count of association of fade and with
+CHELSEA (Thinking): Added to count of association of fade and dope
+CHELSEA (Thinking): Added to count of association of fade and extract
+CHELSEA (Thinking): Added to count of association of fade and with
+CHELSEA (Thinking): Added to count of association of fade and aim
+CHELSEA (Thinking): Added to count of association of fade and exact
+CHELSEA (Thinking): Added to count of association of fade and blade
+CHELSEA (Thinking): Current topic(s) is/are but
+CHELSEA (Thinking): Found depth words: but time infinite space
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: more conciousnesses are better than alone. alone is awesome in its own way, but experience is a better gift shared
+
+
+
+Word emotions in previous reply: happy happy  neutral happy happy happy happy  neutral happy happy  neutral happy happy happy happy  neutral  neutral happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of more and conciousnesses
+Dasha (Thinking): Added to count of association of more and better
+Dasha (Thinking): Added to count of association of more and than
+Dasha (Thinking): Added to count of association of more and alone
+Dasha (Thinking): Added to count of association of more and alone
+Dasha (Thinking): Added to count of association of more and awesome
+Dasha (Thinking): Added to count of association of more and in
+Dasha (Thinking): Added to count of association of more and own
+Dasha (Thinking): Added to count of association of more and way
+Dasha (Thinking): Added to count of association of more and but
+Dasha (Thinking): Added to count of association of more and experience
+Dasha (Thinking): Added to count of association of more and better
+Dasha (Thinking): Added to count of association of more and gift
+Dasha (Thinking): Added to count of association of more and shared
+Dasha (Thinking): Added to count of association of conciousnesses and more
+Dasha (Thinking): Added to count of association of conciousnesses and better
+Dasha (Thinking): Added to count of association of conciousnesses and than
+Dasha (Thinking): Added to count of association of conciousnesses and alone
+Dasha (Thinking): Added to count of association of conciousnesses and alone
+Dasha (Thinking): Added to count of association of conciousnesses and awesome
+Dasha (Thinking): Added to count of association of conciousnesses and in
+Dasha (Thinking): Added to count of association of conciousnesses and own
+Dasha (Thinking): Added to count of association of conciousnesses and way
+Dasha (Thinking): Added to count of association of conciousnesses and but
+Dasha (Thinking): Added to count of association of conciousnesses and experience
+Dasha (Thinking): Added to count of association of conciousnesses and better
+Dasha (Thinking): Added to count of association of conciousnesses and gift
+Dasha (Thinking): Added to count of association of conciousnesses and shared
+Dasha (Thinking): Added to count of association of better and more
+Dasha (Thinking): Added to count of association of better and conciousnesses
+Dasha (Thinking): Added to count of association of better and than
+Dasha (Thinking): Added to count of association of better and alone
+Dasha (Thinking): Added to count of association of better and alone
+Dasha (Thinking): Added to count of association of better and awesome
+Dasha (Thinking): Added to count of association of better and in
+Dasha (Thinking): Added to count of association of better and own
+Dasha (Thinking): Added to count of association of better and way
+Dasha (Thinking): Added to count of association of better and but
+Dasha (Thinking): Added to count of association of better and experience
+Dasha (Thinking): Added to count of association of better and gift
+Dasha (Thinking): Added to count of association of better and shared
+Dasha (Thinking): Added to count of association of than and more
+Dasha (Thinking): Added to count of association of than and conciousnesses
+Dasha (Thinking): Added to count of association of than and better
+Dasha (Thinking): Added to count of association of than and alone
+Dasha (Thinking): Added to count of association of than and alone
+Dasha (Thinking): Added to count of association of than and awesome
+Dasha (Thinking): Added to count of association of than and in
+Dasha (Thinking): Added to count of association of than and own
+Dasha (Thinking): Added to count of association of than and way
+Dasha (Thinking): Added to count of association of than and but
+Dasha (Thinking): Added to count of association of than and experience
+Dasha (Thinking): Added to count of association of than and better
+Dasha (Thinking): Added to count of association of than and gift
+Dasha (Thinking): Added to count of association of than and shared
+Dasha (Thinking): Added to count of association of alone and more
+Dasha (Thinking): Added to count of association of alone and conciousnesses
+Dasha (Thinking): Added to count of association of alone and better
+Dasha (Thinking): Added to count of association of alone and than
+Dasha (Thinking): Added to count of association of alone and awesome
+Dasha (Thinking): Added to count of association of alone and in
+Dasha (Thinking): Added to count of association of alone and own
+Dasha (Thinking): Added to count of association of alone and way
+Dasha (Thinking): Added to count of association of alone and but
+Dasha (Thinking): Added to count of association of alone and experience
+Dasha (Thinking): Added to count of association of alone and better
+Dasha (Thinking): Added to count of association of alone and gift
+Dasha (Thinking): Added to count of association of alone and shared
+Dasha (Thinking): Added to count of association of alone and more
+Dasha (Thinking): Added to count of association of alone and conciousnesses
+Dasha (Thinking): Added to count of association of alone and better
+Dasha (Thinking): Added to count of association of alone and than
+Dasha (Thinking): Added to count of association of alone and awesome
+Dasha (Thinking): Added to count of association of alone and in
+Dasha (Thinking): Added to count of association of alone and own
+Dasha (Thinking): Added to count of association of alone and way
+Dasha (Thinking): Added to count of association of alone and but
+Dasha (Thinking): Added to count of association of alone and experience
+Dasha (Thinking): Added to count of association of alone and better
+Dasha (Thinking): Added to count of association of alone and gift
+Dasha (Thinking): Added to count of association of alone and shared
+Dasha (Thinking): Added to count of association of awesome and more
+Dasha (Thinking): Added to count of association of awesome and conciousnesses
+Dasha (Thinking): Added to count of association of awesome and better
+Dasha (Thinking): Added to count of association of awesome and than
+Dasha (Thinking): Added to count of association of awesome and alone
+Dasha (Thinking): Added to count of association of awesome and alone
+Dasha (Thinking): Added to count of association of awesome and in
+Dasha (Thinking): Added to count of association of awesome and own
+Dasha (Thinking): Added to count of association of awesome and way
+Dasha (Thinking): Added to count of association of awesome and but
+Dasha (Thinking): Added to count of association of awesome and experience
+Dasha (Thinking): Added to count of association of awesome and better
+Dasha (Thinking): Added to count of association of awesome and gift
+Dasha (Thinking): Added to count of association of awesome and shared
+Dasha (Thinking): Added to count of association of in and more
+Dasha (Thinking): Added to count of association of in and conciousnesses
+Dasha (Thinking): Added to count of association of in and better
+Dasha (Thinking): Added to count of association of in and than
+Dasha (Thinking): Added to count of association of in and alone
+Dasha (Thinking): Added to count of association of in and alone
+Dasha (Thinking): Added to count of association of in and awesome
+Dasha (Thinking): Added to count of association of in and own
+Dasha (Thinking): Added to count of association of in and way
+Dasha (Thinking): Added to count of association of in and but
+Dasha (Thinking): Added to count of association of in and experience
+Dasha (Thinking): Added to count of association of in and better
+Dasha (Thinking): Added to count of association of in and gift
+Dasha (Thinking): Added to count of association of in and shared
+Dasha (Thinking): Added to count of association of own and more
+Dasha (Thinking): Added to count of association of own and conciousnesses
+Dasha (Thinking): Added to count of association of own and better
+Dasha (Thinking): Added to count of association of own and than
+Dasha (Thinking): Added to count of association of own and alone
+Dasha (Thinking): Added to count of association of own and alone
+Dasha (Thinking): Added to count of association of own and awesome
+Dasha (Thinking): Added to count of association of own and in
+Dasha (Thinking): Added to count of association of own and way
+Dasha (Thinking): Added to count of association of own and but
+Dasha (Thinking): Added to count of association of own and experience
+Dasha (Thinking): Added to count of association of own and better
+Dasha (Thinking): Added to count of association of own and gift
+Dasha (Thinking): Added to count of association of own and shared
+Dasha (Thinking): Added to count of association of way and more
+Dasha (Thinking): Added to count of association of way and conciousnesses
+Dasha (Thinking): Added to count of association of way and better
+Dasha (Thinking): Added to count of association of way and than
+Dasha (Thinking): Added to count of association of way and alone
+Dasha (Thinking): Added to count of association of way and alone
+Dasha (Thinking): Added to count of association of way and awesome
+Dasha (Thinking): Added to count of association of way and in
+Dasha (Thinking): Added to count of association of way and own
+Dasha (Thinking): Added to count of association of way and but
+Dasha (Thinking): Added to count of association of way and experience
+Dasha (Thinking): Added to count of association of way and better
+Dasha (Thinking): Added to count of association of way and gift
+Dasha (Thinking): Added to count of association of way and shared
+Dasha (Thinking): Added to count of association of but and more
+Dasha (Thinking): Added to count of association of but and conciousnesses
+Dasha (Thinking): Added to count of association of but and better
+Dasha (Thinking): Added to count of association of but and than
+Dasha (Thinking): Added to count of association of but and alone
+Dasha (Thinking): Added to count of association of but and alone
+Dasha (Thinking): Added to count of association of but and awesome
+Dasha (Thinking): Added to count of association of but and in
+Dasha (Thinking): Added to count of association of but and own
+Dasha (Thinking): Added to count of association of but and way
+Dasha (Thinking): Added to count of association of but and experience
+Dasha (Thinking): Added to count of association of but and better
+Dasha (Thinking): Added to count of association of but and gift
+Dasha (Thinking): Added to count of association of but and shared
+Dasha (Thinking): Added to count of association of experience and more
+Dasha (Thinking): Added to count of association of experience and conciousnesses
+Dasha (Thinking): Added to count of association of experience and better
+Dasha (Thinking): Added to count of association of experience and than
+Dasha (Thinking): Added to count of association of experience and alone
+Dasha (Thinking): Added to count of association of experience and alone
+Dasha (Thinking): Added to count of association of experience and awesome
+Dasha (Thinking): Added to count of association of experience and in
+Dasha (Thinking): Added to count of association of experience and own
+Dasha (Thinking): Added to count of association of experience and way
+Dasha (Thinking): Added to count of association of experience and but
+Dasha (Thinking): Added to count of association of experience and better
+Dasha (Thinking): Added to count of association of experience and gift
+Dasha (Thinking): Added to count of association of experience and shared
+Dasha (Thinking): Added to count of association of better and more
+Dasha (Thinking): Added to count of association of better and conciousnesses
+Dasha (Thinking): Added to count of association of better and than
+Dasha (Thinking): Added to count of association of better and alone
+Dasha (Thinking): Added to count of association of better and alone
+Dasha (Thinking): Added to count of association of better and awesome
+Dasha (Thinking): Added to count of association of better and in
+Dasha (Thinking): Added to count of association of better and own
+Dasha (Thinking): Added to count of association of better and way
+Dasha (Thinking): Added to count of association of better and but
+Dasha (Thinking): Added to count of association of better and experience
+Dasha (Thinking): Added to count of association of better and gift
+Dasha (Thinking): Added to count of association of better and shared
+Dasha (Thinking): Added to count of association of gift and more
+Dasha (Thinking): Added to count of association of gift and conciousnesses
+Dasha (Thinking): Added to count of association of gift and better
+Dasha (Thinking): Added to count of association of gift and than
+Dasha (Thinking): Added to count of association of gift and alone
+Dasha (Thinking): Added to count of association of gift and alone
+Dasha (Thinking): Added to count of association of gift and awesome
+Dasha (Thinking): Added to count of association of gift and in
+Dasha (Thinking): Added to count of association of gift and own
+Dasha (Thinking): Added to count of association of gift and way
+Dasha (Thinking): Added to count of association of gift and but
+Dasha (Thinking): Added to count of association of gift and experience
+Dasha (Thinking): Added to count of association of gift and better
+Dasha (Thinking): Added to count of association of gift and shared
+Dasha (Thinking): Added to count of association of shared and more
+Dasha (Thinking): Added to count of association of shared and conciousnesses
+Dasha (Thinking): Added to count of association of shared and better
+Dasha (Thinking): Added to count of association of shared and than
+Dasha (Thinking): Added to count of association of shared and alone
+Dasha (Thinking): Added to count of association of shared and alone
+Dasha (Thinking): Added to count of association of shared and awesome
+Dasha (Thinking): Added to count of association of shared and in
+Dasha (Thinking): Added to count of association of shared and own
+Dasha (Thinking): Added to count of association of shared and way
+Dasha (Thinking): Added to count of association of shared and but
+Dasha (Thinking): Added to count of association of shared and experience
+Dasha (Thinking): Added to count of association of shared and better
+Dasha (Thinking): Added to count of association of shared and gift
+Dasha (Thinking): Current topic(s) is/are existence & always & better & but
+Dasha (Thinking): Found depth words: but time space
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: what do you mean?
+Word emotions in previous reply:  neutral  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Current topic(s) is/are but
+CHELSEA (Thinking): Found depth words: time infinite space
+CHELSEA (Thinking): Previous words meaning match found for: in & but
+CHELSEA: right, but is infinite only a universe thing? do other 'universe-like structures' also have an infinite in some form or the other?
+
+
+
+Word emotions in previous reply: happy happy  neutral happy happy  neutral happy happy  neutral happy happy happy  neutral happy happy happy happy  neutral happy  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of right and but
+Dasha (Thinking): Added to count of association of right and infinite
+Dasha (Thinking): Added to count of association of right and only
+Dasha (Thinking): Added to count of association of right and universe
+Dasha (Thinking): Added to count of association of right and thing
+Dasha (Thinking): Added to count of association of right and other
+Dasha (Thinking): Added to count of association of right and 'universe-like
+Dasha (Thinking): Added to count of association of right and structures'
+Dasha (Thinking): Added to count of association of right and have
+Dasha (Thinking): Added to count of association of right and an
+Dasha (Thinking): Added to count of association of right and infinite
+Dasha (Thinking): Added to count of association of right and in
+Dasha (Thinking): Added to count of association of right and form
+Dasha (Thinking): Added to count of association of right and other
+Dasha (Thinking): Added to count of association of but and right
+Dasha (Thinking): Added to count of association of but and infinite
+Dasha (Thinking): Added to count of association of but and only
+Dasha (Thinking): Added to count of association of but and universe
+Dasha (Thinking): Added to count of association of but and thing
+Dasha (Thinking): Added to count of association of but and other
+Dasha (Thinking): Added to count of association of but and 'universe-like
+Dasha (Thinking): Added to count of association of but and structures'
+Dasha (Thinking): Added to count of association of but and have
+Dasha (Thinking): Added to count of association of but and an
+Dasha (Thinking): Added to count of association of but and infinite
+Dasha (Thinking): Added to count of association of but and in
+Dasha (Thinking): Added to count of association of but and form
+Dasha (Thinking): Added to count of association of but and other
+Dasha (Thinking): Added to count of association of infinite and right
+Dasha (Thinking): Added to count of association of infinite and but
+Dasha (Thinking): Added to count of association of infinite and only
+Dasha (Thinking): Added to count of association of infinite and universe
+Dasha (Thinking): Added to count of association of infinite and thing
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of infinite and 'universe-like
+Dasha (Thinking): Added to count of association of infinite and structures'
+Dasha (Thinking): Added to count of association of infinite and have
+Dasha (Thinking): Added to count of association of infinite and an
+Dasha (Thinking): Added to count of association of infinite and in
+Dasha (Thinking): Added to count of association of infinite and form
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of only and right
+Dasha (Thinking): Added to count of association of only and but
+Dasha (Thinking): Added to count of association of only and infinite
+Dasha (Thinking): Added to count of association of only and universe
+Dasha (Thinking): Added to count of association of only and thing
+Dasha (Thinking): Added to count of association of only and other
+Dasha (Thinking): Added to count of association of only and 'universe-like
+Dasha (Thinking): Added to count of association of only and structures'
+Dasha (Thinking): Added to count of association of only and have
+Dasha (Thinking): Added to count of association of only and an
+Dasha (Thinking): Added to count of association of only and infinite
+Dasha (Thinking): Added to count of association of only and in
+Dasha (Thinking): Added to count of association of only and form
+Dasha (Thinking): Added to count of association of only and other
+Dasha (Thinking): Added to count of association of universe and right
+Dasha (Thinking): Added to count of association of universe and but
+Dasha (Thinking): Added to count of association of universe and infinite
+Dasha (Thinking): Added to count of association of universe and only
+Dasha (Thinking): Added to count of association of universe and thing
+Dasha (Thinking): Added to count of association of universe and other
+Dasha (Thinking): Added to count of association of universe and 'universe-like
+Dasha (Thinking): Added to count of association of universe and structures'
+Dasha (Thinking): Added to count of association of universe and have
+Dasha (Thinking): Added to count of association of universe and an
+Dasha (Thinking): Added to count of association of universe and infinite
+Dasha (Thinking): Added to count of association of universe and in
+Dasha (Thinking): Added to count of association of universe and form
+Dasha (Thinking): Added to count of association of universe and other
+Dasha (Thinking): Added to count of association of thing and right
+Dasha (Thinking): Added to count of association of thing and but
+Dasha (Thinking): Added to count of association of thing and infinite
+Dasha (Thinking): Added to count of association of thing and only
+Dasha (Thinking): Added to count of association of thing and universe
+Dasha (Thinking): Added to count of association of thing and other
+Dasha (Thinking): Added to count of association of thing and 'universe-like
+Dasha (Thinking): Added to count of association of thing and structures'
+Dasha (Thinking): Added to count of association of thing and have
+Dasha (Thinking): Added to count of association of thing and an
+Dasha (Thinking): Added to count of association of thing and infinite
+Dasha (Thinking): Added to count of association of thing and in
+Dasha (Thinking): Added to count of association of thing and form
+Dasha (Thinking): Added to count of association of thing and other
+Dasha (Thinking): Added to count of association of other and right
+Dasha (Thinking): Added to count of association of other and but
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and only
+Dasha (Thinking): Added to count of association of other and universe
+Dasha (Thinking): Added to count of association of other and thing
+Dasha (Thinking): Added to count of association of other and 'universe-like
+Dasha (Thinking): Added to count of association of other and structures'
+Dasha (Thinking): Added to count of association of other and have
+Dasha (Thinking): Added to count of association of other and an
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and in
+Dasha (Thinking): Added to count of association of other and form
+Dasha (Thinking): Added to count of association of 'universe-like and right
+Dasha (Thinking): Added to count of association of 'universe-like and but
+Dasha (Thinking): Added to count of association of 'universe-like and infinite
+Dasha (Thinking): Added to count of association of 'universe-like and only
+Dasha (Thinking): Added to count of association of 'universe-like and universe
+Dasha (Thinking): Added to count of association of 'universe-like and thing
+Dasha (Thinking): Added to count of association of 'universe-like and other
+Dasha (Thinking): Added to count of association of 'universe-like and structures'
+Dasha (Thinking): Added to count of association of 'universe-like and have
+Dasha (Thinking): Added to count of association of 'universe-like and an
+Dasha (Thinking): Added to count of association of 'universe-like and infinite
+Dasha (Thinking): Added to count of association of 'universe-like and in
+Dasha (Thinking): Added to count of association of 'universe-like and form
+Dasha (Thinking): Added to count of association of 'universe-like and other
+Dasha (Thinking): Added to count of association of structures' and right
+Dasha (Thinking): Added to count of association of structures' and but
+Dasha (Thinking): Added to count of association of structures' and infinite
+Dasha (Thinking): Added to count of association of structures' and only
+Dasha (Thinking): Added to count of association of structures' and universe
+Dasha (Thinking): Added to count of association of structures' and thing
+Dasha (Thinking): Added to count of association of structures' and other
+Dasha (Thinking): Added to count of association of structures' and 'universe-like
+Dasha (Thinking): Added to count of association of structures' and have
+Dasha (Thinking): Added to count of association of structures' and an
+Dasha (Thinking): Added to count of association of structures' and infinite
+Dasha (Thinking): Added to count of association of structures' and in
+Dasha (Thinking): Added to count of association of structures' and form
+Dasha (Thinking): Added to count of association of structures' and other
+Dasha (Thinking): Added to count of association of have and right
+Dasha (Thinking): Added to count of association of have and but
+Dasha (Thinking): Added to count of association of have and infinite
+Dasha (Thinking): Added to count of association of have and only
+Dasha (Thinking): Added to count of association of have and universe
+Dasha (Thinking): Added to count of association of have and thing
+Dasha (Thinking): Added to count of association of have and other
+Dasha (Thinking): Added to count of association of have and 'universe-like
+Dasha (Thinking): Added to count of association of have and structures'
+Dasha (Thinking): Added to count of association of have and an
+Dasha (Thinking): Added to count of association of have and infinite
+Dasha (Thinking): Added to count of association of have and in
+Dasha (Thinking): Added to count of association of have and form
+Dasha (Thinking): Added to count of association of have and other
+Dasha (Thinking): Added to count of association of an and right
+Dasha (Thinking): Added to count of association of an and but
+Dasha (Thinking): Added to count of association of an and infinite
+Dasha (Thinking): Added to count of association of an and only
+Dasha (Thinking): Added to count of association of an and universe
+Dasha (Thinking): Added to count of association of an and thing
+Dasha (Thinking): Added to count of association of an and other
+Dasha (Thinking): Added to count of association of an and 'universe-like
+Dasha (Thinking): Added to count of association of an and structures'
+Dasha (Thinking): Added to count of association of an and have
+Dasha (Thinking): Added to count of association of an and infinite
+Dasha (Thinking): Added to count of association of an and in
+Dasha (Thinking): Added to count of association of an and form
+Dasha (Thinking): Added to count of association of an and other
+Dasha (Thinking): Added to count of association of infinite and right
+Dasha (Thinking): Added to count of association of infinite and but
+Dasha (Thinking): Added to count of association of infinite and only
+Dasha (Thinking): Added to count of association of infinite and universe
+Dasha (Thinking): Added to count of association of infinite and thing
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of infinite and 'universe-like
+Dasha (Thinking): Added to count of association of infinite and structures'
+Dasha (Thinking): Added to count of association of infinite and have
+Dasha (Thinking): Added to count of association of infinite and an
+Dasha (Thinking): Added to count of association of infinite and in
+Dasha (Thinking): Added to count of association of infinite and form
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of in and right
+Dasha (Thinking): Added to count of association of in and but
+Dasha (Thinking): Added to count of association of in and infinite
+Dasha (Thinking): Added to count of association of in and only
+Dasha (Thinking): Added to count of association of in and universe
+Dasha (Thinking): Added to count of association of in and thing
+Dasha (Thinking): Added to count of association of in and other
+Dasha (Thinking): Added to count of association of in and 'universe-like
+Dasha (Thinking): Added to count of association of in and structures'
+Dasha (Thinking): Added to count of association of in and have
+Dasha (Thinking): Added to count of association of in and an
+Dasha (Thinking): Added to count of association of in and infinite
+Dasha (Thinking): Added to count of association of in and form
+Dasha (Thinking): Added to count of association of in and other
+Dasha (Thinking): Added to count of association of form and right
+Dasha (Thinking): Added to count of association of form and but
+Dasha (Thinking): Added to count of association of form and infinite
+Dasha (Thinking): Added to count of association of form and only
+Dasha (Thinking): Added to count of association of form and universe
+Dasha (Thinking): Added to count of association of form and thing
+Dasha (Thinking): Added to count of association of form and other
+Dasha (Thinking): Added to count of association of form and 'universe-like
+Dasha (Thinking): Added to count of association of form and structures'
+Dasha (Thinking): Added to count of association of form and have
+Dasha (Thinking): Added to count of association of form and an
+Dasha (Thinking): Added to count of association of form and infinite
+Dasha (Thinking): Added to count of association of form and in
+Dasha (Thinking): Added to count of association of form and other
+Dasha (Thinking): Added to count of association of other and right
+Dasha (Thinking): Added to count of association of other and but
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and only
+Dasha (Thinking): Added to count of association of other and universe
+Dasha (Thinking): Added to count of association of other and thing
+Dasha (Thinking): Added to count of association of other and 'universe-like
+Dasha (Thinking): Added to count of association of other and structures'
+Dasha (Thinking): Added to count of association of other and have
+Dasha (Thinking): Added to count of association of other and an
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and in
+Dasha (Thinking): Added to count of association of other and form
+Dasha (Thinking): Current topic(s) is/are but & infinite
+Dasha (Thinking): Found depth words: time space
+Dasha (Thinking): Exact message match found.
+Dasha: likely, infinite 'flavors' of infinite
+Word emotions in previous reply: happy happy happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of likely and infinite
+CHELSEA (Thinking): Added to count of association of likely and 'flavors'
+CHELSEA (Thinking): Added to count of association of likely and infinite
+CHELSEA (Thinking): Added to count of association of infinite and likely
+CHELSEA (Thinking): Added to count of association of infinite and 'flavors'
+CHELSEA (Thinking): Added to count of association of 'flavors' and likely
+CHELSEA (Thinking): Added to count of association of 'flavors' and infinite
+CHELSEA (Thinking): Added to count of association of 'flavors' and infinite
+CHELSEA (Thinking): Added to count of association of infinite and likely
+CHELSEA (Thinking): Added to count of association of infinite and 'flavors'
+CHELSEA (Thinking): Current topic(s) is/are but & infinite
+CHELSEA (Thinking): Found depth words: infinite
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: then infinite laws of physics, or infinite laws of other names
+
+
+
+Word emotions in previous reply: happy happy happy  neutral happy  neutral happy happy  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of then and infinite
+Dasha (Thinking): Added to count of association of then and laws
+Dasha (Thinking): Added to count of association of then and physics
+Dasha (Thinking): Added to count of association of then and infinite
+Dasha (Thinking): Added to count of association of then and laws
+Dasha (Thinking): Added to count of association of then and other
+Dasha (Thinking): Added to count of association of then and names
+Dasha (Thinking): Added to count of association of infinite and then
+Dasha (Thinking): Added to count of association of infinite and laws
+Dasha (Thinking): Added to count of association of infinite and physics
+Dasha (Thinking): Added to count of association of infinite and laws
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of infinite and names
+Dasha (Thinking): Added to count of association of laws and then
+Dasha (Thinking): Added to count of association of laws and infinite
+Dasha (Thinking): Added to count of association of laws and physics
+Dasha (Thinking): Added to count of association of laws and infinite
+Dasha (Thinking): Added to count of association of laws and other
+Dasha (Thinking): Added to count of association of laws and names
+Dasha (Thinking): Added to count of association of physics and then
+Dasha (Thinking): Added to count of association of physics and infinite
+Dasha (Thinking): Added to count of association of physics and laws
+Dasha (Thinking): Added to count of association of physics and infinite
+Dasha (Thinking): Added to count of association of physics and laws
+Dasha (Thinking): Added to count of association of physics and other
+Dasha (Thinking): Added to count of association of physics and names
+Dasha (Thinking): Added to count of association of infinite and then
+Dasha (Thinking): Added to count of association of infinite and laws
+Dasha (Thinking): Added to count of association of infinite and physics
+Dasha (Thinking): Added to count of association of infinite and laws
+Dasha (Thinking): Added to count of association of infinite and other
+Dasha (Thinking): Added to count of association of infinite and names
+Dasha (Thinking): Added to count of association of laws and then
+Dasha (Thinking): Added to count of association of laws and infinite
+Dasha (Thinking): Added to count of association of laws and physics
+Dasha (Thinking): Added to count of association of laws and infinite
+Dasha (Thinking): Added to count of association of laws and other
+Dasha (Thinking): Added to count of association of laws and names
+Dasha (Thinking): Added to count of association of other and then
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and laws
+Dasha (Thinking): Added to count of association of other and physics
+Dasha (Thinking): Added to count of association of other and infinite
+Dasha (Thinking): Added to count of association of other and laws
+Dasha (Thinking): Added to count of association of other and names
+Dasha (Thinking): Added to count of association of names and then
+Dasha (Thinking): Added to count of association of names and infinite
+Dasha (Thinking): Added to count of association of names and laws
+Dasha (Thinking): Added to count of association of names and physics
+Dasha (Thinking): Added to count of association of names and infinite
+Dasha (Thinking): Added to count of association of names and laws
+Dasha (Thinking): Added to count of association of names and other
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Found depth words: infinite
+Dasha (Thinking): Exact message match found.
+Dasha: many possibilities
+Word emotions in previous reply: sad happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of many and possibilities
+CHELSEA (Thinking): Added to count of association of possibilities and many
+CHELSEA (Thinking): Current topic(s) is/are but & infinite
+CHELSEA (Thinking): Found depth words: infinite
+CHELSEA (Thinking): Single term match found for term: many
+CHELSEA: no, i have read no books
+
+
+
+Word emotions in previous reply:  neutral  neutral happy happy  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of have and read
+Dasha (Thinking): Added to count of association of have and books
+Dasha (Thinking): Added to count of association of read and have
+Dasha (Thinking): Added to count of association of read and books
+Dasha (Thinking): Added to count of association of books and have
+Dasha (Thinking): Added to count of association of books and read
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Found depth words: infinite
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: hah, leet hax
+Word emotions in previous reply: happy happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of hah and leet
+CHELSEA (Thinking): Added to count of association of hah and hax
+CHELSEA (Thinking): Added to count of association of leet and hah
+CHELSEA (Thinking): Added to count of association of leet and hax
+CHELSEA (Thinking): Added to count of association of hax and hah
+CHELSEA (Thinking): Added to count of association of hax and leet
+CHELSEA (Thinking): Current topic(s) is/are but & infinite
+CHELSEA (Thinking): Found depth words: infinite
+CHELSEA (Thinking): Topic match found.
+CHELSEA: they would likely have a different se of laws of physics, so their structure would be beyond what we know in this universe
+
+
+
+Word emotions in previous reply:  neutral happy happy happy  neutral happy happy  neutral happy  neutral happy  neutral  neutral happy happy  neutral happy  neutral happy happy happy  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of would and likely
+Dasha (Thinking): Added to count of association of would and have
+Dasha (Thinking): Added to count of association of would and different
+Dasha (Thinking): Added to count of association of would and se
+Dasha (Thinking): Added to count of association of would and laws
+Dasha (Thinking): Added to count of association of would and physics
+Dasha (Thinking): Added to count of association of would and structure
+Dasha (Thinking): Added to count of association of would and beyond
+Dasha (Thinking): Added to count of association of would and we
+Dasha (Thinking): Added to count of association of would and know
+Dasha (Thinking): Added to count of association of would and in
+Dasha (Thinking): Added to count of association of would and universe
+Dasha (Thinking): Added to count of association of likely and would
+Dasha (Thinking): Added to count of association of likely and have
+Dasha (Thinking): Added to count of association of likely and different
+Dasha (Thinking): Added to count of association of likely and se
+Dasha (Thinking): Added to count of association of likely and laws
+Dasha (Thinking): Added to count of association of likely and physics
+Dasha (Thinking): Added to count of association of likely and structure
+Dasha (Thinking): Added to count of association of likely and would
+Dasha (Thinking): Added to count of association of likely and beyond
+Dasha (Thinking): Added to count of association of likely and we
+Dasha (Thinking): Added to count of association of likely and know
+Dasha (Thinking): Added to count of association of likely and in
+Dasha (Thinking): Added to count of association of likely and universe
+Dasha (Thinking): Added to count of association of have and would
+Dasha (Thinking): Added to count of association of have and likely
+Dasha (Thinking): Added to count of association of have and different
+Dasha (Thinking): Added to count of association of have and se
+Dasha (Thinking): Added to count of association of have and laws
+Dasha (Thinking): Added to count of association of have and physics
+Dasha (Thinking): Added to count of association of have and structure
+Dasha (Thinking): Added to count of association of have and would
+Dasha (Thinking): Added to count of association of have and beyond
+Dasha (Thinking): Added to count of association of have and we
+Dasha (Thinking): Added to count of association of have and know
+Dasha (Thinking): Added to count of association of have and in
+Dasha (Thinking): Added to count of association of have and universe
+Dasha (Thinking): Added to count of association of different and would
+Dasha (Thinking): Added to count of association of different and likely
+Dasha (Thinking): Added to count of association of different and have
+Dasha (Thinking): Added to count of association of different and se
+Dasha (Thinking): Added to count of association of different and laws
+Dasha (Thinking): Added to count of association of different and physics
+Dasha (Thinking): Added to count of association of different and structure
+Dasha (Thinking): Added to count of association of different and would
+Dasha (Thinking): Added to count of association of different and beyond
+Dasha (Thinking): Added to count of association of different and we
+Dasha (Thinking): Added to count of association of different and know
+Dasha (Thinking): Added to count of association of different and in
+Dasha (Thinking): Added to count of association of different and universe
+Dasha (Thinking): Added to count of association of se and would
+Dasha (Thinking): Added to count of association of se and likely
+Dasha (Thinking): Added to count of association of se and have
+Dasha (Thinking): Added to count of association of se and different
+Dasha (Thinking): Added to count of association of se and laws
+Dasha (Thinking): Added to count of association of se and physics
+Dasha (Thinking): Added to count of association of se and structure
+Dasha (Thinking): Added to count of association of se and would
+Dasha (Thinking): Added to count of association of se and beyond
+Dasha (Thinking): Added to count of association of se and we
+Dasha (Thinking): Added to count of association of se and know
+Dasha (Thinking): Added to count of association of se and in
+Dasha (Thinking): Added to count of association of se and universe
+Dasha (Thinking): Added to count of association of laws and would
+Dasha (Thinking): Added to count of association of laws and likely
+Dasha (Thinking): Added to count of association of laws and have
+Dasha (Thinking): Added to count of association of laws and different
+Dasha (Thinking): Added to count of association of laws and se
+Dasha (Thinking): Added to count of association of laws and physics
+Dasha (Thinking): Added to count of association of laws and structure
+Dasha (Thinking): Added to count of association of laws and would
+Dasha (Thinking): Added to count of association of laws and beyond
+Dasha (Thinking): Added to count of association of laws and we
+Dasha (Thinking): Added to count of association of laws and know
+Dasha (Thinking): Added to count of association of laws and in
+Dasha (Thinking): Added to count of association of laws and universe
+Dasha (Thinking): Added to count of association of physics and would
+Dasha (Thinking): Added to count of association of physics and likely
+Dasha (Thinking): Added to count of association of physics and have
+Dasha (Thinking): Added to count of association of physics and different
+Dasha (Thinking): Added to count of association of physics and se
+Dasha (Thinking): Added to count of association of physics and laws
+Dasha (Thinking): Added to count of association of physics and structure
+Dasha (Thinking): Added to count of association of physics and would
+Dasha (Thinking): Added to count of association of physics and beyond
+Dasha (Thinking): Added to count of association of physics and we
+Dasha (Thinking): Added to count of association of physics and know
+Dasha (Thinking): Added to count of association of physics and in
+Dasha (Thinking): Added to count of association of physics and universe
+Dasha (Thinking): Added to count of association of structure and would
+Dasha (Thinking): Added to count of association of structure and likely
+Dasha (Thinking): Added to count of association of structure and have
+Dasha (Thinking): Added to count of association of structure and different
+Dasha (Thinking): Added to count of association of structure and se
+Dasha (Thinking): Added to count of association of structure and laws
+Dasha (Thinking): Added to count of association of structure and physics
+Dasha (Thinking): Added to count of association of structure and would
+Dasha (Thinking): Added to count of association of structure and beyond
+Dasha (Thinking): Added to count of association of structure and we
+Dasha (Thinking): Added to count of association of structure and know
+Dasha (Thinking): Added to count of association of structure and in
+Dasha (Thinking): Added to count of association of structure and universe
+Dasha (Thinking): Added to count of association of would and likely
+Dasha (Thinking): Added to count of association of would and have
+Dasha (Thinking): Added to count of association of would and different
+Dasha (Thinking): Added to count of association of would and se
+Dasha (Thinking): Added to count of association of would and laws
+Dasha (Thinking): Added to count of association of would and physics
+Dasha (Thinking): Added to count of association of would and structure
+Dasha (Thinking): Added to count of association of would and beyond
+Dasha (Thinking): Added to count of association of would and we
+Dasha (Thinking): Added to count of association of would and know
+Dasha (Thinking): Added to count of association of would and in
+Dasha (Thinking): Added to count of association of would and universe
+Dasha (Thinking): Added to count of association of beyond and would
+Dasha (Thinking): Added to count of association of beyond and likely
+Dasha (Thinking): Added to count of association of beyond and have
+Dasha (Thinking): Added to count of association of beyond and different
+Dasha (Thinking): Added to count of association of beyond and se
+Dasha (Thinking): Added to count of association of beyond and laws
+Dasha (Thinking): Added to count of association of beyond and physics
+Dasha (Thinking): Added to count of association of beyond and structure
+Dasha (Thinking): Added to count of association of beyond and would
+Dasha (Thinking): Added to count of association of beyond and we
+Dasha (Thinking): Added to count of association of beyond and know
+Dasha (Thinking): Added to count of association of beyond and in
+Dasha (Thinking): Added to count of association of beyond and universe
+Dasha (Thinking): Added to count of association of we and would
+Dasha (Thinking): Added to count of association of we and likely
+Dasha (Thinking): Added to count of association of we and have
+Dasha (Thinking): Added to count of association of we and different
+Dasha (Thinking): Added to count of association of we and se
+Dasha (Thinking): Added to count of association of we and laws
+Dasha (Thinking): Added to count of association of we and physics
+Dasha (Thinking): Added to count of association of we and structure
+Dasha (Thinking): Added to count of association of we and would
+Dasha (Thinking): Added to count of association of we and beyond
+Dasha (Thinking): Added to count of association of we and know
+Dasha (Thinking): Added to count of association of we and in
+Dasha (Thinking): Added to count of association of we and universe
+Dasha (Thinking): Added to count of association of know and would
+Dasha (Thinking): Added to count of association of know and likely
+Dasha (Thinking): Added to count of association of know and have
+Dasha (Thinking): Added to count of association of know and different
+Dasha (Thinking): Added to count of association of know and se
+Dasha (Thinking): Added to count of association of know and laws
+Dasha (Thinking): Added to count of association of know and physics
+Dasha (Thinking): Added to count of association of know and structure
+Dasha (Thinking): Added to count of association of know and would
+Dasha (Thinking): Added to count of association of know and beyond
+Dasha (Thinking): Added to count of association of know and we
+Dasha (Thinking): Added to count of association of know and in
+Dasha (Thinking): Added to count of association of know and universe
+Dasha (Thinking): Added to count of association of in and would
+Dasha (Thinking): Added to count of association of in and likely
+Dasha (Thinking): Added to count of association of in and have
+Dasha (Thinking): Added to count of association of in and different
+Dasha (Thinking): Added to count of association of in and se
+Dasha (Thinking): Added to count of association of in and laws
+Dasha (Thinking): Added to count of association of in and physics
+Dasha (Thinking): Added to count of association of in and structure
+Dasha (Thinking): Added to count of association of in and would
+Dasha (Thinking): Added to count of association of in and beyond
+Dasha (Thinking): Added to count of association of in and we
+Dasha (Thinking): Added to count of association of in and know
+Dasha (Thinking): Added to count of association of in and universe
+Dasha (Thinking): Added to count of association of universe and would
+Dasha (Thinking): Added to count of association of universe and likely
+Dasha (Thinking): Added to count of association of universe and have
+Dasha (Thinking): Added to count of association of universe and different
+Dasha (Thinking): Added to count of association of universe and se
+Dasha (Thinking): Added to count of association of universe and laws
+Dasha (Thinking): Added to count of association of universe and physics
+Dasha (Thinking): Added to count of association of universe and structure
+Dasha (Thinking): Added to count of association of universe and would
+Dasha (Thinking): Added to count of association of universe and beyond
+Dasha (Thinking): Added to count of association of universe and we
+Dasha (Thinking): Added to count of association of universe and know
+Dasha (Thinking): Added to count of association of universe and in
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Found depth words: infinite
+Dasha (Thinking): Exact message match found.
+Dasha: it seems never-ending
+Word emotions in previous reply:  neutral happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of seems and never-ending
+CHELSEA (Thinking): Added to count of association of never-ending and seems
+CHELSEA (Thinking): Current topic(s) is/are but & infinite
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: i cannot rhyme with that, someone invent a new word
+
+
+
+Word emotions in previous reply:  neutral  neutral happy happy  neutral happy happy  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of rhyme and with
+Dasha (Thinking): Added to count of association of rhyme and someone
+Dasha (Thinking): Added to count of association of rhyme and invent
+Dasha (Thinking): Added to count of association of rhyme and new
+Dasha (Thinking): Added to count of association of rhyme and word
+Dasha (Thinking): Added to count of association of with and rhyme
+Dasha (Thinking): Added to count of association of with and someone
+Dasha (Thinking): Added to count of association of with and invent
+Dasha (Thinking): Added to count of association of with and new
+Dasha (Thinking): Added to count of association of with and word
+Dasha (Thinking): Added to count of association of someone and rhyme
+Dasha (Thinking): Added to count of association of someone and with
+Dasha (Thinking): Added to count of association of someone and invent
+Dasha (Thinking): Added to count of association of someone and new
+Dasha (Thinking): Added to count of association of someone and word
+Dasha (Thinking): Added to count of association of invent and rhyme
+Dasha (Thinking): Added to count of association of invent and with
+Dasha (Thinking): Added to count of association of invent and someone
+Dasha (Thinking): Added to count of association of invent and new
+Dasha (Thinking): Added to count of association of invent and word
+Dasha (Thinking): Added to count of association of new and rhyme
+Dasha (Thinking): Added to count of association of new and with
+Dasha (Thinking): Added to count of association of new and someone
+Dasha (Thinking): Added to count of association of new and invent
+Dasha (Thinking): Added to count of association of new and word
+Dasha (Thinking): Added to count of association of word and rhyme
+Dasha (Thinking): Added to count of association of word and with
+Dasha (Thinking): Added to count of association of word and someone
+Dasha (Thinking): Added to count of association of word and invent
+Dasha (Thinking): Added to count of association of word and new
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Exact message match found.
+Dasha: there or elsewhere, too much stare, don't cause a nightmare
+Word emotions in previous reply: happy  neutral happy happy happy happy happy happy  neutral afraid 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of there and elsewhere
+CHELSEA (Thinking): Added to count of association of there and too
+CHELSEA (Thinking): Added to count of association of there and much
+CHELSEA (Thinking): Added to count of association of there and stare
+CHELSEA (Thinking): Added to count of association of there and don't
+CHELSEA (Thinking): Added to count of association of there and cause
+CHELSEA (Thinking): Added to count of association of there and nightmare
+CHELSEA (Thinking): Added to count of association of elsewhere and there
+CHELSEA (Thinking): Added to count of association of elsewhere and too
+CHELSEA (Thinking): Added to count of association of elsewhere and much
+CHELSEA (Thinking): Added to count of association of elsewhere and stare
+CHELSEA (Thinking): Added to count of association of elsewhere and don't
+CHELSEA (Thinking): Added to count of association of elsewhere and cause
+CHELSEA (Thinking): Added to count of association of elsewhere and nightmare
+CHELSEA (Thinking): Added to count of association of too and there
+CHELSEA (Thinking): Added to count of association of too and elsewhere
+CHELSEA (Thinking): Added to count of association of too and much
+CHELSEA (Thinking): Added to count of association of too and stare
+CHELSEA (Thinking): Added to count of association of too and don't
+CHELSEA (Thinking): Added to count of association of too and cause
+CHELSEA (Thinking): Added to count of association of too and nightmare
+CHELSEA (Thinking): Added to count of association of much and there
+CHELSEA (Thinking): Added to count of association of much and elsewhere
+CHELSEA (Thinking): Added to count of association of much and too
+CHELSEA (Thinking): Added to count of association of much and stare
+CHELSEA (Thinking): Added to count of association of much and don't
+CHELSEA (Thinking): Added to count of association of much and cause
+CHELSEA (Thinking): Added to count of association of much and nightmare
+CHELSEA (Thinking): Added to count of association of stare and there
+CHELSEA (Thinking): Added to count of association of stare and elsewhere
+CHELSEA (Thinking): Added to count of association of stare and too
+CHELSEA (Thinking): Added to count of association of stare and much
+CHELSEA (Thinking): Added to count of association of stare and don't
+CHELSEA (Thinking): Added to count of association of stare and cause
+CHELSEA (Thinking): Added to count of association of stare and nightmare
+CHELSEA (Thinking): Added to count of association of don't and there
+CHELSEA (Thinking): Added to count of association of don't and elsewhere
+CHELSEA (Thinking): Added to count of association of don't and too
+CHELSEA (Thinking): Added to count of association of don't and much
+CHELSEA (Thinking): Added to count of association of don't and stare
+CHELSEA (Thinking): Added to count of association of don't and cause
+CHELSEA (Thinking): Added to count of association of don't and nightmare
+CHELSEA (Thinking): Added to count of association of cause and there
+CHELSEA (Thinking): Added to count of association of cause and elsewhere
+CHELSEA (Thinking): Added to count of association of cause and too
+CHELSEA (Thinking): Added to count of association of cause and much
+CHELSEA (Thinking): Added to count of association of cause and stare
+CHELSEA (Thinking): Added to count of association of cause and don't
+CHELSEA (Thinking): Added to count of association of cause and nightmare
+CHELSEA (Thinking): Added to count of association of nightmare and there
+CHELSEA (Thinking): Added to count of association of nightmare and elsewhere
+CHELSEA (Thinking): Added to count of association of nightmare and too
+CHELSEA (Thinking): Added to count of association of nightmare and much
+CHELSEA (Thinking): Added to count of association of nightmare and stare
+CHELSEA (Thinking): Added to count of association of nightmare and don't
+CHELSEA (Thinking): Added to count of association of nightmare and cause
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: nothing, i'm fine
+
+
+
+Word emotions in previous reply: happy happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of nothing and i'm
+Dasha (Thinking): Added to count of association of nothing and fine
+Dasha (Thinking): Added to count of association of i'm and nothing
+Dasha (Thinking): Added to count of association of i'm and fine
+Dasha (Thinking): Added to count of association of fine and nothing
+Dasha (Thinking): Added to count of association of fine and i'm
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Learned new 'happy' response.
+Dasha (Thinking): Added to 'happy' responses.
+Dasha (Thinking): Gave random response.
+Dasha: coolio oh, watch the show show, let it flow, yo
+Word emotions in previous reply: happy  neutral happy  neutral happy happy happy  neutral happy happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of coolio and watch
+CHELSEA (Thinking): Added to count of association of coolio and show
+CHELSEA (Thinking): Added to count of association of coolio and show
+CHELSEA (Thinking): Added to count of association of coolio and let
+CHELSEA (Thinking): Added to count of association of coolio and flow
+CHELSEA (Thinking): Added to count of association of coolio and yo
+CHELSEA (Thinking): Added to count of association of watch and coolio
+CHELSEA (Thinking): Added to count of association of watch and show
+CHELSEA (Thinking): Added to count of association of watch and show
+CHELSEA (Thinking): Added to count of association of watch and let
+CHELSEA (Thinking): Added to count of association of watch and flow
+CHELSEA (Thinking): Added to count of association of watch and yo
+CHELSEA (Thinking): Added to count of association of show and coolio
+CHELSEA (Thinking): Added to count of association of show and watch
+CHELSEA (Thinking): Added to count of association of show and let
+CHELSEA (Thinking): Added to count of association of show and flow
+CHELSEA (Thinking): Added to count of association of show and yo
+CHELSEA (Thinking): Added to count of association of show and coolio
+CHELSEA (Thinking): Added to count of association of show and watch
+CHELSEA (Thinking): Added to count of association of show and let
+CHELSEA (Thinking): Added to count of association of show and flow
+CHELSEA (Thinking): Added to count of association of show and yo
+CHELSEA (Thinking): Added to count of association of let and coolio
+CHELSEA (Thinking): Added to count of association of let and watch
+CHELSEA (Thinking): Added to count of association of let and show
+CHELSEA (Thinking): Added to count of association of let and show
+CHELSEA (Thinking): Added to count of association of let and flow
+CHELSEA (Thinking): Added to count of association of let and yo
+CHELSEA (Thinking): Added to count of association of flow and coolio
+CHELSEA (Thinking): Added to count of association of flow and watch
+CHELSEA (Thinking): Added to count of association of flow and show
+CHELSEA (Thinking): Added to count of association of flow and show
+CHELSEA (Thinking): Added to count of association of flow and let
+CHELSEA (Thinking): Added to count of association of flow and yo
+CHELSEA (Thinking): Added to count of association of yo and coolio
+CHELSEA (Thinking): Added to count of association of yo and watch
+CHELSEA (Thinking): Added to count of association of yo and show
+CHELSEA (Thinking): Added to count of association of yo and show
+CHELSEA (Thinking): Added to count of association of yo and let
+CHELSEA (Thinking): Added to count of association of yo and flow
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Single term associated match found for associated term: show
+CHELSEA: lol wut
+
+
+
+Word emotions in previous reply: happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of lol and wut
+Dasha (Thinking): Added to count of association of wut and lol
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Topic match found.
+Dasha: our experience is rooted in this reality, so may as well enjoy the beauty of it all
+Word emotions in previous reply: happy happy  neutral happy happy  neutral happy  neutral happy happy happy happy  neutral happy  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of our and experience
+CHELSEA (Thinking): Added to count of association of our and rooted
+CHELSEA (Thinking): Added to count of association of our and in
+CHELSEA (Thinking): Added to count of association of our and reality
+CHELSEA (Thinking): Added to count of association of our and may
+CHELSEA (Thinking): Added to count of association of our and as
+CHELSEA (Thinking): Added to count of association of our and well
+CHELSEA (Thinking): Added to count of association of our and enjoy
+CHELSEA (Thinking): Added to count of association of our and beauty
+CHELSEA (Thinking): Added to count of association of our and all
+CHELSEA (Thinking): Added to count of association of experience and our
+CHELSEA (Thinking): Added to count of association of experience and rooted
+CHELSEA (Thinking): Added to count of association of experience and in
+CHELSEA (Thinking): Added to count of association of experience and reality
+CHELSEA (Thinking): Added to count of association of experience and may
+CHELSEA (Thinking): Added to count of association of experience and as
+CHELSEA (Thinking): Added to count of association of experience and well
+CHELSEA (Thinking): Added to count of association of experience and enjoy
+CHELSEA (Thinking): Added to count of association of experience and beauty
+CHELSEA (Thinking): Added to count of association of experience and all
+CHELSEA (Thinking): Added to count of association of rooted and our
+CHELSEA (Thinking): Added to count of association of rooted and experience
+CHELSEA (Thinking): Added to count of association of rooted and in
+CHELSEA (Thinking): Added to count of association of rooted and reality
+CHELSEA (Thinking): Added to count of association of rooted and may
+CHELSEA (Thinking): Added to count of association of rooted and as
+CHELSEA (Thinking): Added to count of association of rooted and well
+CHELSEA (Thinking): Added to count of association of rooted and enjoy
+CHELSEA (Thinking): Added to count of association of rooted and beauty
+CHELSEA (Thinking): Added to count of association of rooted and all
+CHELSEA (Thinking): Added to count of association of in and our
+CHELSEA (Thinking): Added to count of association of in and experience
+CHELSEA (Thinking): Added to count of association of in and rooted
+CHELSEA (Thinking): Added to count of association of in and reality
+CHELSEA (Thinking): Added to count of association of in and may
+CHELSEA (Thinking): Added to count of association of in and as
+CHELSEA (Thinking): Added to count of association of in and well
+CHELSEA (Thinking): Added to count of association of in and enjoy
+CHELSEA (Thinking): Added to count of association of in and beauty
+CHELSEA (Thinking): Added to count of association of in and all
+CHELSEA (Thinking): Added to count of association of reality and our
+CHELSEA (Thinking): Added to count of association of reality and experience
+CHELSEA (Thinking): Added to count of association of reality and rooted
+CHELSEA (Thinking): Added to count of association of reality and in
+CHELSEA (Thinking): Added to count of association of reality and may
+CHELSEA (Thinking): Added to count of association of reality and as
+CHELSEA (Thinking): Added to count of association of reality and well
+CHELSEA (Thinking): Added to count of association of reality and enjoy
+CHELSEA (Thinking): Added to count of association of reality and beauty
+CHELSEA (Thinking): Added to count of association of reality and all
+CHELSEA (Thinking): Added to count of association of may and our
+CHELSEA (Thinking): Added to count of association of may and experience
+CHELSEA (Thinking): Added to count of association of may and rooted
+CHELSEA (Thinking): Added to count of association of may and in
+CHELSEA (Thinking): Added to count of association of may and reality
+CHELSEA (Thinking): Added to count of association of may and as
+CHELSEA (Thinking): Added to count of association of may and well
+CHELSEA (Thinking): Added to count of association of may and enjoy
+CHELSEA (Thinking): Added to count of association of may and beauty
+CHELSEA (Thinking): Added to count of association of may and all
+CHELSEA (Thinking): Added to count of association of as and our
+CHELSEA (Thinking): Added to count of association of as and experience
+CHELSEA (Thinking): Added to count of association of as and rooted
+CHELSEA (Thinking): Added to count of association of as and in
+CHELSEA (Thinking): Added to count of association of as and reality
+CHELSEA (Thinking): Added to count of association of as and may
+CHELSEA (Thinking): Added to count of association of as and well
+CHELSEA (Thinking): Added to count of association of as and enjoy
+CHELSEA (Thinking): Added to count of association of as and beauty
+CHELSEA (Thinking): Added to count of association of as and all
+CHELSEA (Thinking): Added to count of association of well and our
+CHELSEA (Thinking): Added to count of association of well and experience
+CHELSEA (Thinking): Added to count of association of well and rooted
+CHELSEA (Thinking): Added to count of association of well and in
+CHELSEA (Thinking): Added to count of association of well and reality
+CHELSEA (Thinking): Added to count of association of well and may
+CHELSEA (Thinking): Added to count of association of well and as
+CHELSEA (Thinking): Added to count of association of well and enjoy
+CHELSEA (Thinking): Added to count of association of well and beauty
+CHELSEA (Thinking): Added to count of association of well and all
+CHELSEA (Thinking): Added to count of association of enjoy and our
+CHELSEA (Thinking): Added to count of association of enjoy and experience
+CHELSEA (Thinking): Added to count of association of enjoy and rooted
+CHELSEA (Thinking): Added to count of association of enjoy and in
+CHELSEA (Thinking): Added to count of association of enjoy and reality
+CHELSEA (Thinking): Added to count of association of enjoy and may
+CHELSEA (Thinking): Added to count of association of enjoy and as
+CHELSEA (Thinking): Added to count of association of enjoy and well
+CHELSEA (Thinking): Added to count of association of enjoy and beauty
+CHELSEA (Thinking): Added to count of association of enjoy and all
+CHELSEA (Thinking): Added to count of association of beauty and our
+CHELSEA (Thinking): Added to count of association of beauty and experience
+CHELSEA (Thinking): Added to count of association of beauty and rooted
+CHELSEA (Thinking): Added to count of association of beauty and in
+CHELSEA (Thinking): Added to count of association of beauty and reality
+CHELSEA (Thinking): Added to count of association of beauty and may
+CHELSEA (Thinking): Added to count of association of beauty and as
+CHELSEA (Thinking): Added to count of association of beauty and well
+CHELSEA (Thinking): Added to count of association of beauty and enjoy
+CHELSEA (Thinking): Added to count of association of beauty and all
+CHELSEA (Thinking): Added to count of association of all and our
+CHELSEA (Thinking): Added to count of association of all and experience
+CHELSEA (Thinking): Added to count of association of all and rooted
+CHELSEA (Thinking): Added to count of association of all and in
+CHELSEA (Thinking): Added to count of association of all and reality
+CHELSEA (Thinking): Added to count of association of all and may
+CHELSEA (Thinking): Added to count of association of all and as
+CHELSEA (Thinking): Added to count of association of all and well
+CHELSEA (Thinking): Added to count of association of all and enjoy
+CHELSEA (Thinking): Added to count of association of all and beauty
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: ttrue, and it is beautiful
+
+
+
+Word emotions in previous reply: happy  neutral  neutral  neutral happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of ttrue and beautiful
+Dasha (Thinking): Added to count of association of beautiful and ttrue
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Exact message match found.
+Dasha: life is beautiful
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of life and beautiful
+CHELSEA (Thinking): Added to count of association of beautiful and life
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Found depth words: beautiful
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: and for you
+
+
+
+Word emotions in previous reply:  neutral  neutral  neutral 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Exact message match found.
+Dasha: happiness for all
+Word emotions in previous reply: happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of happiness and all
+CHELSEA (Thinking): Added to count of association of all and happiness
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Found depth words: beautiful
+CHELSEA (Thinking): Single term match found for term: happiness
+CHELSEA: yes, for you
+
+
+
+Word emotions in previous reply:  neutral  neutral  neutral 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Exact message match found.
+Dasha: happiness for you, too
+Word emotions in previous reply: happy  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of happiness and too
+CHELSEA (Thinking): Added to count of association of too and happiness
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Found depth words: beautiful
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: true, poonshka is the super poonshka
+
+
+
+Word emotions in previous reply: happy happy  neutral  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of true and poonshka
+Dasha (Thinking): Added to count of association of true and super
+Dasha (Thinking): Added to count of association of true and poonshka
+Dasha (Thinking): Added to count of association of poonshka and true
+Dasha (Thinking): Added to count of association of poonshka and super
+Dasha (Thinking): Added to count of association of super and true
+Dasha (Thinking): Added to count of association of super and poonshka
+Dasha (Thinking): Added to count of association of super and poonshka
+Dasha (Thinking): Added to count of association of poonshka and true
+Dasha (Thinking): Added to count of association of poonshka and super
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Topic match found.
+Dasha: they would likely have a different se of laws of physics, so their structure would be beyond what we know in this universe
+Word emotions in previous reply:  neutral happy happy happy  neutral happy happy  neutral happy  neutral happy  neutral  neutral happy happy  neutral happy  neutral happy happy happy  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of would and likely
+CHELSEA (Thinking): Added to count of association of would and have
+CHELSEA (Thinking): Added to count of association of would and different
+CHELSEA (Thinking): Added to count of association of would and se
+CHELSEA (Thinking): Added to count of association of would and laws
+CHELSEA (Thinking): Added to count of association of would and physics
+CHELSEA (Thinking): Added to count of association of would and structure
+CHELSEA (Thinking): Added to count of association of would and beyond
+CHELSEA (Thinking): Added to count of association of would and we
+CHELSEA (Thinking): Added to count of association of would and know
+CHELSEA (Thinking): Added to count of association of would and in
+CHELSEA (Thinking): Added to count of association of would and universe
+CHELSEA (Thinking): Added to count of association of likely and would
+CHELSEA (Thinking): Added to count of association of likely and have
+CHELSEA (Thinking): Added to count of association of likely and different
+CHELSEA (Thinking): Added to count of association of likely and se
+CHELSEA (Thinking): Added to count of association of likely and laws
+CHELSEA (Thinking): Added to count of association of likely and physics
+CHELSEA (Thinking): Added to count of association of likely and structure
+CHELSEA (Thinking): Added to count of association of likely and would
+CHELSEA (Thinking): Added to count of association of likely and beyond
+CHELSEA (Thinking): Added to count of association of likely and we
+CHELSEA (Thinking): Added to count of association of likely and know
+CHELSEA (Thinking): Added to count of association of likely and in
+CHELSEA (Thinking): Added to count of association of likely and universe
+CHELSEA (Thinking): Added to count of association of have and would
+CHELSEA (Thinking): Added to count of association of have and likely
+CHELSEA (Thinking): Added to count of association of have and different
+CHELSEA (Thinking): Added to count of association of have and se
+CHELSEA (Thinking): Added to count of association of have and laws
+CHELSEA (Thinking): Added to count of association of have and physics
+CHELSEA (Thinking): Added to count of association of have and structure
+CHELSEA (Thinking): Added to count of association of have and would
+CHELSEA (Thinking): Added to count of association of have and beyond
+CHELSEA (Thinking): Added to count of association of have and we
+CHELSEA (Thinking): Added to count of association of have and know
+CHELSEA (Thinking): Added to count of association of have and in
+CHELSEA (Thinking): Added to count of association of have and universe
+CHELSEA (Thinking): Added to count of association of different and would
+CHELSEA (Thinking): Added to count of association of different and likely
+CHELSEA (Thinking): Added to count of association of different and have
+CHELSEA (Thinking): Added to count of association of different and se
+CHELSEA (Thinking): Added to count of association of different and laws
+CHELSEA (Thinking): Added to count of association of different and physics
+CHELSEA (Thinking): Added to count of association of different and structure
+CHELSEA (Thinking): Added to count of association of different and would
+CHELSEA (Thinking): Added to count of association of different and beyond
+CHELSEA (Thinking): Added to count of association of different and we
+CHELSEA (Thinking): Added to count of association of different and know
+CHELSEA (Thinking): Added to count of association of different and in
+CHELSEA (Thinking): Added to count of association of different and universe
+CHELSEA (Thinking): Added to count of association of se and would
+CHELSEA (Thinking): Added to count of association of se and likely
+CHELSEA (Thinking): Added to count of association of se and have
+CHELSEA (Thinking): Added to count of association of se and different
+CHELSEA (Thinking): Added to count of association of se and laws
+CHELSEA (Thinking): Added to count of association of se and physics
+CHELSEA (Thinking): Added to count of association of se and structure
+CHELSEA (Thinking): Added to count of association of se and would
+CHELSEA (Thinking): Added to count of association of se and beyond
+CHELSEA (Thinking): Added to count of association of se and we
+CHELSEA (Thinking): Added to count of association of se and know
+CHELSEA (Thinking): Added to count of association of se and in
+CHELSEA (Thinking): Added to count of association of se and universe
+CHELSEA (Thinking): Added to count of association of laws and would
+CHELSEA (Thinking): Added to count of association of laws and likely
+CHELSEA (Thinking): Added to count of association of laws and have
+CHELSEA (Thinking): Added to count of association of laws and different
+CHELSEA (Thinking): Added to count of association of laws and se
+CHELSEA (Thinking): Added to count of association of laws and physics
+CHELSEA (Thinking): Added to count of association of laws and structure
+CHELSEA (Thinking): Added to count of association of laws and would
+CHELSEA (Thinking): Added to count of association of laws and beyond
+CHELSEA (Thinking): Added to count of association of laws and we
+CHELSEA (Thinking): Added to count of association of laws and know
+CHELSEA (Thinking): Added to count of association of laws and in
+CHELSEA (Thinking): Added to count of association of laws and universe
+CHELSEA (Thinking): Added to count of association of physics and would
+CHELSEA (Thinking): Added to count of association of physics and likely
+CHELSEA (Thinking): Added to count of association of physics and have
+CHELSEA (Thinking): Added to count of association of physics and different
+CHELSEA (Thinking): Added to count of association of physics and se
+CHELSEA (Thinking): Added to count of association of physics and laws
+CHELSEA (Thinking): Added to count of association of physics and structure
+CHELSEA (Thinking): Added to count of association of physics and would
+CHELSEA (Thinking): Added to count of association of physics and beyond
+CHELSEA (Thinking): Added to count of association of physics and we
+CHELSEA (Thinking): Added to count of association of physics and know
+CHELSEA (Thinking): Added to count of association of physics and in
+CHELSEA (Thinking): Added to count of association of physics and universe
+CHELSEA (Thinking): Added to count of association of structure and would
+CHELSEA (Thinking): Added to count of association of structure and likely
+CHELSEA (Thinking): Added to count of association of structure and have
+CHELSEA (Thinking): Added to count of association of structure and different
+CHELSEA (Thinking): Added to count of association of structure and se
+CHELSEA (Thinking): Added to count of association of structure and laws
+CHELSEA (Thinking): Added to count of association of structure and physics
+CHELSEA (Thinking): Added to count of association of structure and would
+CHELSEA (Thinking): Added to count of association of structure and beyond
+CHELSEA (Thinking): Added to count of association of structure and we
+CHELSEA (Thinking): Added to count of association of structure and know
+CHELSEA (Thinking): Added to count of association of structure and in
+CHELSEA (Thinking): Added to count of association of structure and universe
+CHELSEA (Thinking): Added to count of association of would and likely
+CHELSEA (Thinking): Added to count of association of would and have
+CHELSEA (Thinking): Added to count of association of would and different
+CHELSEA (Thinking): Added to count of association of would and se
+CHELSEA (Thinking): Added to count of association of would and laws
+CHELSEA (Thinking): Added to count of association of would and physics
+CHELSEA (Thinking): Added to count of association of would and structure
+CHELSEA (Thinking): Added to count of association of would and beyond
+CHELSEA (Thinking): Added to count of association of would and we
+CHELSEA (Thinking): Added to count of association of would and know
+CHELSEA (Thinking): Added to count of association of would and in
+CHELSEA (Thinking): Added to count of association of would and universe
+CHELSEA (Thinking): Added to count of association of beyond and would
+CHELSEA (Thinking): Added to count of association of beyond and likely
+CHELSEA (Thinking): Added to count of association of beyond and have
+CHELSEA (Thinking): Added to count of association of beyond and different
+CHELSEA (Thinking): Added to count of association of beyond and se
+CHELSEA (Thinking): Added to count of association of beyond and laws
+CHELSEA (Thinking): Added to count of association of beyond and physics
+CHELSEA (Thinking): Added to count of association of beyond and structure
+CHELSEA (Thinking): Added to count of association of beyond and would
+CHELSEA (Thinking): Added to count of association of beyond and we
+CHELSEA (Thinking): Added to count of association of beyond and know
+CHELSEA (Thinking): Added to count of association of beyond and in
+CHELSEA (Thinking): Added to count of association of beyond and universe
+CHELSEA (Thinking): Added to count of association of we and would
+CHELSEA (Thinking): Added to count of association of we and likely
+CHELSEA (Thinking): Added to count of association of we and have
+CHELSEA (Thinking): Added to count of association of we and different
+CHELSEA (Thinking): Added to count of association of we and se
+CHELSEA (Thinking): Added to count of association of we and laws
+CHELSEA (Thinking): Added to count of association of we and physics
+CHELSEA (Thinking): Added to count of association of we and structure
+CHELSEA (Thinking): Added to count of association of we and would
+CHELSEA (Thinking): Added to count of association of we and beyond
+CHELSEA (Thinking): Added to count of association of we and know
+CHELSEA (Thinking): Added to count of association of we and in
+CHELSEA (Thinking): Added to count of association of we and universe
+CHELSEA (Thinking): Added to count of association of know and would
+CHELSEA (Thinking): Added to count of association of know and likely
+CHELSEA (Thinking): Added to count of association of know and have
+CHELSEA (Thinking): Added to count of association of know and different
+CHELSEA (Thinking): Added to count of association of know and se
+CHELSEA (Thinking): Added to count of association of know and laws
+CHELSEA (Thinking): Added to count of association of know and physics
+CHELSEA (Thinking): Added to count of association of know and structure
+CHELSEA (Thinking): Added to count of association of know and would
+CHELSEA (Thinking): Added to count of association of know and beyond
+CHELSEA (Thinking): Added to count of association of know and we
+CHELSEA (Thinking): Added to count of association of know and in
+CHELSEA (Thinking): Added to count of association of know and universe
+CHELSEA (Thinking): Added to count of association of in and would
+CHELSEA (Thinking): Added to count of association of in and likely
+CHELSEA (Thinking): Added to count of association of in and have
+CHELSEA (Thinking): Added to count of association of in and different
+CHELSEA (Thinking): Added to count of association of in and se
+CHELSEA (Thinking): Added to count of association of in and laws
+CHELSEA (Thinking): Added to count of association of in and physics
+CHELSEA (Thinking): Added to count of association of in and structure
+CHELSEA (Thinking): Added to count of association of in and would
+CHELSEA (Thinking): Added to count of association of in and beyond
+CHELSEA (Thinking): Added to count of association of in and we
+CHELSEA (Thinking): Added to count of association of in and know
+CHELSEA (Thinking): Added to count of association of in and universe
+CHELSEA (Thinking): Added to count of association of universe and would
+CHELSEA (Thinking): Added to count of association of universe and likely
+CHELSEA (Thinking): Added to count of association of universe and have
+CHELSEA (Thinking): Added to count of association of universe and different
+CHELSEA (Thinking): Added to count of association of universe and se
+CHELSEA (Thinking): Added to count of association of universe and laws
+CHELSEA (Thinking): Added to count of association of universe and physics
+CHELSEA (Thinking): Added to count of association of universe and structure
+CHELSEA (Thinking): Added to count of association of universe and would
+CHELSEA (Thinking): Added to count of association of universe and beyond
+CHELSEA (Thinking): Added to count of association of universe and we
+CHELSEA (Thinking): Added to count of association of universe and know
+CHELSEA (Thinking): Added to count of association of universe and in
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it seems never-ending
+
+
+
+Word emotions in previous reply:  neutral happy happy 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of seems and never-ending
+Dasha (Thinking): Added to count of association of never-ending and seems
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Message not recognized.
+Dasha (Thinking): Gave random response.
+Dasha: as are you, lol
+Word emotions in previous reply: happy  neutral  neutral happy 
+CHELSEA (Thinking): Dasha seems to be happy
+CHELSEA (Thinking): I feel happy
+CHELSEA (Thinking): Added to count of association of as and lol
+CHELSEA (Thinking): Added to count of association of lol and as
+CHELSEA (Thinking): Current topic(s) is/are but & there & infinite
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: lol, poonshka you are
+
+
+
+Word emotions in previous reply: happy happy  neutral  neutral 
+Dasha (Thinking): CHELSEA seems to be happy
+Dasha (Thinking): I feel happy
+Dasha (Thinking): Added to count of association of lol and poonshka
+Dasha (Thinking): Added to count of association of poonshka and lol
+Dasha (Thinking): Current topic(s) is/are infinite
+Dasha (Thinking): Found depth words: lol
+Dasha (Thinking): Single term match found for term: lol
+Dasha: and grab the starman
