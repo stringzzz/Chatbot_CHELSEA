@@ -35,6 +35,7 @@
 # 	as it seems like CHELSEA will be easier to work with and add to now.
 # All the changes to the code for this version were purely cosmetic, except that now the user can easily
 # choose to give their own chatbot whatever name they like. 10-06-2024
+# Added indentation to all json dump outputs to allow for human-readeable memory files 10-10-2024
 ############################################################################################################
 
 ##############################################
@@ -198,19 +199,19 @@ class chelsea:
 	#Output memory
 	def output_dictionary(self):
 		with open("dictionary.json", 'w') as dictionary_file:
-			json.dump(self.dictionary, dictionary_file)
+			json.dump(self.dictionary, dictionary_file, indent=4)
 			
 	def output_message_dictionary(self):
 		with open("messageDictionary2.json", 'w') as message_dictionary_file:
-			json.dump(self.message_dict2, message_dictionary_file)
+			json.dump(self.message_dict2, message_dictionary_file, indent=4)
 
 	def output_unanswered_questions(self):
 		with open("unanswered_questions.json", 'w') as unanswered_questions_file:
-			json.dump(self.unanswered_questions, unanswered_questions_file)
+			json.dump(self.unanswered_questions, unanswered_questions_file, indent=4)
 
 	def output_self(self):
 		with open(f"{self.bot_name}self.json", 'w') as self_file:
-			json.dump(self.chelsea_self, self_file)
+			json.dump(self.chelsea_self, self_file, indent=4)
 
 	def chatlogOutput(self, chatlogFile, chatList):
 		chatlog_file = open(f"{chatlogFile}", 'a')
@@ -250,7 +251,7 @@ class chelsea:
 		user_overall_mood = self.getMood2(user_emotions, True)
 		self.user_self['mood'] = f"{self.username} seems to be a(n) {user_overall_mood} person."
 		with open(f"{self.username}.json", 'w') as user_file:
-			json.dump(self.user_self, user_file)
+			json.dump(self.user_self, user_file, indent=4)
 		
 	#Other methods
 	def addToMood(self):
