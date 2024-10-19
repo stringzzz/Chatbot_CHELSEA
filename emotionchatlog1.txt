@@ -1,4 +1,6 @@
-Angry
+10/18/2024, 17:20:02
+CHELSEA: What is your name? 
+CHELSEA: hello, angry_bob
 
 angry_bob: racists make me so angry, angry!!!!!!!!!
 CHELSEA (Thinking): Exclamation detected, exclaim count: 9
@@ -29,7 +31,12 @@ CHELSEA (Thinking): Current topic(s) is/are angry
 CHELSEA (Thinking): Exact message match found.
 CHELSEA: leave me alone
 
-Sad
+angry_bob: //exit
+
+
+10/18/2024, 17:20:45
+CHELSEA: What is your name? 
+CHELSEA: hello, sad_joe
 
 sad_joe: i am so sad, depressed, and lonely!!!!!!!!
 CHELSEA (Thinking): Learned new 'User am'.
@@ -74,7 +81,12 @@ CHELSEA (Thinking): Current topic(s) is/are am & sad & depressed & lonely
 CHELSEA (Thinking): Exact message match found.
 CHELSEA: it is all bad
 
-Afraid
+sad_joe: //exit
+
+
+10/18/2024, 17:21:17
+CHELSEA: What is your name? 
+CHELSEA: hello, scared_fred
 
 scared_fred: i am scared and afraid, so afraid!!!!!!
 CHELSEA (Thinking): Learned new 'User am'.
@@ -113,3 +125,5 @@ CHELSEA (Thinking): I feel afraid
 CHELSEA (Thinking): Current topic(s) is/are afraid
 CHELSEA (Thinking): Exact message match found.
 CHELSEA: I am scared!
+
+scared_fred: //exit
