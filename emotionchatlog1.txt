@@ -1,0 +1,115 @@
+Angry
+
+angry_bob: racists make me so angry, angry!!!!!!!!!
+CHELSEA (Thinking): Exclamation detected, exclaim count: 9
+Word emotions in previous reply: angry  neutral  neutral  neutral angry angry 
+CHELSEA (Thinking): angry_bob seems to be angry
+CHELSEA (Thinking): I feel angry
+CHELSEA (Thinking): Added to count of association of racists and angry
+CHELSEA (Thinking): Added to count of association of racists and angry
+CHELSEA (Thinking): Added to count of association of angry and racists
+CHELSEA (Thinking): Added to count of association of angry and racists
+CHELSEA (Thinking): Current topic(s) is/are angry
+CHELSEA (Thinking): Single term match found for term: angry
+CHELSEA: what is real?
+
+angry_bob: hello
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): angry_bob seems to be happy
+CHELSEA (Thinking): I feel angry
+CHELSEA (Thinking): Current topic(s) is/are angry
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: anger anger anger anger understanding
+
+angry_bob: sup
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): angry_bob seems to be happy
+CHELSEA (Thinking): I feel angry
+CHELSEA (Thinking): Current topic(s) is/are angry
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: leave me alone
+
+Sad
+
+sad_joe: i am so sad, depressed, and lonely!!!!!!!!
+CHELSEA (Thinking): Learned new 'User am'.
+CHELSEA (Thinking): Exclamation detected, exclaim count: 8
+Word emotions in previous reply:  neutral happy  neutral sad sad  neutral  unknown 
+CHELSEA (Thinking): sad_joe seems to be sad
+CHELSEA (Thinking): I feel sad
+CHELSEA (Thinking): Unknown words detected: ['lonely']
+CHELSEA (Thinking): Learned unknown words as 'sad' words.
+CHELSEA (Thinking): Learned unknown words as unanswered questions
+CHELSEA (Thinking): Added to count of association of am and sad
+CHELSEA (Thinking): Learned association of am and depressed
+CHELSEA (Thinking): Learned association of am and lonely
+CHELSEA (Thinking): Added to count of association of sad and am
+CHELSEA (Thinking): Learned association of sad and depressed
+CHELSEA (Thinking): Learned association of sad and lonely
+CHELSEA (Thinking): Learned association of depressed and am
+CHELSEA (Thinking): Learned association of depressed and sad
+CHELSEA (Thinking): Learned association of depressed and lonely
+CHELSEA (Thinking): Learned association of lonely and am
+CHELSEA (Thinking): Learned association of lonely and sad
+CHELSEA (Thinking): Learned association of lonely and depressed
+CHELSEA (Thinking): Current topic(s) is/are am & sad & depressed & lonely
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Added to 'sad' responses.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: I do not feel like talking
+
+sad_joe: hello
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): sad_joe seems to be happy
+CHELSEA (Thinking): I feel sad
+CHELSEA (Thinking): Current topic(s) is/are am & sad & depressed & lonely
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: i am so sad, depressed, and lonely!!!!!!!!
+
+sad_joe: sup
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): sad_joe seems to be happy
+CHELSEA (Thinking): I feel sad
+CHELSEA (Thinking): Current topic(s) is/are am & sad & depressed & lonely
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: it is all bad
+
+Afraid
+
+scared_fred: i am scared and afraid, so afraid!!!!!!
+CHELSEA (Thinking): Learned new 'User am'.
+CHELSEA (Thinking): Exclamation detected, exclaim count: 6
+Word emotions in previous reply:  neutral happy afraid  neutral afraid  neutral afraid 
+CHELSEA (Thinking): scared_fred seems to be afraid
+CHELSEA (Thinking): I feel afraid
+CHELSEA (Thinking): Added to count of association of am and scared
+CHELSEA (Thinking): Learned association of am and afraid
+CHELSEA (Thinking): Added to count of association of am and afraid
+CHELSEA (Thinking): Added to count of association of scared and am
+CHELSEA (Thinking): Learned association of scared and afraid
+CHELSEA (Thinking): Added to count of association of scared and afraid
+CHELSEA (Thinking): Learned association of afraid and am
+CHELSEA (Thinking): Learned association of afraid and scared
+CHELSEA (Thinking): Added to count of association of afraid and am
+CHELSEA (Thinking): Added to count of association of afraid and scared
+CHELSEA (Thinking): Current topic(s) is/are afraid
+CHELSEA (Thinking): Message not recognized.
+CHELSEA (Thinking): Added to 'afraid' responses.
+CHELSEA (Thinking): Gave random response.
+CHELSEA: no!
+
+scared_fred: hello
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): scared_fred seems to be happy
+CHELSEA (Thinking): I feel afraid
+CHELSEA (Thinking): Current topic(s) is/are afraid
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: get away from me!
+
+scared_fred: sup
+Word emotions in previous reply: happy 
+CHELSEA (Thinking): scared_fred seems to be happy
+CHELSEA (Thinking): I feel afraid
+CHELSEA (Thinking): Current topic(s) is/are afraid
+CHELSEA (Thinking): Exact message match found.
+CHELSEA: I am scared!
