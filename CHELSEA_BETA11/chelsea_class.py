@@ -227,6 +227,8 @@ class chelsea:
 	def output_chelsea_data(self):
 		data_file = open(f"{self.bot_name}data.txt", 'w')
 		data_file.write(f"Words in emotion dictionary: {len(self.dictionary.keys())}\n")
+		for emotion in self.nEmotions:
+			data_file.write(f"Number of {emotion} words in dictionary: {len([word for word in self.dictionary.keys() if self.dictionary[word]["emotion"] == emotion])}\n")
 		message_count = 0
 		for emotion in self.nEmotions:
 			message_count += len(self.message_dict2[emotion])
