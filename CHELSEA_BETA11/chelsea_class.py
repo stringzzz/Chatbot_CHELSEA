@@ -117,7 +117,7 @@
 #
 # 26. No match, add response to list in message memory or learn brand new message/response pair
 #
-# 27. 1/3 chance asking unanswered question, else respond with random response from memory to keep conversation going
+# 27. 1/8 chance asking unanswered question, else respond with random response from memory to keep conversation going
 #########################################  
 
 import json
@@ -143,7 +143,7 @@ class chelsea:
 		self.Xchatlog = []
 		self.chatlog_file = {"regular": f"{self.bot_name}chatlog.txt", "extended": f"{self.bot_name}Xchatlog.txt" }
 		self.chelsea_self = {}
-		self.agree = ['agreed, ', 'arue ', 'aes ', 'i know ', 'true that, ', 'okay ', 'for sure, ', 'oh yeah, ', 'indeed, ', 'yep, ', 'you know it, ', 'correct, ']
+		self.agree = ['agreed, ', 'true ', 'yes ', 'i know ', 'true that, ', 'okay ', 'for sure, ', 'oh yeah, ', 'indeed, ', 'yep, ', 'you know it, ', 'correct, ']
 		self.disagree = ['no, ', 'disagree, ', 'wrong, ', 'not true, ', 'false, ', 'nope, ', 'incorrect, ', 'i know otherwise, ', 'oh no, ', 'not valid, ', 'negative, ']
 		self.topics = {}
 		self.previous_pairs = []
