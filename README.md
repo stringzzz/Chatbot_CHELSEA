@@ -19,6 +19,7 @@ IMPORTANT: If you are viewing this repo for the first time and want to jump into
 IMPORTANTER!!!: To save what CHELSEA just learned from chat, enter '//exit' without the single quotes to exit the chat and retain her memory.
 
 This is a video demonstration of talking to CHELSEA: https://www.youtube.com/watch?v=eCNmKNLkOZ8
+
 And here is a demonstration of CHELSEA talking to a copy of herself: https://www.youtube.com/watch?v=XYLXGI4dyTo
 
 
