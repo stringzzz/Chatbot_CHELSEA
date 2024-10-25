@@ -107,5 +107,5 @@ Here is the algortihm for how CHELSEA deals with the user's message:
 
  26. No match, add response to list in message memory or learn brand new message/response pair
 
- 27. 1/3 chance asking unanswered question, else respond with random response from memory to keep conversation going
+ 27. 1/8 chance asking unanswered question, else respond with random response from memory to keep conversation going
   
