@@ -118,7 +118,7 @@
 #
 # 26. No match, add response to list in message memory or learn brand new message/response pair
 #
-# 27. 1/8 chance asking unanswered question, else respond with random response from memory to keep conversation going
+# 27. 1/6 chance asking unanswered question, else respond with random response from memory to keep conversation going
 #########################################  
 
 import json
@@ -1063,7 +1063,7 @@ class chelsea:
 			self.message_dict2[self.reply_mood["mood"]][self.CHELSEA_previous_response].append(self.user_message)
 
 	def give_random_or_question_response(self):
-		if (random.randint(1, 8) == 1 and len(list(self.unanswered_questions.keys())) > 0):
+		if (random.randint(1, 6) == 1 and len(list(self.unanswered_questions.keys())) > 0):
 			#Ask unanswered question
 			random.shuffle(self.message_words)
 			response_made = False
