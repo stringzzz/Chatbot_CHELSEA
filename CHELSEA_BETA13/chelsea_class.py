@@ -597,7 +597,7 @@ class chelsea:
 					continue
 
 	def get_bigrams(self):
-		#FLAG
+		#
 		#Identify new bigrams or add to counts of existing ones, then sort bigram dictionary by highest 'seen' counts
 		for n in range(len(self.message_words)):
 			if n != len(self.message_words) - 1:
@@ -1153,25 +1153,43 @@ class chelsea:
 	def use_imagination(self):
 		#FLAG
 		#Experimental
-		#Expand on this further later on, not just for topics but others
-		if (len(self.current_topics) > 0 and random.randint(1, 6) == 1):
+		#Expand on this further later on
+		if (random.randint(1, 6) == 1):
 			bd_keys = list(self.bigram_dictionary.keys())
-			word = random.choice(self.current_topics)
+			word = ""
+			word_type = "topic"
+			if len(self.current_topics) > 0 and random.randint(1, 2) == 1:
+				word = random.choice(self.current_topics)
+			elif len(self.depth_words) > 0:
+				word = random.choice(self.depth_words)
+				word_type = "depth"
+			else:
+				return False
 			imagined_message = word
 			next = word
 			index = 0
+			forward_chain = random.choice([False, True])
 			for n in range(random.randint(6, 8)):
 				for k in range(index, len(bd_keys)):
-					m1 = re.search(re.compile(f"^{next} ([a-z'-]+)$"), bd_keys[k])
+					if forward_chain:
+						m1 = re.search(re.compile(f"^{next} ([a-z'-]+)$"), bd_keys[k])
+					else:
+						m1 = re.search(re.compile(f"^([a-z'-]+) {next}$"), bd_keys[k])
 					index = k
 					if m1:
-						imagined_message = imagined_message + " " + m1.group(1)
+						if forward_chain:
+							imagined_message = imagined_message + " " + m1.group(1)
+						else:
+							imagined_message = m1.group(1) + " " + imagined_message
 						next = m1.group(1)
 						break
 					else:
 						continue
 
-			self.Xchatlog.append(f"{self.bot_name} (Thinking): Bigram message for topic word '{word}' imagined.")
+			direction_type = "forward"
+			if not(forward_chain):
+				direction_type = "reverse"
+			self.Xchatlog.append(f"{self.bot_name} (Thinking): Bigram chain in {direction_type} for {word_type} word '{word}' imagined.")
 			self.CHELSEA_previous_response = self.botReply(imagined_message)
 			return True
 		return False
