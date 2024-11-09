@@ -102,7 +102,7 @@ Here is the algortihm for how CHELSEA deals with the user's message:
  give linked reponse if so
 
  26. If current topics > 0 and prng 1/6, search for chain of bigrams starting with randomly 
-  Chosen topic word
+ Chosen topic or depth word (Coin flip), chain either forward or reverse (Coin flip)
 
  27. If certain  or greater messages and words in dictionary, PRNG to
  determine if attempting topic match, or 'depth match' (Coin flip between two) 
