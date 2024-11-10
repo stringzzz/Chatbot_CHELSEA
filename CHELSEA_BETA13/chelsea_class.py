@@ -279,7 +279,8 @@ class chelsea:
 			data_file.write(f"Number of {emotion} words in dictionary: {len([word for word in self.dictionary.keys() if self.dictionary[word]["emotion"] == emotion])}\n")
 		data_file.write("\n")
 
-		data_file.write(f"Number of seen bigrams: {len(self.bigram_dictionary.keys())}\n\n")
+		data_file.write(f"Number of seen bigrams: {len(self.bigram_dictionary.keys())}\n")
+		data_file.write(f"Number of seen trigrams: {len(self.trigram_dictionary.keys())}\n\n")
 		
 		message_count = 0
 		for emotion in self.nEmotions:
@@ -1189,7 +1190,7 @@ class chelsea:
 		#Experimental
 		#Expand on this further later on
 		ngram_count = len(self.bigram_dictionary.keys()) + len(self.trigram_dictionary.keys())
-		if ((ngram_count > 1000 and ngram_count < 25,000 and random.randint(1, 7) == 1) or (ngram_count > 25,000 and random.randint(1, 5) == 1)):
+		if ((ngram_count > 1000 and ngram_count < 25,000 and random.randint(1, 9) == 1) or (ngram_count > 30,000 and random.randint(1, 7) == 1)):
 			if (len(self.trigram_dictionary.keys()) > 0 and random.randint(1, 3) == 1):
 				td_keys = list(self.trigram_dictionary.keys())
 				word = ""
