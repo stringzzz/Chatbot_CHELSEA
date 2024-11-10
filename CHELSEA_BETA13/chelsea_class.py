@@ -869,7 +869,7 @@ class chelsea:
 	def give_clarification(self):
 		#Check for question about previous message meaning
 		response_made = False
-		meaning_match = re.search(r"(what (do you|does that) mean|(can you|(do you|can you) care to) clarify|I('m| am) confused|I do( not|n't) (understand|get( it)?)( what you mean| what (that|this) means)?|why (do|did) you (say|think) (that|this))\?*$", self.user_message)
+		meaning_match = re.search(r"(what (do you|does that) mean|(can you|(do you|can you) care to) clarify|i('m| am) confused|i do( not|n't) (understand|get( it)?)( what you mean| what (that|this) means)?|why (do|did) you (say|think) (that|this))\?*$", self.user_message)
 		if (meaning_match):
 			previous_words = (re.sub(r"([^a-z0-9 '\-])", '', self.CHELSEA_previous_response)).split(" ")
 			random.shuffle(previous_words)
