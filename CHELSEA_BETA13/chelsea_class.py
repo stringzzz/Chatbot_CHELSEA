@@ -74,7 +74,7 @@
 # 7. Split message into words, remove punctuation
 # Determine mood of reply, add counts to CHELSEA mood as well
 #
-# 8. Mark unkown words in message
+# 8. Mark unknown words in message
 #
 # 9. Add to counts for each word, adjust the tied emotion to them accordingly
 #
@@ -561,12 +561,12 @@ class chelsea:
 				self.word_emotions = f"{self.word_emotions} unknown "
 		self.Xchatlog.append(f"Word emotions in previous reply: {self.word_emotions}")
 
-	def detect_unkown_words(self):
+	def detect_unknown_words(self):
 		#Mark unknown words in the emotion dictionary according to the overall mood of the user reply
 		if len(self.unknown_words) > 0:
 			self.Xchatlog.append(f"{self.bot_name} (Thinking): Unknown words detected: {self.unknown_words}")
 			for word in self.unknown_words:
-				self.dictionary[word] = {'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0, 'emotion': "", 'seen': 1, 'associated': {}}
+				self.dictionary[word] = {'happy': 0, 'angry': 0, 'sad': 0, 'afraid': 0, 'emotion': "", 'seen': 0, 'associated': {}}
 				self.dictionary[word]['emotion'] = self.reply_mood["mood"] 
 			self.Xchatlog.append(f"{self.bot_name} (Thinking): Learned unknown words as '{self.reply_mood["mood"]}' words.")
 			for word in self.unknown_words:
@@ -1510,7 +1510,7 @@ class chelsea:
 		self.detect_emotion_words()
 		self.getReplyMood()
 		self.addToMood()
-		self.detect_unkown_words()
+		self.detect_unknown_words()
 		self.add_to_word_counts()
 		self.mark_associated_words()
 		self.get_bigrams()
