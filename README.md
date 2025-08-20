@@ -5,11 +5,6 @@ This is Chatbot CHELSEA (CHat Emotion Logic SEnse Automator)
 08-20-2025
 This project was put on hold almost a year ago due to other things taking priority. Right now all of the code 'works', but the parts where CHELSEA learns how to ask new questions based on what CHELSEA learned previously and the other parts where she uses bigrams/trigrams are highly experimental and currently full of inconsistencies. I am not sure when I will pick up this project again, but I do plan on doing so at some point in the future.
 
-10-03-2024
-After spending quite some time away from this project I've decided to start working on CHELSEA again. I'm going much deeper into learning the Python language, so my plan is to first clean up CHELSEA a bit, then
-begin finding ways to add more features to make CHELSEA more intelligent and capable. I've dropped the animated avatar code for now, only because I would have to learn Blender to make a better one, and I
-don't really want to learn that just for that one purpose. 
-
 This is a video demonstration of talking to CHELSEA: https://www.youtube.com/watch?v=eCNmKNLkOZ8
 
 And here is a demonstration of CHELSEA talking to a copy of herself: https://www.youtube.com/watch?v=XYLXGI4dyTo
